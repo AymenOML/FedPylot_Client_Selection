@@ -1,0 +1,7002 @@
+[
+  {
+    "guid": "0",
+    "model": "CPH1909",
+    "screen_on_duration": 128048.0,
+    "battery_charged_on_duration": 114612.0,
+    "screen_unlock_duration": 210219.0
+  },
+  {
+    "guid": "1",
+    "model": "CPH1803",
+    "screen_on_duration": 167373.0,
+    "battery_charged_on_duration": 104197.0,
+    "screen_unlock_duration": 169566.0
+  },
+  {
+    "guid": "2",
+    "model": "SM-J410G",
+    "screen_on_duration": 27607.0,
+    "battery_charged_on_duration": 20545.0,
+    "screen_unlock_duration": 30607.0
+  },
+  {
+    "guid": "3",
+    "model": "SM-A105G",
+    "screen_on_duration": 161790.0,
+    "battery_charged_on_duration": 92820.0,
+    "screen_unlock_duration": 223277.0
+  },
+  {
+    "guid": "4",
+    "model": "Redmi 4A",
+    "screen_on_duration": 196128.0,
+    "battery_charged_on_duration": 183931.0,
+    "screen_unlock_duration": 193385.0
+  },
+  {
+    "guid": "5",
+    "model": "A11w",
+    "screen_on_duration": 61258.0,
+    "battery_charged_on_duration": 63251.0,
+    "screen_unlock_duration": 60205.0
+  },
+  {
+    "guid": "6",
+    "model": "A1603",
+    "screen_on_duration": 61106.0,
+    "battery_charged_on_duration": 16244.0,
+    "screen_unlock_duration": 199065.0
+  },
+  {
+    "guid": "7",
+    "model": "ASUS_X01BDA",
+    "screen_on_duration": 180127.0,
+    "battery_charged_on_duration": 130803.0,
+    "screen_unlock_duration": 168711.0
+  },
+  {
+    "guid": "8",
+    "model": "vivo 1807",
+    "screen_on_duration": 196958.0,
+    "battery_charged_on_duration": 110837.0,
+    "screen_unlock_duration": 182868.0
+  },
+  {
+    "guid": "9",
+    "model": "SM-G610F",
+    "screen_on_duration": 75284.0,
+    "battery_charged_on_duration": 13342.0,
+    "screen_unlock_duration": 75767.0
+  },
+  {
+    "guid": "10",
+    "model": "LG-X240",
+    "screen_on_duration": 50208.0,
+    "battery_charged_on_duration": 13952.0,
+    "screen_unlock_duration": 59160.0
+  },
+  {
+    "guid": "11",
+    "model": "SM-J250F",
+    "screen_on_duration": 302234.0,
+    "battery_charged_on_duration": 78042.0,
+    "screen_unlock_duration": 285071.0
+  },
+  {
+    "guid": "12",
+    "model": "MITO_A69",
+    "screen_on_duration": 19400.0,
+    "battery_charged_on_duration": 50101.0,
+    "screen_unlock_duration": 52268.0
+  },
+  {
+    "guid": "13",
+    "model": "ANE-LX3",
+    "screen_on_duration": 108358.0,
+    "battery_charged_on_duration": 20263.0,
+    "screen_unlock_duration": 100017.0
+  },
+  {
+    "guid": "14",
+    "model": "SM-G610F",
+    "screen_on_duration": 197348.0,
+    "battery_charged_on_duration": 29694.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "15",
+    "model": "SM-J400M",
+    "screen_on_duration": 159689.0,
+    "battery_charged_on_duration": 98896.0,
+    "screen_unlock_duration": 156234.0
+  },
+  {
+    "guid": "16",
+    "model": "Redmi 6",
+    "screen_on_duration": 93675.0,
+    "battery_charged_on_duration": 43694.0,
+    "screen_unlock_duration": 48449.0
+  },
+  {
+    "guid": "17",
+    "model": "SM-J260M",
+    "screen_on_duration": 100757.0,
+    "battery_charged_on_duration": 201353.0,
+    "screen_unlock_duration": 128122.0
+  },
+  {
+    "guid": "18",
+    "model": "vivo 1727",
+    "screen_on_duration": 243223.0,
+    "battery_charged_on_duration": 169290.0,
+    "screen_unlock_duration": 234695.0
+  },
+  {
+    "guid": "19",
+    "model": "CPH1803",
+    "screen_on_duration": 189852.0,
+    "battery_charged_on_duration": 143258.0,
+    "screen_unlock_duration": 364257.0
+  },
+  {
+    "guid": "20",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 86700.0,
+    "battery_charged_on_duration": 26646.0,
+    "screen_unlock_duration": 69425.0
+  },
+  {
+    "guid": "21",
+    "model": "SM-J730G",
+    "screen_on_duration": 271867.0,
+    "battery_charged_on_duration": 131753.0,
+    "screen_unlock_duration": 302214.0
+  },
+  {
+    "guid": "22",
+    "model": "vivo 1724",
+    "screen_on_duration": 68446.0,
+    "battery_charged_on_duration": 65739.0,
+    "screen_unlock_duration": 68169.0
+  },
+  {
+    "guid": "23",
+    "model": "CPH1909",
+    "screen_on_duration": 257610.0,
+    "battery_charged_on_duration": 107047.0,
+    "screen_unlock_duration": 302948.0
+  },
+  {
+    "guid": "24",
+    "model": "vivo 1606",
+    "screen_on_duration": 61232.0,
+    "battery_charged_on_duration": 169429.0,
+    "screen_unlock_duration": 57214.0
+  },
+  {
+    "guid": "25",
+    "model": "vivo 1807",
+    "screen_on_duration": 155598.0,
+    "battery_charged_on_duration": 478450.0,
+    "screen_unlock_duration": 152411.0
+  },
+  {
+    "guid": "26",
+    "model": "CPH1909",
+    "screen_on_duration": 216860.0,
+    "battery_charged_on_duration": 3218.0,
+    "screen_unlock_duration": 232212.0
+  },
+  {
+    "guid": "27",
+    "model": "SM-A105G",
+    "screen_on_duration": 31613.0,
+    "battery_charged_on_duration": 23110.0,
+    "screen_unlock_duration": 28318.0
+  },
+  {
+    "guid": "28",
+    "model": "Moto G Play",
+    "screen_on_duration": 26325.0,
+    "battery_charged_on_duration": 5614.0,
+    "screen_unlock_duration": 28206.0
+  },
+  {
+    "guid": "29",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 65008.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 63650.0
+  },
+  {
+    "guid": "30",
+    "model": "CPH1909",
+    "screen_on_duration": 168775.0,
+    "battery_charged_on_duration": 59410.0,
+    "screen_unlock_duration": 215802.0
+  },
+  {
+    "guid": "31",
+    "model": "CPH1909",
+    "screen_on_duration": 164208.0,
+    "battery_charged_on_duration": 48287.0,
+    "screen_unlock_duration": 305693.0
+  },
+  {
+    "guid": "32",
+    "model": "CPH1803",
+    "screen_on_duration": 116923.0,
+    "battery_charged_on_duration": 71956.0,
+    "screen_unlock_duration": 302482.0
+  },
+  {
+    "guid": "33",
+    "model": "SM-A205F",
+    "screen_on_duration": 231564.0,
+    "battery_charged_on_duration": 56867.0,
+    "screen_unlock_duration": 264377.0
+  },
+  {
+    "guid": "34",
+    "model": "SM-J410G",
+    "screen_on_duration": 210762.0,
+    "battery_charged_on_duration": 67443.0,
+    "screen_unlock_duration": 157483.0
+  },
+  {
+    "guid": "35",
+    "model": "AUM-AL20",
+    "screen_on_duration": 229668.0,
+    "battery_charged_on_duration": 179165.0,
+    "screen_unlock_duration": 407181.0
+  },
+  {
+    "guid": "36",
+    "model": "vivo 1814",
+    "screen_on_duration": 205303.0,
+    "battery_charged_on_duration": 16225.0,
+    "screen_unlock_duration": 228431.0
+  },
+  {
+    "guid": "37",
+    "model": "i5C",
+    "screen_on_duration": 74991.0,
+    "battery_charged_on_duration": 170214.0,
+    "screen_unlock_duration": 616.0
+  },
+  {
+    "guid": "38",
+    "model": "vivo 1606",
+    "screen_on_duration": 361170.0,
+    "battery_charged_on_duration": 664048.0,
+    "screen_unlock_duration": 297429.0
+  },
+  {
+    "guid": "39",
+    "model": "SM-J250M",
+    "screen_on_duration": 80981.0,
+    "battery_charged_on_duration": 47766.0,
+    "screen_unlock_duration": 79361.0
+  },
+  {
+    "guid": "40",
+    "model": "ASUS_A001D",
+    "screen_on_duration": 175290.0,
+    "battery_charged_on_duration": 107861.0,
+    "screen_unlock_duration": 167865.0
+  },
+  {
+    "guid": "41",
+    "model": "SM-J600GT",
+    "screen_on_duration": 410518.0,
+    "battery_charged_on_duration": 33509.0,
+    "screen_unlock_duration": 246403.0
+  },
+  {
+    "guid": "42",
+    "model": "vivo 1724",
+    "screen_on_duration": 104244.0,
+    "battery_charged_on_duration": 77102.0,
+    "screen_unlock_duration": 84614.0
+  },
+  {
+    "guid": "43",
+    "model": "SM-J810M",
+    "screen_on_duration": 129449.0,
+    "battery_charged_on_duration": 44533.0,
+    "screen_unlock_duration": 88262.0
+  },
+  {
+    "guid": "44",
+    "model": "vivo 1609",
+    "screen_on_duration": 178100.0,
+    "battery_charged_on_duration": 103065.0,
+    "screen_unlock_duration": 266163.0
+  },
+  {
+    "guid": "45",
+    "model": "Redmi 6A",
+    "screen_on_duration": 201162.0,
+    "battery_charged_on_duration": 124028.0,
+    "screen_unlock_duration": 179766.0
+  },
+  {
+    "guid": "46",
+    "model": "LM-X210",
+    "screen_on_duration": 84628.0,
+    "battery_charged_on_duration": 308191.0,
+    "screen_unlock_duration": 76881.0
+  },
+  {
+    "guid": "47",
+    "model": "Mi A1",
+    "screen_on_duration": 43795.0,
+    "battery_charged_on_duration": 47946.0,
+    "screen_unlock_duration": 73760.0
+  },
+  {
+    "guid": "48",
+    "model": "EVR-L29",
+    "screen_on_duration": 162230.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 163812.0
+  },
+  {
+    "guid": "49",
+    "model": "vivo 1820",
+    "screen_on_duration": 112741.0,
+    "battery_charged_on_duration": 68490.0,
+    "screen_unlock_duration": 94089.0
+  },
+  {
+    "guid": "50",
+    "model": "SM-A105M",
+    "screen_on_duration": 525738.0,
+    "battery_charged_on_duration": 71176.0,
+    "screen_unlock_duration": 274264.0
+  },
+  {
+    "guid": "51",
+    "model": "POT-LX3",
+    "screen_on_duration": 204774.0,
+    "battery_charged_on_duration": 75339.0,
+    "screen_unlock_duration": 198469.0
+  },
+  {
+    "guid": "52",
+    "model": "SM-G532M",
+    "screen_on_duration": 274040.0,
+    "battery_charged_on_duration": 53058.0,
+    "screen_unlock_duration": 101888.0
+  },
+  {
+    "guid": "53",
+    "model": "vivo 1807",
+    "screen_on_duration": 88512.0,
+    "battery_charged_on_duration": 66331.0,
+    "screen_unlock_duration": 54610.0
+  },
+  {
+    "guid": "54",
+    "model": "CPH1803",
+    "screen_on_duration": 186545.0,
+    "battery_charged_on_duration": 128503.0,
+    "screen_unlock_duration": 181097.0
+  },
+  {
+    "guid": "55",
+    "model": "M40",
+    "screen_on_duration": 25248.0,
+    "battery_charged_on_duration": 60512.0,
+    "screen_unlock_duration": 11126.0
+  },
+  {
+    "guid": "56",
+    "model": "Moto G (4)",
+    "screen_on_duration": 61269.0,
+    "battery_charged_on_duration": 112298.0,
+    "screen_unlock_duration": 60649.0
+  },
+  {
+    "guid": "57",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 147567.0,
+    "battery_charged_on_duration": 136089.0,
+    "screen_unlock_duration": 52653.0
+  },
+  {
+    "guid": "58",
+    "model": "CPH1819",
+    "screen_on_duration": 35758.0,
+    "battery_charged_on_duration": 30679.0,
+    "screen_unlock_duration": 46232.0
+  },
+  {
+    "guid": "59",
+    "model": "SM-J415F",
+    "screen_on_duration": 253093.0,
+    "battery_charged_on_duration": 46096.0,
+    "screen_unlock_duration": 126650.0
+  },
+  {
+    "guid": "60",
+    "model": "moto e5 play",
+    "screen_on_duration": 224436.0,
+    "battery_charged_on_duration": 44377.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "61",
+    "model": "Redmi Note 3",
+    "screen_on_duration": 145568.0,
+    "battery_charged_on_duration": 138344.0,
+    "screen_unlock_duration": 138598.0
+  },
+  {
+    "guid": "62",
+    "model": "RMX1941",
+    "screen_on_duration": 280344.0,
+    "battery_charged_on_duration": 55311.0,
+    "screen_unlock_duration": 102224.0
+  },
+  {
+    "guid": "63",
+    "model": "Redmi Go",
+    "screen_on_duration": 75082.0,
+    "battery_charged_on_duration": 40804.0,
+    "screen_unlock_duration": 75388.0
+  },
+  {
+    "guid": "64",
+    "model": "Z520",
+    "screen_on_duration": 319166.0,
+    "battery_charged_on_duration": 296367.0,
+    "screen_unlock_duration": 304139.0
+  },
+  {
+    "guid": "65",
+    "model": "CPH1803",
+    "screen_on_duration": 314259.0,
+    "battery_charged_on_duration": 99753.0,
+    "screen_unlock_duration": 395477.0
+  },
+  {
+    "guid": "66",
+    "model": "Mi A2",
+    "screen_on_duration": 14639.0,
+    "battery_charged_on_duration": 7353.0,
+    "screen_unlock_duration": 14298.0
+  },
+  {
+    "guid": "67",
+    "model": "SM-J111M",
+    "screen_on_duration": 102605.0,
+    "battery_charged_on_duration": 57048.0,
+    "screen_unlock_duration": 49580.0
+  },
+  {
+    "guid": "68",
+    "model": "SM-G532G",
+    "screen_on_duration": 24680.0,
+    "battery_charged_on_duration": 11323.0,
+    "screen_unlock_duration": 34834.0
+  },
+  {
+    "guid": "69",
+    "model": "vivo 1807",
+    "screen_on_duration": 248286.0,
+    "battery_charged_on_duration": 334965.0,
+    "screen_unlock_duration": 232321.0
+  },
+  {
+    "guid": "70",
+    "model": "RMX1911",
+    "screen_on_duration": 39220.0,
+    "battery_charged_on_duration": 27052.0,
+    "screen_unlock_duration": 39976.0
+  },
+  {
+    "guid": "71",
+    "model": "Mi A1",
+    "screen_on_duration": 145558.0,
+    "battery_charged_on_duration": 65931.0,
+    "screen_unlock_duration": 142222.0
+  },
+  {
+    "guid": "72",
+    "model": "RMX1941",
+    "screen_on_duration": 36101.0,
+    "battery_charged_on_duration": 30210.0,
+    "screen_unlock_duration": 31704.0
+  },
+  {
+    "guid": "73",
+    "model": "SM-A920F",
+    "screen_on_duration": 171040.0,
+    "battery_charged_on_duration": 186426.0,
+    "screen_unlock_duration": 276064.0
+  },
+  {
+    "guid": "74",
+    "model": "WAS-LX3",
+    "screen_on_duration": 137943.0,
+    "battery_charged_on_duration": 578909.0,
+    "screen_unlock_duration": 82997.0
+  },
+  {
+    "guid": "75",
+    "model": "RMX1941",
+    "screen_on_duration": 278104.0,
+    "battery_charged_on_duration": 20614.0,
+    "screen_unlock_duration": 195077.0
+  },
+  {
+    "guid": "76",
+    "model": "CPH1909",
+    "screen_on_duration": 346798.0,
+    "battery_charged_on_duration": 181118.0,
+    "screen_unlock_duration": 347605.0
+  },
+  {
+    "guid": "77",
+    "model": "DUB-LX3",
+    "screen_on_duration": 104138.0,
+    "battery_charged_on_duration": 12904.0,
+    "screen_unlock_duration": 88630.0
+  },
+  {
+    "guid": "78",
+    "model": "CPH1933",
+    "screen_on_duration": 108689.0,
+    "battery_charged_on_duration": 40411.0,
+    "screen_unlock_duration": 398306.0
+  },
+  {
+    "guid": "79",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 193117.0,
+    "battery_charged_on_duration": 217736.0,
+    "screen_unlock_duration": 191573.0
+  },
+  {
+    "guid": "80",
+    "model": "CPH1931",
+    "screen_on_duration": 211523.0,
+    "battery_charged_on_duration": 172629.0,
+    "screen_unlock_duration": 196950.0
+  },
+  {
+    "guid": "81",
+    "model": "SM-A305F",
+    "screen_on_duration": 182879.0,
+    "battery_charged_on_duration": 87614.0,
+    "screen_unlock_duration": 312484.0
+  },
+  {
+    "guid": "82",
+    "model": "LG-X230",
+    "screen_on_duration": 46937.0,
+    "battery_charged_on_duration": 21343.0,
+    "screen_unlock_duration": 41309.0
+  },
+  {
+    "guid": "83",
+    "model": "Redmi S2",
+    "screen_on_duration": 268494.0,
+    "battery_charged_on_duration": 80383.0,
+    "screen_unlock_duration": 232292.0
+  },
+  {
+    "guid": "84",
+    "model": "SM-M205G",
+    "screen_on_duration": 91970.0,
+    "battery_charged_on_duration": 13509.0,
+    "screen_unlock_duration": 104268.0
+  },
+  {
+    "guid": "85",
+    "model": "PRA-LX3",
+    "screen_on_duration": 101732.0,
+    "battery_charged_on_duration": 73128.0,
+    "screen_unlock_duration": 249166.0
+  },
+  {
+    "guid": "86",
+    "model": "POT-LX3",
+    "screen_on_duration": 108522.0,
+    "battery_charged_on_duration": 34675.0,
+    "screen_unlock_duration": 91792.0
+  },
+  {
+    "guid": "87",
+    "model": "SM-J400M",
+    "screen_on_duration": 22508.0,
+    "battery_charged_on_duration": 18571.0,
+    "screen_unlock_duration": 22348.0
+  },
+  {
+    "guid": "88",
+    "model": "moto g(8) play",
+    "screen_on_duration": 54030.0,
+    "battery_charged_on_duration": 9263.0,
+    "screen_unlock_duration": 33251.0
+  },
+  {
+    "guid": "89",
+    "model": "vivo 1820",
+    "screen_on_duration": 316500.0,
+    "battery_charged_on_duration": 59301.0,
+    "screen_unlock_duration": 303025.0
+  },
+  {
+    "guid": "90",
+    "model": "vivo 1904",
+    "screen_on_duration": 98138.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 27296.0
+  },
+  {
+    "guid": "91",
+    "model": "moto g(7)",
+    "screen_on_duration": 1535.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 2588.0
+  },
+  {
+    "guid": "92",
+    "model": "CPH1923",
+    "screen_on_duration": 159352.0,
+    "battery_charged_on_duration": 95976.0,
+    "screen_unlock_duration": 158296.0
+  },
+  {
+    "guid": "93",
+    "model": "SM-J600G",
+    "screen_on_duration": 37185.0,
+    "battery_charged_on_duration": 9241.0,
+    "screen_unlock_duration": 36745.0
+  },
+  {
+    "guid": "94",
+    "model": "SM-A105G",
+    "screen_on_duration": 178215.0,
+    "battery_charged_on_duration": 74764.0,
+    "screen_unlock_duration": 148860.0
+  },
+  {
+    "guid": "95",
+    "model": "LG-K220",
+    "screen_on_duration": 166347.0,
+    "battery_charged_on_duration": 28295.0,
+    "screen_unlock_duration": 173038.0
+  },
+  {
+    "guid": "96",
+    "model": "SM-T116BU",
+    "screen_on_duration": 255066.0,
+    "battery_charged_on_duration": 96948.0,
+    "screen_unlock_duration": 169105.0
+  },
+  {
+    "guid": "97",
+    "model": "M7-3G-PLUS",
+    "screen_on_duration": 30191.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 29113.0
+  },
+  {
+    "guid": "98",
+    "model": "Letv X500",
+    "screen_on_duration": 300667.0,
+    "battery_charged_on_duration": 223259.0,
+    "screen_unlock_duration": 313733.0
+  },
+  {
+    "guid": "99",
+    "model": "CPH1969",
+    "screen_on_duration": 178753.0,
+    "battery_charged_on_duration": 19453.0,
+    "screen_unlock_duration": 230774.0
+  },
+  {
+    "guid": "100",
+    "model": "CPH1803",
+    "screen_on_duration": 66564.0,
+    "battery_charged_on_duration": 24566.0,
+    "screen_unlock_duration": 65408.0
+  },
+  {
+    "guid": "101",
+    "model": "SM-J701M",
+    "screen_on_duration": 188830.0,
+    "battery_charged_on_duration": 46054.0,
+    "screen_unlock_duration": 89988.0
+  },
+  {
+    "guid": "102",
+    "model": "HUAWEI Y541-U02",
+    "screen_on_duration": 59577.0,
+    "battery_charged_on_duration": 86933.0,
+    "screen_unlock_duration": 317634.0
+  },
+  {
+    "guid": "103",
+    "model": "CPH1823",
+    "screen_on_duration": 100842.0,
+    "battery_charged_on_duration": 87258.0,
+    "screen_unlock_duration": 82884.0
+  },
+  {
+    "guid": "104",
+    "model": "vivo 1724",
+    "screen_on_duration": 309404.0,
+    "battery_charged_on_duration": 97677.0,
+    "screen_unlock_duration": 245382.0
+  },
+  {
+    "guid": "105",
+    "model": "vivo 1901",
+    "screen_on_duration": 18585.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 17047.0
+  },
+  {
+    "guid": "106",
+    "model": "vivo 1727",
+    "screen_on_duration": 161648.0,
+    "battery_charged_on_duration": 69280.0,
+    "screen_unlock_duration": 136200.0
+  },
+  {
+    "guid": "107",
+    "model": "CPH1909",
+    "screen_on_duration": 334442.0,
+    "battery_charged_on_duration": 4476.0,
+    "screen_unlock_duration": 63514.0
+  },
+  {
+    "guid": "108",
+    "model": "vivo 1904",
+    "screen_on_duration": 112234.0,
+    "battery_charged_on_duration": 17256.0,
+    "screen_unlock_duration": 107249.0
+  },
+  {
+    "guid": "109",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 89921.0,
+    "battery_charged_on_duration": 26351.0,
+    "screen_unlock_duration": 80270.0
+  },
+  {
+    "guid": "110",
+    "model": "CPH1923",
+    "screen_on_duration": 204107.0,
+    "battery_charged_on_duration": 108236.0,
+    "screen_unlock_duration": 165615.0
+  },
+  {
+    "guid": "111",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 60952.0,
+    "battery_charged_on_duration": 40877.0,
+    "screen_unlock_duration": 57153.0
+  },
+  {
+    "guid": "112",
+    "model": "CPH1909",
+    "screen_on_duration": 66245.0,
+    "battery_charged_on_duration": 30776.0,
+    "screen_unlock_duration": 69054.0
+  },
+  {
+    "guid": "113",
+    "model": "Redmi 5",
+    "screen_on_duration": 291658.0,
+    "battery_charged_on_duration": 120353.0,
+    "screen_unlock_duration": 275646.0
+  },
+  {
+    "guid": "114",
+    "model": "SM-A300M",
+    "screen_on_duration": 93852.0,
+    "battery_charged_on_duration": 21047.0,
+    "screen_unlock_duration": 87012.0
+  },
+  {
+    "guid": "115",
+    "model": "CPH1911",
+    "screen_on_duration": 245655.0,
+    "battery_charged_on_duration": 24314.0,
+    "screen_unlock_duration": 231406.0
+  },
+  {
+    "guid": "116",
+    "model": "SM-J701M",
+    "screen_on_duration": 101317.0,
+    "battery_charged_on_duration": 121023.0,
+    "screen_unlock_duration": 93895.0
+  },
+  {
+    "guid": "117",
+    "model": "Redmi 4X",
+    "screen_on_duration": 222949.0,
+    "battery_charged_on_duration": 189708.0,
+    "screen_unlock_duration": 191816.0
+  },
+  {
+    "guid": "118",
+    "model": "CPH1923",
+    "screen_on_duration": 212194.0,
+    "battery_charged_on_duration": 35292.0,
+    "screen_unlock_duration": 175557.0
+  },
+  {
+    "guid": "119",
+    "model": "SM-J250M",
+    "screen_on_duration": 117119.0,
+    "battery_charged_on_duration": 76305.0,
+    "screen_unlock_duration": 121742.0
+  },
+  {
+    "guid": "120",
+    "model": "vivo 1904",
+    "screen_on_duration": 116825.0,
+    "battery_charged_on_duration": 125203.0,
+    "screen_unlock_duration": 110699.0
+  },
+  {
+    "guid": "121",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 19297.0,
+    "battery_charged_on_duration": 14500.0,
+    "screen_unlock_duration": 17956.0
+  },
+  {
+    "guid": "122",
+    "model": "Moto G (5S) Plus",
+    "screen_on_duration": 325150.0,
+    "battery_charged_on_duration": 239703.0,
+    "screen_unlock_duration": 372386.0
+  },
+  {
+    "guid": "123",
+    "model": "SM-G532G",
+    "screen_on_duration": 26650.0,
+    "battery_charged_on_duration": 20062.0,
+    "screen_unlock_duration": 50296.0
+  },
+  {
+    "guid": "124",
+    "model": "ASUS_X00PD",
+    "screen_on_duration": 111227.0,
+    "battery_charged_on_duration": 74702.0,
+    "screen_unlock_duration": 110717.0
+  },
+  {
+    "guid": "125",
+    "model": "vivo 1814",
+    "screen_on_duration": 181626.0,
+    "battery_charged_on_duration": 44549.0,
+    "screen_unlock_duration": 174538.0
+  },
+  {
+    "guid": "126",
+    "model": "Redmi 8A",
+    "screen_on_duration": 25758.0,
+    "battery_charged_on_duration": 1669.0,
+    "screen_unlock_duration": 2092.0
+  },
+  {
+    "guid": "127",
+    "model": "CPH1931",
+    "screen_on_duration": 135214.0,
+    "battery_charged_on_duration": 84872.0,
+    "screen_unlock_duration": 151807.0
+  },
+  {
+    "guid": "128",
+    "model": "vivo 1808",
+    "screen_on_duration": 26876.0,
+    "battery_charged_on_duration": 18589.0,
+    "screen_unlock_duration": 32198.0
+  },
+  {
+    "guid": "129",
+    "model": "9008A",
+    "screen_on_duration": 272310.0,
+    "battery_charged_on_duration": 74010.0,
+    "screen_unlock_duration": 257945.0
+  },
+  {
+    "guid": "130",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 172026.0,
+    "battery_charged_on_duration": 111602.0,
+    "screen_unlock_duration": 153392.0
+  },
+  {
+    "guid": "131",
+    "model": "JKM-LX3",
+    "screen_on_duration": 153114.0,
+    "battery_charged_on_duration": 161677.0,
+    "screen_unlock_duration": 154431.0
+  },
+  {
+    "guid": "132",
+    "model": "CPH1803",
+    "screen_on_duration": 268261.0,
+    "battery_charged_on_duration": 70712.0,
+    "screen_unlock_duration": 103293.0
+  },
+  {
+    "guid": "133",
+    "model": "SM-M205G",
+    "screen_on_duration": 201875.0,
+    "battery_charged_on_duration": 103785.0,
+    "screen_unlock_duration": 138130.0
+  },
+  {
+    "guid": "134",
+    "model": "SM-G800H",
+    "screen_on_duration": 211689.0,
+    "battery_charged_on_duration": 8542.0,
+    "screen_unlock_duration": 293551.0
+  },
+  {
+    "guid": "135",
+    "model": "vivo Y51L",
+    "screen_on_duration": 112065.0,
+    "battery_charged_on_duration": 85098.0,
+    "screen_unlock_duration": 135521.0
+  },
+  {
+    "guid": "136",
+    "model": "vivo 1727",
+    "screen_on_duration": 84066.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 78933.0
+  },
+  {
+    "guid": "137",
+    "model": "Infinix X653C",
+    "screen_on_duration": 156767.0,
+    "battery_charged_on_duration": 174037.0,
+    "screen_unlock_duration": 183245.0
+  },
+  {
+    "guid": "138",
+    "model": "SM-J610G",
+    "screen_on_duration": 167879.0,
+    "battery_charged_on_duration": 150668.0,
+    "screen_unlock_duration": 165625.0
+  },
+  {
+    "guid": "139",
+    "model": "SM-G610F",
+    "screen_on_duration": 198159.0,
+    "battery_charged_on_duration": 37540.0,
+    "screen_unlock_duration": 254913.0
+  },
+  {
+    "guid": "140",
+    "model": "SM-A307G",
+    "screen_on_duration": 358456.0,
+    "battery_charged_on_duration": 28272.0,
+    "screen_unlock_duration": 357789.0
+  },
+  {
+    "guid": "141",
+    "model": "LM-X410.F",
+    "screen_on_duration": 98265.0,
+    "battery_charged_on_duration": 67035.0,
+    "screen_unlock_duration": 108390.0
+  },
+  {
+    "guid": "142",
+    "model": "motorola one vision",
+    "screen_on_duration": 81145.0,
+    "battery_charged_on_duration": 40040.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "143",
+    "model": "CPH1917",
+    "screen_on_duration": 110282.0,
+    "battery_charged_on_duration": 45507.0,
+    "screen_unlock_duration": 85480.0
+  },
+  {
+    "guid": "144",
+    "model": "vivo 1820",
+    "screen_on_duration": 89962.0,
+    "battery_charged_on_duration": 8394.0,
+    "screen_unlock_duration": 86575.0
+  },
+  {
+    "guid": "145",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 168956.0,
+    "battery_charged_on_duration": 129212.0,
+    "screen_unlock_duration": 68467.0
+  },
+  {
+    "guid": "146",
+    "model": "SM-G610M",
+    "screen_on_duration": 175325.0,
+    "battery_charged_on_duration": 491764.0,
+    "screen_unlock_duration": 182317.0
+  },
+  {
+    "guid": "147",
+    "model": "SM-A105G",
+    "screen_on_duration": 329230.0,
+    "battery_charged_on_duration": 136972.0,
+    "screen_unlock_duration": 376087.0
+  },
+  {
+    "guid": "148",
+    "model": "Moto G (4)",
+    "screen_on_duration": 245335.0,
+    "battery_charged_on_duration": 142587.0,
+    "screen_unlock_duration": 247428.0
+  },
+  {
+    "guid": "149",
+    "model": "DUB-LX3",
+    "screen_on_duration": 164212.0,
+    "battery_charged_on_duration": 41540.0,
+    "screen_unlock_duration": 97300.0
+  },
+  {
+    "guid": "150",
+    "model": "SM-J530Y",
+    "screen_on_duration": 116746.0,
+    "battery_charged_on_duration": 71180.0,
+    "screen_unlock_duration": 246796.0
+  },
+  {
+    "guid": "151",
+    "model": "CPH1803",
+    "screen_on_duration": 180180.0,
+    "battery_charged_on_duration": 24623.0,
+    "screen_unlock_duration": 49534.0
+  },
+  {
+    "guid": "152",
+    "model": "SM-J260M",
+    "screen_on_duration": 341993.0,
+    "battery_charged_on_duration": 112769.0,
+    "screen_unlock_duration": 332906.0
+  },
+  {
+    "guid": "153",
+    "model": "SM-A205F",
+    "screen_on_duration": 449933.0,
+    "battery_charged_on_duration": 28184.0,
+    "screen_unlock_duration": 483247.0
+  },
+  {
+    "guid": "154",
+    "model": "Redmi 5A",
+    "screen_on_duration": 21585.0,
+    "battery_charged_on_duration": 15512.0,
+    "screen_unlock_duration": 20722.0
+  },
+  {
+    "guid": "155",
+    "model": "SM-A805F",
+    "screen_on_duration": 179193.0,
+    "battery_charged_on_duration": 57791.0,
+    "screen_unlock_duration": 203221.0
+  },
+  {
+    "guid": "156",
+    "model": "Redmi 5",
+    "screen_on_duration": 134864.0,
+    "battery_charged_on_duration": 5396.0,
+    "screen_unlock_duration": 138322.0
+  },
+  {
+    "guid": "157",
+    "model": "RMX1821",
+    "screen_on_duration": 173831.0,
+    "battery_charged_on_duration": 11308.0,
+    "screen_unlock_duration": 164906.0
+  },
+  {
+    "guid": "158",
+    "model": "SM-A750GN",
+    "screen_on_duration": 171886.0,
+    "battery_charged_on_duration": 62497.0,
+    "screen_unlock_duration": 109294.0
+  },
+  {
+    "guid": "159",
+    "model": "vivo 1816",
+    "screen_on_duration": 270731.0,
+    "battery_charged_on_duration": 38572.0,
+    "screen_unlock_duration": 266672.0
+  },
+  {
+    "guid": "160",
+    "model": "SM-J500M",
+    "screen_on_duration": 147564.0,
+    "battery_charged_on_duration": 58240.0,
+    "screen_unlock_duration": 227955.0
+  },
+  {
+    "guid": "161",
+    "model": "MI PLAY",
+    "screen_on_duration": 266485.0,
+    "battery_charged_on_duration": 192767.0,
+    "screen_unlock_duration": 205470.0
+  },
+  {
+    "guid": "162",
+    "model": "Redmi 7",
+    "screen_on_duration": 169423.0,
+    "battery_charged_on_duration": 90961.0,
+    "screen_unlock_duration": 158993.0
+  },
+  {
+    "guid": "163",
+    "model": "vivo 1901",
+    "screen_on_duration": 197771.0,
+    "battery_charged_on_duration": 54278.0,
+    "screen_unlock_duration": 191437.0
+  },
+  {
+    "guid": "164",
+    "model": "CPH1909",
+    "screen_on_duration": 64188.0,
+    "battery_charged_on_duration": 25528.0,
+    "screen_unlock_duration": 76175.0
+  },
+  {
+    "guid": "165",
+    "model": "RMX1821",
+    "screen_on_duration": 29273.0,
+    "battery_charged_on_duration": 14404.0,
+    "screen_unlock_duration": 29099.0
+  },
+  {
+    "guid": "166",
+    "model": "vivo 1806",
+    "screen_on_duration": 212237.0,
+    "battery_charged_on_duration": 73853.0,
+    "screen_unlock_duration": 206265.0
+  },
+  {
+    "guid": "167",
+    "model": "Redmi 5A",
+    "screen_on_duration": 22151.0,
+    "battery_charged_on_duration": 23363.0,
+    "screen_unlock_duration": 16932.0
+  },
+  {
+    "guid": "168",
+    "model": "Redmi 4A",
+    "screen_on_duration": 41798.0,
+    "battery_charged_on_duration": 63954.0,
+    "screen_unlock_duration": 39850.0
+  },
+  {
+    "guid": "169",
+    "model": "LUNA V57",
+    "screen_on_duration": 178782.0,
+    "battery_charged_on_duration": 113433.0,
+    "screen_unlock_duration": 164697.0
+  },
+  {
+    "guid": "170",
+    "model": "CPH1803",
+    "screen_on_duration": 49718.0,
+    "battery_charged_on_duration": 28732.0,
+    "screen_unlock_duration": 62558.0
+  },
+  {
+    "guid": "171",
+    "model": "Redmi 6A",
+    "screen_on_duration": 267115.0,
+    "battery_charged_on_duration": 178368.0,
+    "screen_unlock_duration": 242177.0
+  },
+  {
+    "guid": "172",
+    "model": "SM-J200M",
+    "screen_on_duration": 498527.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 495593.0
+  },
+  {
+    "guid": "173",
+    "model": "HM NOTE 1S",
+    "screen_on_duration": 57898.0,
+    "battery_charged_on_duration": 88005.0,
+    "screen_unlock_duration": 65517.0
+  },
+  {
+    "guid": "174",
+    "model": "CPH1989",
+    "screen_on_duration": 19875.0,
+    "battery_charged_on_duration": 13685.0,
+    "screen_unlock_duration": 17547.0
+  },
+  {
+    "guid": "175",
+    "model": "CK3-M1",
+    "screen_on_duration": 151773.0,
+    "battery_charged_on_duration": 274358.0,
+    "screen_unlock_duration": 199277.0
+  },
+  {
+    "guid": "176",
+    "model": "SM-J111M",
+    "screen_on_duration": 80956.0,
+    "battery_charged_on_duration": 117603.0,
+    "screen_unlock_duration": 256227.0
+  },
+  {
+    "guid": "177",
+    "model": "CPH1909",
+    "screen_on_duration": 91372.0,
+    "battery_charged_on_duration": 26325.0,
+    "screen_unlock_duration": 119967.0
+  },
+  {
+    "guid": "178",
+    "model": "CPH1909",
+    "screen_on_duration": 83772.0,
+    "battery_charged_on_duration": 33730.0,
+    "screen_unlock_duration": 110232.0
+  },
+  {
+    "guid": "179",
+    "model": "moto e(6) plus",
+    "screen_on_duration": 99862.0,
+    "battery_charged_on_duration": 20944.0,
+    "screen_unlock_duration": 99673.0
+  },
+  {
+    "guid": "180",
+    "model": "CPH1937",
+    "screen_on_duration": 30611.0,
+    "battery_charged_on_duration": 29472.0,
+    "screen_unlock_duration": 38299.0
+  },
+  {
+    "guid": "181",
+    "model": "Redmi Note 5A Prime",
+    "screen_on_duration": 88931.0,
+    "battery_charged_on_duration": 126885.0,
+    "screen_unlock_duration": 74652.0
+  },
+  {
+    "guid": "182",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 205346.0,
+    "battery_charged_on_duration": 65398.0,
+    "screen_unlock_duration": 174580.0
+  },
+  {
+    "guid": "183",
+    "model": "SM-A105G",
+    "screen_on_duration": 251747.0,
+    "battery_charged_on_duration": 102232.0,
+    "screen_unlock_duration": 237086.0
+  },
+  {
+    "guid": "184",
+    "model": "vivo 1904",
+    "screen_on_duration": 73264.0,
+    "battery_charged_on_duration": 23500.0,
+    "screen_unlock_duration": 69587.0
+  },
+  {
+    "guid": "185",
+    "model": "SM-A207M",
+    "screen_on_duration": 187544.0,
+    "battery_charged_on_duration": 73736.0,
+    "screen_unlock_duration": 202585.0
+  },
+  {
+    "guid": "186",
+    "model": "MYA-L03",
+    "screen_on_duration": 362416.0,
+    "battery_charged_on_duration": 167454.0,
+    "screen_unlock_duration": 417081.0
+  },
+  {
+    "guid": "187",
+    "model": "vivo 1816",
+    "screen_on_duration": 220506.0,
+    "battery_charged_on_duration": 68362.0,
+    "screen_unlock_duration": 211853.0
+  },
+  {
+    "guid": "188",
+    "model": "CPH1909",
+    "screen_on_duration": 202319.0,
+    "battery_charged_on_duration": 97210.0,
+    "screen_unlock_duration": 217807.0
+  },
+  {
+    "guid": "189",
+    "model": "Infinix X650C",
+    "screen_on_duration": 24761.0,
+    "battery_charged_on_duration": 25199.0,
+    "screen_unlock_duration": 65737.0
+  },
+  {
+    "guid": "190",
+    "model": "Redmi Note 6 Pro",
+    "screen_on_duration": 575537.0,
+    "battery_charged_on_duration": 75590.0,
+    "screen_unlock_duration": 189993.0
+  },
+  {
+    "guid": "191",
+    "model": "SM-J500M",
+    "screen_on_duration": 173514.0,
+    "battery_charged_on_duration": 51124.0,
+    "screen_unlock_duration": 162304.0
+  },
+  {
+    "guid": "192",
+    "model": "vivo 1819",
+    "screen_on_duration": 166955.0,
+    "battery_charged_on_duration": 33889.0,
+    "screen_unlock_duration": 158468.0
+  },
+  {
+    "guid": "193",
+    "model": "JKM-LX3",
+    "screen_on_duration": 199085.0,
+    "battery_charged_on_duration": 313140.0,
+    "screen_unlock_duration": 105445.0
+  },
+  {
+    "guid": "194",
+    "model": "vivo 1806",
+    "screen_on_duration": 71891.0,
+    "battery_charged_on_duration": 50635.0,
+    "screen_unlock_duration": 69274.0
+  },
+  {
+    "guid": "195",
+    "model": "CPH1923",
+    "screen_on_duration": 284195.0,
+    "battery_charged_on_duration": 132803.0,
+    "screen_unlock_duration": 326040.0
+  },
+  {
+    "guid": "196",
+    "model": "vivo 1811",
+    "screen_on_duration": 19477.0,
+    "battery_charged_on_duration": 10099.0,
+    "screen_unlock_duration": 18720.0
+  },
+  {
+    "guid": "197",
+    "model": "RMX1851",
+    "screen_on_duration": 469456.0,
+    "battery_charged_on_duration": 22787.0,
+    "screen_unlock_duration": 459984.0
+  },
+  {
+    "guid": "198",
+    "model": "SM-J600G",
+    "screen_on_duration": 99970.0,
+    "battery_charged_on_duration": 153682.0,
+    "screen_unlock_duration": 95163.0
+  },
+  {
+    "guid": "199",
+    "model": "SM-J415F",
+    "screen_on_duration": 166073.0,
+    "battery_charged_on_duration": 150792.0,
+    "screen_unlock_duration": 171984.0
+  },
+  {
+    "guid": "200",
+    "model": "1201",
+    "screen_on_duration": 103285.0,
+    "battery_charged_on_duration": 550956.0,
+    "screen_unlock_duration": 139157.0
+  },
+  {
+    "guid": "201",
+    "model": "CPH1909",
+    "screen_on_duration": 157112.0,
+    "battery_charged_on_duration": 81920.0,
+    "screen_unlock_duration": 216201.0
+  },
+  {
+    "guid": "202",
+    "model": "Mi A1",
+    "screen_on_duration": 204450.0,
+    "battery_charged_on_duration": 83512.0,
+    "screen_unlock_duration": 203416.0
+  },
+  {
+    "guid": "203",
+    "model": "SM-N9208",
+    "screen_on_duration": 334.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 7144.0
+  },
+  {
+    "guid": "204",
+    "model": "SM-A305G",
+    "screen_on_duration": 113208.0,
+    "battery_charged_on_duration": 27784.0,
+    "screen_unlock_duration": 66629.0
+  },
+  {
+    "guid": "205",
+    "model": "Neffos Y50",
+    "screen_on_duration": 6450.0,
+    "battery_charged_on_duration": 29653.0,
+    "screen_unlock_duration": 5394.0
+  },
+  {
+    "guid": "206",
+    "model": "CPH1909",
+    "screen_on_duration": 76697.0,
+    "battery_charged_on_duration": 67035.0,
+    "screen_unlock_duration": 137562.0
+  },
+  {
+    "guid": "207",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 172590.0,
+    "battery_charged_on_duration": 138180.0,
+    "screen_unlock_duration": 170965.0
+  },
+  {
+    "guid": "208",
+    "model": "LG-M150",
+    "screen_on_duration": 364677.0,
+    "battery_charged_on_duration": 107171.0,
+    "screen_unlock_duration": 142350.0
+  },
+  {
+    "guid": "209",
+    "model": "Redmi 6A",
+    "screen_on_duration": 166179.0,
+    "battery_charged_on_duration": 54260.0,
+    "screen_unlock_duration": 161955.0
+  },
+  {
+    "guid": "210",
+    "model": "RMX1805",
+    "screen_on_duration": 176493.0,
+    "battery_charged_on_duration": 86426.0,
+    "screen_unlock_duration": 212901.0
+  },
+  {
+    "guid": "211",
+    "model": "SM-A705MN",
+    "screen_on_duration": 111751.0,
+    "battery_charged_on_duration": 113711.0,
+    "screen_unlock_duration": 112138.0
+  },
+  {
+    "guid": "212",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 241846.0,
+    "battery_charged_on_duration": 59381.0,
+    "screen_unlock_duration": 93608.0
+  },
+  {
+    "guid": "213",
+    "model": "vivo 1807",
+    "screen_on_duration": 688908.0,
+    "battery_charged_on_duration": 130203.0,
+    "screen_unlock_duration": 290775.0
+  },
+  {
+    "guid": "214",
+    "model": "A33w",
+    "screen_on_duration": 147130.0,
+    "battery_charged_on_duration": 170983.0,
+    "screen_unlock_duration": 127482.0
+  },
+  {
+    "guid": "215",
+    "model": "Redmi 6",
+    "screen_on_duration": 70852.0,
+    "battery_charged_on_duration": 44706.0,
+    "screen_unlock_duration": 68358.0
+  },
+  {
+    "guid": "216",
+    "model": "CPH1937",
+    "screen_on_duration": 351871.0,
+    "battery_charged_on_duration": 89117.0,
+    "screen_unlock_duration": 159476.0
+  },
+  {
+    "guid": "217",
+    "model": "CPH1909",
+    "screen_on_duration": 153225.0,
+    "battery_charged_on_duration": 43729.0,
+    "screen_unlock_duration": 170404.0
+  },
+  {
+    "guid": "218",
+    "model": "Infinix X573",
+    "screen_on_duration": 167421.0,
+    "battery_charged_on_duration": 112901.0,
+    "screen_unlock_duration": 259668.0
+  },
+  {
+    "guid": "219",
+    "model": "SM-J701M",
+    "screen_on_duration": 450899.0,
+    "battery_charged_on_duration": 61991.0,
+    "screen_unlock_duration": 395675.0
+  },
+  {
+    "guid": "220",
+    "model": "SM-J610F",
+    "screen_on_duration": 292996.0,
+    "battery_charged_on_duration": 141821.0,
+    "screen_unlock_duration": 275009.0
+  },
+  {
+    "guid": "221",
+    "model": "ELEMENT MAX",
+    "screen_on_duration": 48683.0,
+    "battery_charged_on_duration": 27124.0,
+    "screen_unlock_duration": 50159.0
+  },
+  {
+    "guid": "222",
+    "model": "A1601",
+    "screen_on_duration": 18322.0,
+    "battery_charged_on_duration": 22967.0,
+    "screen_unlock_duration": 8982.0
+  },
+  {
+    "guid": "223",
+    "model": "RMX1851",
+    "screen_on_duration": 188407.0,
+    "battery_charged_on_duration": 46560.0,
+    "screen_unlock_duration": 323074.0
+  },
+  {
+    "guid": "224",
+    "model": "SM-J700M",
+    "screen_on_duration": 130313.0,
+    "battery_charged_on_duration": 35041.0,
+    "screen_unlock_duration": 99675.0
+  },
+  {
+    "guid": "225",
+    "model": "CPH1901",
+    "screen_on_duration": 82532.0,
+    "battery_charged_on_duration": 57043.0,
+    "screen_unlock_duration": 202650.0
+  },
+  {
+    "guid": "226",
+    "model": "vivo 1807",
+    "screen_on_duration": 216093.0,
+    "battery_charged_on_duration": 53889.0,
+    "screen_unlock_duration": 142461.0
+  },
+  {
+    "guid": "227",
+    "model": "RMX1811",
+    "screen_on_duration": 50097.0,
+    "battery_charged_on_duration": 54517.0,
+    "screen_unlock_duration": 45616.0
+  },
+  {
+    "guid": "228",
+    "model": "SM-A510F",
+    "screen_on_duration": 269981.0,
+    "battery_charged_on_duration": 18656.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "229",
+    "model": "LM-X410.F",
+    "screen_on_duration": 392271.0,
+    "battery_charged_on_duration": 105265.0,
+    "screen_unlock_duration": 472702.0
+  },
+  {
+    "guid": "230",
+    "model": "ASUS_A007",
+    "screen_on_duration": 122478.0,
+    "battery_charged_on_duration": 79065.0,
+    "screen_unlock_duration": 56356.0
+  },
+  {
+    "guid": "231",
+    "model": "SM-J700F",
+    "screen_on_duration": 229989.0,
+    "battery_charged_on_duration": 102512.0,
+    "screen_unlock_duration": 347253.0
+  },
+  {
+    "guid": "232",
+    "model": "SM-G930F",
+    "screen_on_duration": 121206.0,
+    "battery_charged_on_duration": 145577.0,
+    "screen_unlock_duration": 100773.0
+  },
+  {
+    "guid": "233",
+    "model": "SM-J400M",
+    "screen_on_duration": 188597.0,
+    "battery_charged_on_duration": 91184.0,
+    "screen_unlock_duration": 198670.0
+  },
+  {
+    "guid": "234",
+    "model": "RMX1851",
+    "screen_on_duration": 168445.0,
+    "battery_charged_on_duration": 77195.0,
+    "screen_unlock_duration": 167134.0
+  },
+  {
+    "guid": "235",
+    "model": "vivo 1724",
+    "screen_on_duration": 22658.0,
+    "battery_charged_on_duration": 33998.0,
+    "screen_unlock_duration": 20255.0
+  },
+  {
+    "guid": "236",
+    "model": "CPH1609",
+    "screen_on_duration": 175070.0,
+    "battery_charged_on_duration": 93369.0,
+    "screen_unlock_duration": 160832.0
+  },
+  {
+    "guid": "237",
+    "model": "vivo 1820",
+    "screen_on_duration": 37064.0,
+    "battery_charged_on_duration": 12031.0,
+    "screen_unlock_duration": 40126.0
+  },
+  {
+    "guid": "238",
+    "model": "SM-N915S",
+    "screen_on_duration": 417142.0,
+    "battery_charged_on_duration": 145681.0,
+    "screen_unlock_duration": 363100.0
+  },
+  {
+    "guid": "239",
+    "model": "SM-A205G",
+    "screen_on_duration": 62511.0,
+    "battery_charged_on_duration": 55307.0,
+    "screen_unlock_duration": 121961.0
+  },
+  {
+    "guid": "240",
+    "model": "vivo 1904",
+    "screen_on_duration": 229803.0,
+    "battery_charged_on_duration": 46865.0,
+    "screen_unlock_duration": 220223.0
+  },
+  {
+    "guid": "241",
+    "model": "SM-G610F",
+    "screen_on_duration": 147372.0,
+    "battery_charged_on_duration": 91648.0,
+    "screen_unlock_duration": 129110.0
+  },
+  {
+    "guid": "242",
+    "model": "CPH1923",
+    "screen_on_duration": 147165.0,
+    "battery_charged_on_duration": 58879.0,
+    "screen_unlock_duration": 161351.0
+  },
+  {
+    "guid": "243",
+    "model": "SM-A505GT",
+    "screen_on_duration": 57976.0,
+    "battery_charged_on_duration": 87761.0,
+    "screen_unlock_duration": 53010.0
+  },
+  {
+    "guid": "244",
+    "model": "SM-A105M",
+    "screen_on_duration": 264343.0,
+    "battery_charged_on_duration": 19742.0,
+    "screen_unlock_duration": 157013.0
+  },
+  {
+    "guid": "245",
+    "model": "CPH1931",
+    "screen_on_duration": 313926.0,
+    "battery_charged_on_duration": 146134.0,
+    "screen_unlock_duration": 264801.0
+  },
+  {
+    "guid": "246",
+    "model": "vivo 1901",
+    "screen_on_duration": 295242.0,
+    "battery_charged_on_duration": 123803.0,
+    "screen_unlock_duration": 223936.0
+  },
+  {
+    "guid": "247",
+    "model": "SM-A105M",
+    "screen_on_duration": 117417.0,
+    "battery_charged_on_duration": 69064.0,
+    "screen_unlock_duration": 123477.0
+  },
+  {
+    "guid": "248",
+    "model": "SM-J260T1",
+    "screen_on_duration": 295722.0,
+    "battery_charged_on_duration": 6381.0,
+    "screen_unlock_duration": 348882.0
+  },
+  {
+    "guid": "249",
+    "model": "vivo 1817",
+    "screen_on_duration": 7427.0,
+    "battery_charged_on_duration": 10349.0,
+    "screen_unlock_duration": 5883.0
+  },
+  {
+    "guid": "250",
+    "model": "CPH1909",
+    "screen_on_duration": 135638.0,
+    "battery_charged_on_duration": 96750.0,
+    "screen_unlock_duration": 115472.0
+  },
+  {
+    "guid": "251",
+    "model": "CPH1907",
+    "screen_on_duration": 110204.0,
+    "battery_charged_on_duration": 78254.0,
+    "screen_unlock_duration": 110004.0
+  },
+  {
+    "guid": "252",
+    "model": "RMX1941",
+    "screen_on_duration": 119399.0,
+    "battery_charged_on_duration": 52448.0,
+    "screen_unlock_duration": 132897.0
+  },
+  {
+    "guid": "253",
+    "model": "CPH1901",
+    "screen_on_duration": 68154.0,
+    "battery_charged_on_duration": 13622.0,
+    "screen_unlock_duration": 94916.0
+  },
+  {
+    "guid": "254",
+    "model": "CPH1803",
+    "screen_on_duration": 27964.0,
+    "battery_charged_on_duration": 30767.0,
+    "screen_unlock_duration": 33633.0
+  },
+  {
+    "guid": "255",
+    "model": "CPH1801",
+    "screen_on_duration": 169458.0,
+    "battery_charged_on_duration": 63816.0,
+    "screen_unlock_duration": 168833.0
+  },
+  {
+    "guid": "256",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 24788.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 14324.0
+  },
+  {
+    "guid": "257",
+    "model": "RMX1941",
+    "screen_on_duration": 126224.0,
+    "battery_charged_on_duration": 64519.0,
+    "screen_unlock_duration": 137905.0
+  },
+  {
+    "guid": "258",
+    "model": "vivo 1816",
+    "screen_on_duration": 228807.0,
+    "battery_charged_on_duration": 103759.0,
+    "screen_unlock_duration": 226038.0
+  },
+  {
+    "guid": "259",
+    "model": "ASUS_X00TD",
+    "screen_on_duration": 166238.0,
+    "battery_charged_on_duration": 186700.0,
+    "screen_unlock_duration": 187548.0
+  },
+  {
+    "guid": "260",
+    "model": "CPH1909",
+    "screen_on_duration": 145105.0,
+    "battery_charged_on_duration": 58161.0,
+    "screen_unlock_duration": 132647.0
+  },
+  {
+    "guid": "261",
+    "model": "SM-G610Y",
+    "screen_on_duration": 159744.0,
+    "battery_charged_on_duration": 126214.0,
+    "screen_unlock_duration": 291238.0
+  },
+  {
+    "guid": "262",
+    "model": "RMX1941",
+    "screen_on_duration": 1838.0,
+    "battery_charged_on_duration": 64409.0,
+    "screen_unlock_duration": 1893.0
+  },
+  {
+    "guid": "263",
+    "model": "SM-A105G",
+    "screen_on_duration": 223641.0,
+    "battery_charged_on_duration": 92969.0,
+    "screen_unlock_duration": 320141.0
+  },
+  {
+    "guid": "264",
+    "model": "RMX1941",
+    "screen_on_duration": 15629.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 15562.0
+  },
+  {
+    "guid": "265",
+    "model": "SM-M205G",
+    "screen_on_duration": 177023.0,
+    "battery_charged_on_duration": 123636.0,
+    "screen_unlock_duration": 147082.0
+  },
+  {
+    "guid": "266",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 133640.0,
+    "battery_charged_on_duration": 46018.0,
+    "screen_unlock_duration": 74432.0
+  },
+  {
+    "guid": "267",
+    "model": "Redmi 7A",
+    "screen_on_duration": 592527.0,
+    "battery_charged_on_duration": 96877.0,
+    "screen_unlock_duration": 207642.0
+  },
+  {
+    "guid": "268",
+    "model": "moto e(6) plus",
+    "screen_on_duration": 321076.0,
+    "battery_charged_on_duration": 54429.0,
+    "screen_unlock_duration": 331360.0
+  },
+  {
+    "guid": "269",
+    "model": "moto g(6) play",
+    "screen_on_duration": 208671.0,
+    "battery_charged_on_duration": 88291.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "270",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 126804.0,
+    "battery_charged_on_duration": 127307.0,
+    "screen_unlock_duration": 117288.0
+  },
+  {
+    "guid": "271",
+    "model": "SM-A207F",
+    "screen_on_duration": 130729.0,
+    "battery_charged_on_duration": 58426.0,
+    "screen_unlock_duration": 146467.0
+  },
+  {
+    "guid": "272",
+    "model": "SM-G532M",
+    "screen_on_duration": 27798.0,
+    "battery_charged_on_duration": 45540.0,
+    "screen_unlock_duration": 137685.0
+  },
+  {
+    "guid": "273",
+    "model": "HUAWEI LUA-L03",
+    "screen_on_duration": 7307.0,
+    "battery_charged_on_duration": 5706.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "274",
+    "model": "SM-G570M",
+    "screen_on_duration": 2826.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 4673.0
+  },
+  {
+    "guid": "275",
+    "model": "SM-J105B",
+    "screen_on_duration": 140561.0,
+    "battery_charged_on_duration": 59252.0,
+    "screen_unlock_duration": 32326.0
+  },
+  {
+    "guid": "276",
+    "model": "Redmi 4X",
+    "screen_on_duration": 26780.0,
+    "battery_charged_on_duration": 27633.0,
+    "screen_unlock_duration": 24734.0
+  },
+  {
+    "guid": "277",
+    "model": "Infinix X625D",
+    "screen_on_duration": 75445.0,
+    "battery_charged_on_duration": 98867.0,
+    "screen_unlock_duration": 71422.0
+  },
+  {
+    "guid": "278",
+    "model": "CPH1801",
+    "screen_on_duration": 177250.0,
+    "battery_charged_on_duration": 73041.0,
+    "screen_unlock_duration": 161118.0
+  },
+  {
+    "guid": "279",
+    "model": "SM-A205G",
+    "screen_on_duration": 35362.0,
+    "battery_charged_on_duration": 50037.0,
+    "screen_unlock_duration": 42418.0
+  },
+  {
+    "guid": "280",
+    "model": "CPH1909",
+    "screen_on_duration": 234644.0,
+    "battery_charged_on_duration": 83034.0,
+    "screen_unlock_duration": 750643.0
+  },
+  {
+    "guid": "281",
+    "model": "vivo 1920",
+    "screen_on_duration": 210292.0,
+    "battery_charged_on_duration": 90594.0,
+    "screen_unlock_duration": 208252.0
+  },
+  {
+    "guid": "282",
+    "model": "SM-J260G",
+    "screen_on_duration": 139045.0,
+    "battery_charged_on_duration": 28547.0,
+    "screen_unlock_duration": 139500.0
+  },
+  {
+    "guid": "283",
+    "model": "RMX2030",
+    "screen_on_duration": 151173.0,
+    "battery_charged_on_duration": 66051.0,
+    "screen_unlock_duration": 79261.0
+  },
+  {
+    "guid": "284",
+    "model": "Redmi 4",
+    "screen_on_duration": 202727.0,
+    "battery_charged_on_duration": 144315.0,
+    "screen_unlock_duration": 136487.0
+  },
+  {
+    "guid": "285",
+    "model": "SM-G850M",
+    "screen_on_duration": 248036.0,
+    "battery_charged_on_duration": 43085.0,
+    "screen_unlock_duration": 180128.0
+  },
+  {
+    "guid": "286",
+    "model": "SM-A105M",
+    "screen_on_duration": 81348.0,
+    "battery_charged_on_duration": 27185.0,
+    "screen_unlock_duration": 37791.0
+  },
+  {
+    "guid": "287",
+    "model": "Lenovo TB3-710I",
+    "screen_on_duration": 112844.0,
+    "battery_charged_on_duration": 24339.0,
+    "screen_unlock_duration": 117226.0
+  },
+  {
+    "guid": "288",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 84403.0,
+    "battery_charged_on_duration": 81531.0,
+    "screen_unlock_duration": 74183.0
+  },
+  {
+    "guid": "289",
+    "model": "AX3",
+    "screen_on_duration": 100834.0,
+    "battery_charged_on_duration": 31679.0,
+    "screen_unlock_duration": 70305.0
+  },
+  {
+    "guid": "290",
+    "model": "SM-J810M",
+    "screen_on_duration": 60836.0,
+    "battery_charged_on_duration": 3394.0,
+    "screen_unlock_duration": 68905.0
+  },
+  {
+    "guid": "291",
+    "model": "vivo Y51L",
+    "screen_on_duration": 267287.0,
+    "battery_charged_on_duration": 74163.0,
+    "screen_unlock_duration": 92791.0
+  },
+  {
+    "guid": "292",
+    "model": "SM-J700M",
+    "screen_on_duration": 88360.0,
+    "battery_charged_on_duration": 59743.0,
+    "screen_unlock_duration": 79533.0
+  },
+  {
+    "guid": "293",
+    "model": "RMX1941",
+    "screen_on_duration": 397307.0,
+    "battery_charged_on_duration": 117229.0,
+    "screen_unlock_duration": 183885.0
+  },
+  {
+    "guid": "294",
+    "model": "Redmi 5A",
+    "screen_on_duration": 285241.0,
+    "battery_charged_on_duration": 312990.0,
+    "screen_unlock_duration": 128294.0
+  },
+  {
+    "guid": "295",
+    "model": "vivo 1606",
+    "screen_on_duration": 185892.0,
+    "battery_charged_on_duration": 256527.0,
+    "screen_unlock_duration": 200774.0
+  },
+  {
+    "guid": "296",
+    "model": "Redmi 3S",
+    "screen_on_duration": 29461.0,
+    "battery_charged_on_duration": 23779.0,
+    "screen_unlock_duration": 29070.0
+  },
+  {
+    "guid": "297",
+    "model": "ASUS_Z010D",
+    "screen_on_duration": 5.0,
+    "battery_charged_on_duration": 5702.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "298",
+    "model": "CPH1803",
+    "screen_on_duration": 36352.0,
+    "battery_charged_on_duration": 181612.0,
+    "screen_unlock_duration": 54421.0
+  },
+  {
+    "guid": "299",
+    "model": "SM-J600G",
+    "screen_on_duration": 164298.0,
+    "battery_charged_on_duration": 86004.0,
+    "screen_unlock_duration": 156300.0
+  },
+  {
+    "guid": "300",
+    "model": "ANE-LX3",
+    "screen_on_duration": 166708.0,
+    "battery_charged_on_duration": 129379.0,
+    "screen_unlock_duration": 211789.0
+  },
+  {
+    "guid": "301",
+    "model": "CPH1931",
+    "screen_on_duration": 175576.0,
+    "battery_charged_on_duration": 135576.0,
+    "screen_unlock_duration": 176822.0
+  },
+  {
+    "guid": "302",
+    "model": "SM-A207M",
+    "screen_on_duration": 288377.0,
+    "battery_charged_on_duration": 22751.0,
+    "screen_unlock_duration": 317999.0
+  },
+  {
+    "guid": "303",
+    "model": "BLL-L23",
+    "screen_on_duration": 150731.0,
+    "battery_charged_on_duration": 97099.0,
+    "screen_unlock_duration": 175077.0
+  },
+  {
+    "guid": "304",
+    "model": "CPH1909",
+    "screen_on_duration": 282808.0,
+    "battery_charged_on_duration": 103405.0,
+    "screen_unlock_duration": 256194.0
+  },
+  {
+    "guid": "305",
+    "model": "Redmi 4A",
+    "screen_on_duration": 12937.0,
+    "battery_charged_on_duration": 10901.0,
+    "screen_unlock_duration": 10847.0
+  },
+  {
+    "guid": "306",
+    "model": "SM-J610G",
+    "screen_on_duration": 206880.0,
+    "battery_charged_on_duration": 309112.0,
+    "screen_unlock_duration": 146325.0
+  },
+  {
+    "guid": "307",
+    "model": "ELE-L29",
+    "screen_on_duration": 139597.0,
+    "battery_charged_on_duration": 6239.0,
+    "screen_unlock_duration": 119980.0
+  },
+  {
+    "guid": "308",
+    "model": "vivo 1816",
+    "screen_on_duration": 185082.0,
+    "battery_charged_on_duration": 24640.0,
+    "screen_unlock_duration": 138659.0
+  },
+  {
+    "guid": "309",
+    "model": "vivo 1806",
+    "screen_on_duration": 90175.0,
+    "battery_charged_on_duration": 22770.0,
+    "screen_unlock_duration": 68502.0
+  },
+  {
+    "guid": "310",
+    "model": "SM-J510MN",
+    "screen_on_duration": 475.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "311",
+    "model": "SM-G920I",
+    "screen_on_duration": 9081.0,
+    "battery_charged_on_duration": 8498.0,
+    "screen_unlock_duration": 118055.0
+  },
+  {
+    "guid": "312",
+    "model": "Lenovo A6020l36",
+    "screen_on_duration": 607823.0,
+    "battery_charged_on_duration": 400943.0,
+    "screen_unlock_duration": 108526.0
+  },
+  {
+    "guid": "313",
+    "model": "A37f",
+    "screen_on_duration": 35899.0,
+    "battery_charged_on_duration": 15983.0,
+    "screen_unlock_duration": 35120.0
+  },
+  {
+    "guid": "314",
+    "model": "vivo 1724",
+    "screen_on_duration": 118858.0,
+    "battery_charged_on_duration": 61702.0,
+    "screen_unlock_duration": 107014.0
+  },
+  {
+    "guid": "315",
+    "model": "CPH1803",
+    "screen_on_duration": 108643.0,
+    "battery_charged_on_duration": 57177.0,
+    "screen_unlock_duration": 111391.0
+  },
+  {
+    "guid": "316",
+    "model": "vivo 1609",
+    "screen_on_duration": 309510.0,
+    "battery_charged_on_duration": 143221.0,
+    "screen_unlock_duration": 349634.0
+  },
+  {
+    "guid": "317",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 180938.0,
+    "battery_charged_on_duration": 107558.0,
+    "screen_unlock_duration": 32110.0
+  },
+  {
+    "guid": "318",
+    "model": "Andromax B16C2G",
+    "screen_on_duration": 547165.0,
+    "battery_charged_on_duration": 290173.0,
+    "screen_unlock_duration": 198201.0
+  },
+  {
+    "guid": "319",
+    "model": "Redmi 5A",
+    "screen_on_duration": 306222.0,
+    "battery_charged_on_duration": 623187.0,
+    "screen_unlock_duration": 121997.0
+  },
+  {
+    "guid": "320",
+    "model": "RMX1811",
+    "screen_on_duration": 129543.0,
+    "battery_charged_on_duration": 63500.0,
+    "screen_unlock_duration": 208576.0
+  },
+  {
+    "guid": "321",
+    "model": "SM-J400F",
+    "screen_on_duration": 55207.0,
+    "battery_charged_on_duration": 69690.0,
+    "screen_unlock_duration": 63087.0
+  },
+  {
+    "guid": "322",
+    "model": "Redmi 4A",
+    "screen_on_duration": 206493.0,
+    "battery_charged_on_duration": 47780.0,
+    "screen_unlock_duration": 165626.0
+  },
+  {
+    "guid": "323",
+    "model": "Moto C Plus",
+    "screen_on_duration": 69003.0,
+    "battery_charged_on_duration": 34440.0,
+    "screen_unlock_duration": 24996.0
+  },
+  {
+    "guid": "324",
+    "model": "CPH1803",
+    "screen_on_duration": 126779.0,
+    "battery_charged_on_duration": 99496.0,
+    "screen_unlock_duration": 101202.0
+  },
+  {
+    "guid": "325",
+    "model": "CPH1729",
+    "screen_on_duration": 282860.0,
+    "battery_charged_on_duration": 34371.0,
+    "screen_unlock_duration": 439825.0
+  },
+  {
+    "guid": "326",
+    "model": "SM-A305G",
+    "screen_on_duration": 7787.0,
+    "battery_charged_on_duration": 13457.0,
+    "screen_unlock_duration": 27135.0
+  },
+  {
+    "guid": "327",
+    "model": "Redmi 3",
+    "screen_on_duration": 221208.0,
+    "battery_charged_on_duration": 151840.0,
+    "screen_unlock_duration": 140632.0
+  },
+  {
+    "guid": "328",
+    "model": "vivo 1723",
+    "screen_on_duration": 135687.0,
+    "battery_charged_on_duration": 76414.0,
+    "screen_unlock_duration": 123441.0
+  },
+  {
+    "guid": "329",
+    "model": "vivo 1904",
+    "screen_on_duration": 262533.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 259212.0
+  },
+  {
+    "guid": "330",
+    "model": "CPH1803",
+    "screen_on_duration": 53768.0,
+    "battery_charged_on_duration": 57440.0,
+    "screen_unlock_duration": 65094.0
+  },
+  {
+    "guid": "331",
+    "model": "A37f",
+    "screen_on_duration": 46304.0,
+    "battery_charged_on_duration": 26115.0,
+    "screen_unlock_duration": 5160.0
+  },
+  {
+    "guid": "332",
+    "model": "SM-A205G",
+    "screen_on_duration": 241589.0,
+    "battery_charged_on_duration": 37671.0,
+    "screen_unlock_duration": 228902.0
+  },
+  {
+    "guid": "333",
+    "model": "CPH1909",
+    "screen_on_duration": 289589.0,
+    "battery_charged_on_duration": 100601.0,
+    "screen_unlock_duration": 315833.0
+  },
+  {
+    "guid": "334",
+    "model": "Moto E (4) Plus",
+    "screen_on_duration": 52626.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 55654.0
+  },
+  {
+    "guid": "335",
+    "model": "CPH1803",
+    "screen_on_duration": 189851.0,
+    "battery_charged_on_duration": 100615.0,
+    "screen_unlock_duration": 245120.0
+  },
+  {
+    "guid": "336",
+    "model": "SM-A520F",
+    "screen_on_duration": 200861.0,
+    "battery_charged_on_duration": 52252.0,
+    "screen_unlock_duration": 168656.0
+  },
+  {
+    "guid": "337",
+    "model": "SM-A305G",
+    "screen_on_duration": 107741.0,
+    "battery_charged_on_duration": 58381.0,
+    "screen_unlock_duration": 125498.0
+  },
+  {
+    "guid": "338",
+    "model": "MEIZU_M5",
+    "screen_on_duration": 178153.0,
+    "battery_charged_on_duration": 527591.0,
+    "screen_unlock_duration": 171253.0
+  },
+  {
+    "guid": "339",
+    "model": "A1601",
+    "screen_on_duration": 407837.0,
+    "battery_charged_on_duration": 107466.0,
+    "screen_unlock_duration": 102859.0
+  },
+  {
+    "guid": "340",
+    "model": "SM-J111F",
+    "screen_on_duration": 17969.0,
+    "battery_charged_on_duration": 24976.0,
+    "screen_unlock_duration": 15277.0
+  },
+  {
+    "guid": "341",
+    "model": "SM-J710MN",
+    "screen_on_duration": 248916.0,
+    "battery_charged_on_duration": 63413.0,
+    "screen_unlock_duration": 163367.0
+  },
+  {
+    "guid": "342",
+    "model": "vivo 1817",
+    "screen_on_duration": 243776.0,
+    "battery_charged_on_duration": 71806.0,
+    "screen_unlock_duration": 190487.0
+  },
+  {
+    "guid": "343",
+    "model": "RNE-L03",
+    "screen_on_duration": 244116.0,
+    "battery_charged_on_duration": 236540.0,
+    "screen_unlock_duration": 270133.0
+  },
+  {
+    "guid": "344",
+    "model": "MRD-LX3",
+    "screen_on_duration": 84033.0,
+    "battery_charged_on_duration": 26704.0,
+    "screen_unlock_duration": 78107.0
+  },
+  {
+    "guid": "345",
+    "model": "Redmi 4A",
+    "screen_on_duration": 12428.0,
+    "battery_charged_on_duration": 53773.0,
+    "screen_unlock_duration": 12014.0
+  },
+  {
+    "guid": "346",
+    "model": "SM-A205GN",
+    "screen_on_duration": 122499.0,
+    "battery_charged_on_duration": 49131.0,
+    "screen_unlock_duration": 120084.0
+  },
+  {
+    "guid": "347",
+    "model": "SM-G532M",
+    "screen_on_duration": 30426.0,
+    "battery_charged_on_duration": 5407.0,
+    "screen_unlock_duration": 27575.0
+  },
+  {
+    "guid": "348",
+    "model": "CPH1931",
+    "screen_on_duration": 155928.0,
+    "battery_charged_on_duration": 64703.0,
+    "screen_unlock_duration": 181328.0
+  },
+  {
+    "guid": "349",
+    "model": "CPH1801",
+    "screen_on_duration": 182515.0,
+    "battery_charged_on_duration": 137959.0,
+    "screen_unlock_duration": 137970.0
+  },
+  {
+    "guid": "350",
+    "model": "SM-J710MN",
+    "screen_on_duration": 108136.0,
+    "battery_charged_on_duration": 12747.0,
+    "screen_unlock_duration": 92516.0
+  },
+  {
+    "guid": "351",
+    "model": "vivo 1820",
+    "screen_on_duration": 97367.0,
+    "battery_charged_on_duration": 36715.0,
+    "screen_unlock_duration": 91183.0
+  },
+  {
+    "guid": "352",
+    "model": "CPH1909",
+    "screen_on_duration": 269479.0,
+    "battery_charged_on_duration": 98580.0,
+    "screen_unlock_duration": 240622.0
+  },
+  {
+    "guid": "353",
+    "model": "MI MAX",
+    "screen_on_duration": 197780.0,
+    "battery_charged_on_duration": 115126.0,
+    "screen_unlock_duration": 162468.0
+  },
+  {
+    "guid": "354",
+    "model": "SM-J510MN",
+    "screen_on_duration": 37420.0,
+    "battery_charged_on_duration": 2803.0,
+    "screen_unlock_duration": 36438.0
+  },
+  {
+    "guid": "355",
+    "model": "A37fw",
+    "screen_on_duration": 84231.0,
+    "battery_charged_on_duration": 77276.0,
+    "screen_unlock_duration": 76092.0
+  },
+  {
+    "guid": "356",
+    "model": "Redmi 6A",
+    "screen_on_duration": 163032.0,
+    "battery_charged_on_duration": 81055.0,
+    "screen_unlock_duration": 163178.0
+  },
+  {
+    "guid": "357",
+    "model": "SM-J415F",
+    "screen_on_duration": 179977.0,
+    "battery_charged_on_duration": 98344.0,
+    "screen_unlock_duration": 268395.0
+  },
+  {
+    "guid": "358",
+    "model": "SM-J700H",
+    "screen_on_duration": 151360.0,
+    "battery_charged_on_duration": 400408.0,
+    "screen_unlock_duration": 310114.0
+  },
+  {
+    "guid": "359",
+    "model": "RMX1821",
+    "screen_on_duration": 173328.0,
+    "battery_charged_on_duration": 97693.0,
+    "screen_unlock_duration": 239247.0
+  },
+  {
+    "guid": "360",
+    "model": "vivo 1820",
+    "screen_on_duration": 317277.0,
+    "battery_charged_on_duration": 26106.0,
+    "screen_unlock_duration": 257716.0
+  },
+  {
+    "guid": "361",
+    "model": "A1601",
+    "screen_on_duration": 211474.0,
+    "battery_charged_on_duration": 178213.0,
+    "screen_unlock_duration": 195101.0
+  },
+  {
+    "guid": "362",
+    "model": "CPH1933",
+    "screen_on_duration": 55308.0,
+    "battery_charged_on_duration": 67601.0,
+    "screen_unlock_duration": 92606.0
+  },
+  {
+    "guid": "363",
+    "model": "vivo 1716",
+    "screen_on_duration": 166424.0,
+    "battery_charged_on_duration": 110117.0,
+    "screen_unlock_duration": 165182.0
+  },
+  {
+    "guid": "364",
+    "model": "Redmi 5A",
+    "screen_on_duration": 119155.0,
+    "battery_charged_on_duration": 68942.0,
+    "screen_unlock_duration": 89418.0
+  },
+  {
+    "guid": "365",
+    "model": "CPH1923",
+    "screen_on_duration": 106842.0,
+    "battery_charged_on_duration": 93797.0,
+    "screen_unlock_duration": 73856.0
+  },
+  {
+    "guid": "366",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 234251.0,
+    "battery_charged_on_duration": 150619.0,
+    "screen_unlock_duration": 42558.0
+  },
+  {
+    "guid": "367",
+    "model": "5060",
+    "screen_on_duration": 165370.0,
+    "battery_charged_on_duration": 416102.0,
+    "screen_unlock_duration": 159179.0
+  },
+  {
+    "guid": "368",
+    "model": "SM-G955F",
+    "screen_on_duration": 230377.0,
+    "battery_charged_on_duration": 87032.0,
+    "screen_unlock_duration": 225452.0
+  },
+  {
+    "guid": "369",
+    "model": "CPH1803",
+    "screen_on_duration": 165084.0,
+    "battery_charged_on_duration": 22192.0,
+    "screen_unlock_duration": 238094.0
+  },
+  {
+    "guid": "370",
+    "model": "CPH1727",
+    "screen_on_duration": 18434.0,
+    "battery_charged_on_duration": 4608.0,
+    "screen_unlock_duration": 14198.0
+  },
+  {
+    "guid": "371",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 13255.0,
+    "battery_charged_on_duration": 23489.0,
+    "screen_unlock_duration": 12487.0
+  },
+  {
+    "guid": "372",
+    "model": "vivo 1811",
+    "screen_on_duration": 391590.0,
+    "battery_charged_on_duration": 59568.0,
+    "screen_unlock_duration": 91880.0
+  },
+  {
+    "guid": "373",
+    "model": "CPH1909",
+    "screen_on_duration": 68062.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 68461.0
+  },
+  {
+    "guid": "374",
+    "model": "i5C",
+    "screen_on_duration": 100246.0,
+    "battery_charged_on_duration": 230656.0,
+    "screen_unlock_duration": 131841.0
+  },
+  {
+    "guid": "375",
+    "model": "CPH1901",
+    "screen_on_duration": 156767.0,
+    "battery_charged_on_duration": 68386.0,
+    "screen_unlock_duration": 197188.0
+  },
+  {
+    "guid": "376",
+    "model": "SM-G532M",
+    "screen_on_duration": 26928.0,
+    "battery_charged_on_duration": 27771.0,
+    "screen_unlock_duration": 45028.0
+  },
+  {
+    "guid": "377",
+    "model": "Redmi 7A",
+    "screen_on_duration": 199005.0,
+    "battery_charged_on_duration": 70981.0,
+    "screen_unlock_duration": 194997.0
+  },
+  {
+    "guid": "378",
+    "model": "SM-J530Y",
+    "screen_on_duration": 316431.0,
+    "battery_charged_on_duration": 38493.0,
+    "screen_unlock_duration": 299932.0
+  },
+  {
+    "guid": "379",
+    "model": "CPH1803",
+    "screen_on_duration": 26357.0,
+    "battery_charged_on_duration": 18858.0,
+    "screen_unlock_duration": 86868.0
+  },
+  {
+    "guid": "380",
+    "model": "SM-J600GT",
+    "screen_on_duration": 225388.0,
+    "battery_charged_on_duration": 117436.0,
+    "screen_unlock_duration": 231367.0
+  },
+  {
+    "guid": "381",
+    "model": "Infinix X572",
+    "screen_on_duration": 179718.0,
+    "battery_charged_on_duration": 87739.0,
+    "screen_unlock_duration": 190098.0
+  },
+  {
+    "guid": "382",
+    "model": "CPH1723",
+    "screen_on_duration": 24006.0,
+    "battery_charged_on_duration": 40226.0,
+    "screen_unlock_duration": 21899.0
+  },
+  {
+    "guid": "383",
+    "model": "CPH1803",
+    "screen_on_duration": 182539.0,
+    "battery_charged_on_duration": 86307.0,
+    "screen_unlock_duration": 228696.0
+  },
+  {
+    "guid": "384",
+    "model": "SM-A307G",
+    "screen_on_duration": 162180.0,
+    "battery_charged_on_duration": 57823.0,
+    "screen_unlock_duration": 166846.0
+  },
+  {
+    "guid": "385",
+    "model": "LM-X210",
+    "screen_on_duration": 98346.0,
+    "battery_charged_on_duration": 100419.0,
+    "screen_unlock_duration": 28878.0
+  },
+  {
+    "guid": "386",
+    "model": "Lenovo K10a40",
+    "screen_on_duration": 192579.0,
+    "battery_charged_on_duration": 260562.0,
+    "screen_unlock_duration": 219788.0
+  },
+  {
+    "guid": "387",
+    "model": "SM-J701M",
+    "screen_on_duration": 102743.0,
+    "battery_charged_on_duration": 15615.0,
+    "screen_unlock_duration": 102584.0
+  },
+  {
+    "guid": "388",
+    "model": "ASUS_T00J",
+    "screen_on_duration": 5445.0,
+    "battery_charged_on_duration": 17870.0,
+    "screen_unlock_duration": 4950.0
+  },
+  {
+    "guid": "389",
+    "model": "CPH1729",
+    "screen_on_duration": 99904.0,
+    "battery_charged_on_duration": 70863.0,
+    "screen_unlock_duration": 95197.0
+  },
+  {
+    "guid": "390",
+    "model": "CPH1933",
+    "screen_on_duration": 166023.0,
+    "battery_charged_on_duration": 229263.0,
+    "screen_unlock_duration": 117422.0
+  },
+  {
+    "guid": "391",
+    "model": "SM-G532M",
+    "screen_on_duration": 179576.0,
+    "battery_charged_on_duration": 197785.0,
+    "screen_unlock_duration": 167602.0
+  },
+  {
+    "guid": "392",
+    "model": "Redmi 5",
+    "screen_on_duration": 159323.0,
+    "battery_charged_on_duration": 36409.0,
+    "screen_unlock_duration": 75212.0
+  },
+  {
+    "guid": "393",
+    "model": "SM-A705F",
+    "screen_on_duration": 79715.0,
+    "battery_charged_on_duration": 77185.0,
+    "screen_unlock_duration": 84920.0
+  },
+  {
+    "guid": "394",
+    "model": "XT1032",
+    "screen_on_duration": 275777.0,
+    "battery_charged_on_duration": 32715.0,
+    "screen_unlock_duration": 78247.0
+  },
+  {
+    "guid": "395",
+    "model": "Redmi 5A",
+    "screen_on_duration": 115754.0,
+    "battery_charged_on_duration": 73522.0,
+    "screen_unlock_duration": 103205.0
+  },
+  {
+    "guid": "396",
+    "model": "vivo 1820",
+    "screen_on_duration": 299599.0,
+    "battery_charged_on_duration": 200223.0,
+    "screen_unlock_duration": 291238.0
+  },
+  {
+    "guid": "397",
+    "model": "SM-J500G",
+    "screen_on_duration": 163244.0,
+    "battery_charged_on_duration": 53701.0,
+    "screen_unlock_duration": 174127.0
+  },
+  {
+    "guid": "398",
+    "model": "LDN-LX2",
+    "screen_on_duration": 52765.0,
+    "battery_charged_on_duration": 64796.0,
+    "screen_unlock_duration": 52437.0
+  },
+  {
+    "guid": "399",
+    "model": "LG-K371",
+    "screen_on_duration": 75745.0,
+    "battery_charged_on_duration": 314563.0,
+    "screen_unlock_duration": 83584.0
+  },
+  {
+    "guid": "400",
+    "model": "HUAWEI NXT-L09",
+    "screen_on_duration": 259867.0,
+    "battery_charged_on_duration": 392281.0,
+    "screen_unlock_duration": 116484.0
+  },
+  {
+    "guid": "401",
+    "model": "vivo 1820",
+    "screen_on_duration": 41131.0,
+    "battery_charged_on_duration": 39428.0,
+    "screen_unlock_duration": 40320.0
+  },
+  {
+    "guid": "402",
+    "model": "vivo 1902",
+    "screen_on_duration": 181801.0,
+    "battery_charged_on_duration": 134518.0,
+    "screen_unlock_duration": 166633.0
+  },
+  {
+    "guid": "403",
+    "model": "SM-A600G",
+    "screen_on_duration": 83054.0,
+    "battery_charged_on_duration": 131238.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "404",
+    "model": "CPH1823",
+    "screen_on_duration": 151810.0,
+    "battery_charged_on_duration": 41635.0,
+    "screen_unlock_duration": 154842.0
+  },
+  {
+    "guid": "405",
+    "model": "RMX1941",
+    "screen_on_duration": 143123.0,
+    "battery_charged_on_duration": 32479.0,
+    "screen_unlock_duration": 173729.0
+  },
+  {
+    "guid": "406",
+    "model": "SM-J415G",
+    "screen_on_duration": 91539.0,
+    "battery_charged_on_duration": 140369.0,
+    "screen_unlock_duration": 100391.0
+  },
+  {
+    "guid": "407",
+    "model": "VOG-L29",
+    "screen_on_duration": 199932.0,
+    "battery_charged_on_duration": 10709.0,
+    "screen_unlock_duration": 146767.0
+  },
+  {
+    "guid": "408",
+    "model": "ANE-LX3",
+    "screen_on_duration": 134194.0,
+    "battery_charged_on_duration": 43164.0,
+    "screen_unlock_duration": 163764.0
+  },
+  {
+    "guid": "409",
+    "model": "X7 Plus",
+    "screen_on_duration": 206339.0,
+    "battery_charged_on_duration": 153250.0,
+    "screen_unlock_duration": 369769.0
+  },
+  {
+    "guid": "410",
+    "model": "vivo 1904",
+    "screen_on_duration": 5549.0,
+    "battery_charged_on_duration": 8038.0,
+    "screen_unlock_duration": 4957.0
+  },
+  {
+    "guid": "411",
+    "model": "Redmi Note 8 Pro",
+    "screen_on_duration": 795584.0,
+    "battery_charged_on_duration": 75720.0,
+    "screen_unlock_duration": 225507.0
+  },
+  {
+    "guid": "412",
+    "model": "vivo 1820",
+    "screen_on_duration": 245835.0,
+    "battery_charged_on_duration": 33506.0,
+    "screen_unlock_duration": 202004.0
+  },
+  {
+    "guid": "413",
+    "model": "vivo 1820",
+    "screen_on_duration": 77693.0,
+    "battery_charged_on_duration": 31982.0,
+    "screen_unlock_duration": 74068.0
+  },
+  {
+    "guid": "414",
+    "model": "CPH1609",
+    "screen_on_duration": 21255.0,
+    "battery_charged_on_duration": 22812.0,
+    "screen_unlock_duration": 19924.0
+  },
+  {
+    "guid": "415",
+    "model": "SM-J250F",
+    "screen_on_duration": 172612.0,
+    "battery_charged_on_duration": 120839.0,
+    "screen_unlock_duration": 193265.0
+  },
+  {
+    "guid": "416",
+    "model": "K350t",
+    "screen_on_duration": 228121.0,
+    "battery_charged_on_duration": 603167.0,
+    "screen_unlock_duration": 268530.0
+  },
+  {
+    "guid": "417",
+    "model": "CPH1909",
+    "screen_on_duration": 76071.0,
+    "battery_charged_on_duration": 48006.0,
+    "screen_unlock_duration": 140069.0
+  },
+  {
+    "guid": "418",
+    "model": "VIE-L09",
+    "screen_on_duration": 142127.0,
+    "battery_charged_on_duration": 228201.0,
+    "screen_unlock_duration": 161360.0
+  },
+  {
+    "guid": "419",
+    "model": "SM-A105M",
+    "screen_on_duration": 340040.0,
+    "battery_charged_on_duration": 2673.0,
+    "screen_unlock_duration": 289165.0
+  },
+  {
+    "guid": "420",
+    "model": "AMN-LX2",
+    "screen_on_duration": 46513.0,
+    "battery_charged_on_duration": 14029.0,
+    "screen_unlock_duration": 45850.0
+  },
+  {
+    "guid": "421",
+    "model": "moto e5 play",
+    "screen_on_duration": 239300.0,
+    "battery_charged_on_duration": 50357.0,
+    "screen_unlock_duration": 241065.0
+  },
+  {
+    "guid": "422",
+    "model": "vivo 1816",
+    "screen_on_duration": 13669.0,
+    "battery_charged_on_duration": 19274.0,
+    "screen_unlock_duration": 11027.0
+  },
+  {
+    "guid": "423",
+    "model": "SM-J710MN",
+    "screen_on_duration": 101325.0,
+    "battery_charged_on_duration": 26393.0,
+    "screen_unlock_duration": 42723.0
+  },
+  {
+    "guid": "424",
+    "model": "SM-C710F",
+    "screen_on_duration": 113197.0,
+    "battery_charged_on_duration": 118701.0,
+    "screen_unlock_duration": 110612.0
+  },
+  {
+    "guid": "425",
+    "model": "SM-G610F",
+    "screen_on_duration": 133852.0,
+    "battery_charged_on_duration": 22761.0,
+    "screen_unlock_duration": 227448.0
+  },
+  {
+    "guid": "426",
+    "model": "ZTE Blade A7 2019",
+    "screen_on_duration": 374269.0,
+    "battery_charged_on_duration": 93266.0,
+    "screen_unlock_duration": 308494.0
+  },
+  {
+    "guid": "427",
+    "model": "vivo 1907",
+    "screen_on_duration": 49782.0,
+    "battery_charged_on_duration": 16838.0,
+    "screen_unlock_duration": 44128.0
+  },
+  {
+    "guid": "428",
+    "model": "SM-A505F",
+    "screen_on_duration": 106881.0,
+    "battery_charged_on_duration": 34085.0,
+    "screen_unlock_duration": 124741.0
+  },
+  {
+    "guid": "429",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 335050.0,
+    "battery_charged_on_duration": 285071.0,
+    "screen_unlock_duration": 303736.0
+  },
+  {
+    "guid": "430",
+    "model": "CPH1931",
+    "screen_on_duration": 402929.0,
+    "battery_charged_on_duration": 84917.0,
+    "screen_unlock_duration": 337823.0
+  },
+  {
+    "guid": "431",
+    "model": "2014813",
+    "screen_on_duration": 519357.0,
+    "battery_charged_on_duration": 56146.0,
+    "screen_unlock_duration": 43583.0
+  },
+  {
+    "guid": "432",
+    "model": "L60",
+    "screen_on_duration": 17311.0,
+    "battery_charged_on_duration": 44460.0,
+    "screen_unlock_duration": 12625.0
+  },
+  {
+    "guid": "433",
+    "model": "Redmi 3S",
+    "screen_on_duration": 150297.0,
+    "battery_charged_on_duration": 333944.0,
+    "screen_unlock_duration": 140410.0
+  },
+  {
+    "guid": "434",
+    "model": "LG-K430",
+    "screen_on_duration": 26108.0,
+    "battery_charged_on_duration": 45059.0,
+    "screen_unlock_duration": 29322.0
+  },
+  {
+    "guid": "435",
+    "model": "SM-G611M",
+    "screen_on_duration": 157639.0,
+    "battery_charged_on_duration": 262884.0,
+    "screen_unlock_duration": 215678.0
+  },
+  {
+    "guid": "436",
+    "model": "Redmi 7",
+    "screen_on_duration": 181476.0,
+    "battery_charged_on_duration": 55057.0,
+    "screen_unlock_duration": 173091.0
+  },
+  {
+    "guid": "437",
+    "model": "CPH1823",
+    "screen_on_duration": 108865.0,
+    "battery_charged_on_duration": 32539.0,
+    "screen_unlock_duration": 90661.0
+  },
+  {
+    "guid": "438",
+    "model": "RMX1821",
+    "screen_on_duration": 81002.0,
+    "battery_charged_on_duration": 66599.0,
+    "screen_unlock_duration": 107641.0
+  },
+  {
+    "guid": "439",
+    "model": "vivo 1820",
+    "screen_on_duration": 188029.0,
+    "battery_charged_on_duration": 77962.0,
+    "screen_unlock_duration": 183088.0
+  },
+  {
+    "guid": "440",
+    "model": "SM-J600G",
+    "screen_on_duration": 129631.0,
+    "battery_charged_on_duration": 147341.0,
+    "screen_unlock_duration": 130841.0
+  },
+  {
+    "guid": "441",
+    "model": "SM-J700H",
+    "screen_on_duration": 54727.0,
+    "battery_charged_on_duration": 16555.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "442",
+    "model": "CPH1933",
+    "screen_on_duration": 121037.0,
+    "battery_charged_on_duration": 72879.0,
+    "screen_unlock_duration": 103683.0
+  },
+  {
+    "guid": "443",
+    "model": "vivo 1802",
+    "screen_on_duration": 140345.0,
+    "battery_charged_on_duration": 63099.0,
+    "screen_unlock_duration": 110493.0
+  },
+  {
+    "guid": "444",
+    "model": "Infinix X653C",
+    "screen_on_duration": 126310.0,
+    "battery_charged_on_duration": 19164.0,
+    "screen_unlock_duration": 125715.0
+  },
+  {
+    "guid": "445",
+    "model": "moto g(6)",
+    "screen_on_duration": 188101.0,
+    "battery_charged_on_duration": 124882.0,
+    "screen_unlock_duration": 232532.0
+  },
+  {
+    "guid": "446",
+    "model": "SM-A720F",
+    "screen_on_duration": 220257.0,
+    "battery_charged_on_duration": 341546.0,
+    "screen_unlock_duration": 234015.0
+  },
+  {
+    "guid": "447",
+    "model": "CPH1801",
+    "screen_on_duration": 97508.0,
+    "battery_charged_on_duration": 199205.0,
+    "screen_unlock_duration": 93343.0
+  },
+  {
+    "guid": "448",
+    "model": "CPH1819",
+    "screen_on_duration": 249981.0,
+    "battery_charged_on_duration": 143576.0,
+    "screen_unlock_duration": 240041.0
+  },
+  {
+    "guid": "449",
+    "model": "CPH1909",
+    "screen_on_duration": 266511.0,
+    "battery_charged_on_duration": 56969.0,
+    "screen_unlock_duration": 209349.0
+  },
+  {
+    "guid": "450",
+    "model": "moto g(7) play",
+    "screen_on_duration": 194392.0,
+    "battery_charged_on_duration": 162781.0,
+    "screen_unlock_duration": 222615.0
+  },
+  {
+    "guid": "451",
+    "model": "M5",
+    "screen_on_duration": 229010.0,
+    "battery_charged_on_duration": 81257.0,
+    "screen_unlock_duration": 157396.0
+  },
+  {
+    "guid": "452",
+    "model": "CPH1909",
+    "screen_on_duration": 107713.0,
+    "battery_charged_on_duration": 54477.0,
+    "screen_unlock_duration": 87867.0
+  },
+  {
+    "guid": "453",
+    "model": "Lenovo YT3-X50F",
+    "screen_on_duration": 343274.0,
+    "battery_charged_on_duration": 27965.0,
+    "screen_unlock_duration": 283032.0
+  },
+  {
+    "guid": "454",
+    "model": "CPH1823",
+    "screen_on_duration": 185238.0,
+    "battery_charged_on_duration": 60327.0,
+    "screen_unlock_duration": 230823.0
+  },
+  {
+    "guid": "455",
+    "model": "SM-A205F",
+    "screen_on_duration": 43232.0,
+    "battery_charged_on_duration": 18357.0,
+    "screen_unlock_duration": 77184.0
+  },
+  {
+    "guid": "456",
+    "model": "S7D",
+    "screen_on_duration": 241892.0,
+    "battery_charged_on_duration": 523766.0,
+    "screen_unlock_duration": 309327.0
+  },
+  {
+    "guid": "457",
+    "model": "SM-G9650",
+    "screen_on_duration": 15746.0,
+    "battery_charged_on_duration": 26301.0,
+    "screen_unlock_duration": 25962.0
+  },
+  {
+    "guid": "458",
+    "model": "FIG-LX3",
+    "screen_on_duration": 164552.0,
+    "battery_charged_on_duration": 170210.0,
+    "screen_unlock_duration": 164692.0
+  },
+  {
+    "guid": "459",
+    "model": "SM-G610Y",
+    "screen_on_duration": 110117.0,
+    "battery_charged_on_duration": 58152.0,
+    "screen_unlock_duration": 81533.0
+  },
+  {
+    "guid": "460",
+    "model": "CPH1909",
+    "screen_on_duration": 182307.0,
+    "battery_charged_on_duration": 56647.0,
+    "screen_unlock_duration": 207834.0
+  },
+  {
+    "guid": "461",
+    "model": "CPH1803",
+    "screen_on_duration": 156976.0,
+    "battery_charged_on_duration": 80407.0,
+    "screen_unlock_duration": 176212.0
+  },
+  {
+    "guid": "462",
+    "model": "Redmi 8A",
+    "screen_on_duration": 19424.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 15030.0
+  },
+  {
+    "guid": "463",
+    "model": "Mi A1",
+    "screen_on_duration": 35918.0,
+    "battery_charged_on_duration": 29046.0,
+    "screen_unlock_duration": 42467.0
+  },
+  {
+    "guid": "464",
+    "model": "Redmi 3S",
+    "screen_on_duration": 225800.0,
+    "battery_charged_on_duration": 42681.0,
+    "screen_unlock_duration": 102069.0
+  },
+  {
+    "guid": "465",
+    "model": "moto g(7) play",
+    "screen_on_duration": 246552.0,
+    "battery_charged_on_duration": 156885.0,
+    "screen_unlock_duration": 320918.0
+  },
+  {
+    "guid": "466",
+    "model": "A37f",
+    "screen_on_duration": 87734.0,
+    "battery_charged_on_duration": 61450.0,
+    "screen_unlock_duration": 80276.0
+  },
+  {
+    "guid": "467",
+    "model": "CPH1923",
+    "screen_on_duration": 256325.0,
+    "battery_charged_on_duration": 239392.0,
+    "screen_unlock_duration": 264969.0
+  },
+  {
+    "guid": "468",
+    "model": "Lenovo K33b36",
+    "screen_on_duration": 128460.0,
+    "battery_charged_on_duration": 99229.0,
+    "screen_unlock_duration": 118850.0
+  },
+  {
+    "guid": "469",
+    "model": "CPH1853",
+    "screen_on_duration": 118733.0,
+    "battery_charged_on_duration": 103479.0,
+    "screen_unlock_duration": 202442.0
+  },
+  {
+    "guid": "470",
+    "model": "SM-J106M",
+    "screen_on_duration": 135772.0,
+    "battery_charged_on_duration": 110272.0,
+    "screen_unlock_duration": 54104.0
+  },
+  {
+    "guid": "471",
+    "model": "A1601",
+    "screen_on_duration": 163290.0,
+    "battery_charged_on_duration": 90858.0,
+    "screen_unlock_duration": 110873.0
+  },
+  {
+    "guid": "472",
+    "model": "LG-M250",
+    "screen_on_duration": 105130.0,
+    "battery_charged_on_duration": 71019.0,
+    "screen_unlock_duration": 136855.0
+  },
+  {
+    "guid": "473",
+    "model": "vivo 1806",
+    "screen_on_duration": 161088.0,
+    "battery_charged_on_duration": 42799.0,
+    "screen_unlock_duration": 155946.0
+  },
+  {
+    "guid": "474",
+    "model": "vivo 1724",
+    "screen_on_duration": 266455.0,
+    "battery_charged_on_duration": 405715.0,
+    "screen_unlock_duration": 255260.0
+  },
+  {
+    "guid": "475",
+    "model": "SM-J710MN",
+    "screen_on_duration": 249072.0,
+    "battery_charged_on_duration": 63358.0,
+    "screen_unlock_duration": 253326.0
+  },
+  {
+    "guid": "476",
+    "model": "vivo 1820",
+    "screen_on_duration": 103254.0,
+    "battery_charged_on_duration": 17508.0,
+    "screen_unlock_duration": 101195.0
+  },
+  {
+    "guid": "477",
+    "model": "CPH1909",
+    "screen_on_duration": 149306.0,
+    "battery_charged_on_duration": 99590.0,
+    "screen_unlock_duration": 137623.0
+  },
+  {
+    "guid": "478",
+    "model": "SM-G610F",
+    "screen_on_duration": 263295.0,
+    "battery_charged_on_duration": 159144.0,
+    "screen_unlock_duration": 257809.0
+  },
+  {
+    "guid": "479",
+    "model": "vivo Y31",
+    "screen_on_duration": 449237.0,
+    "battery_charged_on_duration": 203515.0,
+    "screen_unlock_duration": 370365.0
+  },
+  {
+    "guid": "480",
+    "model": "SM-J700M",
+    "screen_on_duration": 317211.0,
+    "battery_charged_on_duration": 9992.0,
+    "screen_unlock_duration": 252011.0
+  },
+  {
+    "guid": "481",
+    "model": "SM-G532M",
+    "screen_on_duration": 47243.0,
+    "battery_charged_on_duration": 14640.0,
+    "screen_unlock_duration": 28043.0
+  },
+  {
+    "guid": "482",
+    "model": "Redmi 7",
+    "screen_on_duration": 185379.0,
+    "battery_charged_on_duration": 53514.0,
+    "screen_unlock_duration": 126545.0
+  },
+  {
+    "guid": "483",
+    "model": "MITO A16",
+    "screen_on_duration": 2750.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 1878.0
+  },
+  {
+    "guid": "484",
+    "model": "LG-M400",
+    "screen_on_duration": 245076.0,
+    "battery_charged_on_duration": 449698.0,
+    "screen_unlock_duration": 330393.0
+  },
+  {
+    "guid": "485",
+    "model": "SM-J400M",
+    "screen_on_duration": 163084.0,
+    "battery_charged_on_duration": 164849.0,
+    "screen_unlock_duration": 157160.0
+  },
+  {
+    "guid": "486",
+    "model": "CPH1901",
+    "screen_on_duration": 227182.0,
+    "battery_charged_on_duration": 101448.0,
+    "screen_unlock_duration": 251378.0
+  },
+  {
+    "guid": "487",
+    "model": "Mi A1",
+    "screen_on_duration": 79192.0,
+    "battery_charged_on_duration": 27026.0,
+    "screen_unlock_duration": 126869.0
+  },
+  {
+    "guid": "488",
+    "model": "D6653",
+    "screen_on_duration": 129718.0,
+    "battery_charged_on_duration": 131627.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "489",
+    "model": "SM-G532G",
+    "screen_on_duration": 111728.0,
+    "battery_charged_on_duration": 18465.0,
+    "screen_unlock_duration": 12742.0
+  },
+  {
+    "guid": "490",
+    "model": "SM-J730GM",
+    "screen_on_duration": 235842.0,
+    "battery_charged_on_duration": 74315.0,
+    "screen_unlock_duration": 257421.0
+  },
+  {
+    "guid": "491",
+    "model": "SM-G532G",
+    "screen_on_duration": 425301.0,
+    "battery_charged_on_duration": 38961.0,
+    "screen_unlock_duration": 292857.0
+  },
+  {
+    "guid": "492",
+    "model": "Redmi 4X",
+    "screen_on_duration": 59573.0,
+    "battery_charged_on_duration": 33473.0,
+    "screen_unlock_duration": 33304.0
+  },
+  {
+    "guid": "493",
+    "model": "ASUS_X00RD",
+    "screen_on_duration": 219762.0,
+    "battery_charged_on_duration": 121715.0,
+    "screen_unlock_duration": 153677.0
+  },
+  {
+    "guid": "494",
+    "model": "vivo 1816",
+    "screen_on_duration": 185475.0,
+    "battery_charged_on_duration": 250117.0,
+    "screen_unlock_duration": 134945.0
+  },
+  {
+    "guid": "495",
+    "model": "SM-J600G",
+    "screen_on_duration": 118471.0,
+    "battery_charged_on_duration": 36204.0,
+    "screen_unlock_duration": 123667.0
+  },
+  {
+    "guid": "496",
+    "model": "SM-A305G",
+    "screen_on_duration": 34051.0,
+    "battery_charged_on_duration": 43255.0,
+    "screen_unlock_duration": 27711.0
+  },
+  {
+    "guid": "497",
+    "model": "SM-J120G",
+    "screen_on_duration": 93629.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 12483.0
+  },
+  {
+    "guid": "498",
+    "model": "LG-K430",
+    "screen_on_duration": 223764.0,
+    "battery_charged_on_duration": 151900.0,
+    "screen_unlock_duration": 167978.0
+  },
+  {
+    "guid": "499",
+    "model": "CPH1803",
+    "screen_on_duration": 198061.0,
+    "battery_charged_on_duration": 192483.0,
+    "screen_unlock_duration": 221610.0
+  },
+  {
+    "guid": "500",
+    "model": "SM-A505F",
+    "screen_on_duration": 182310.0,
+    "battery_charged_on_duration": 128208.0,
+    "screen_unlock_duration": 160012.0
+  },
+  {
+    "guid": "501",
+    "model": "Redmi 5A",
+    "screen_on_duration": 41184.0,
+    "battery_charged_on_duration": 7579.0,
+    "screen_unlock_duration": 40900.0
+  },
+  {
+    "guid": "502",
+    "model": "SM-G570M",
+    "screen_on_duration": 137636.0,
+    "battery_charged_on_duration": 354229.0,
+    "screen_unlock_duration": 118824.0
+  },
+  {
+    "guid": "503",
+    "model": "vivo Y71A",
+    "screen_on_duration": 175055.0,
+    "battery_charged_on_duration": 37135.0,
+    "screen_unlock_duration": 212440.0
+  },
+  {
+    "guid": "504",
+    "model": "CLT-L09",
+    "screen_on_duration": 194540.0,
+    "battery_charged_on_duration": 12265.0,
+    "screen_unlock_duration": 180211.0
+  },
+  {
+    "guid": "505",
+    "model": "vivo 1727",
+    "screen_on_duration": 127810.0,
+    "battery_charged_on_duration": 123761.0,
+    "screen_unlock_duration": 122101.0
+  },
+  {
+    "guid": "506",
+    "model": "SM-J510MN",
+    "screen_on_duration": 85485.0,
+    "battery_charged_on_duration": 295665.0,
+    "screen_unlock_duration": 104750.0
+  },
+  {
+    "guid": "507",
+    "model": "FS8001",
+    "screen_on_duration": 138965.0,
+    "battery_charged_on_duration": 182128.0,
+    "screen_unlock_duration": 267947.0
+  },
+  {
+    "guid": "508",
+    "model": "SM-N900",
+    "screen_on_duration": 291250.0,
+    "battery_charged_on_duration": 70848.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "509",
+    "model": "vivo 1820",
+    "screen_on_duration": 456977.0,
+    "battery_charged_on_duration": 129500.0,
+    "screen_unlock_duration": 442915.0
+  },
+  {
+    "guid": "510",
+    "model": "RMX1811",
+    "screen_on_duration": 111695.0,
+    "battery_charged_on_duration": 87747.0,
+    "screen_unlock_duration": 130450.0
+  },
+  {
+    "guid": "511",
+    "model": "Redmi 5A",
+    "screen_on_duration": 218482.0,
+    "battery_charged_on_duration": 102341.0,
+    "screen_unlock_duration": 211729.0
+  },
+  {
+    "guid": "512",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 164707.0,
+    "battery_charged_on_duration": 93034.0,
+    "screen_unlock_duration": 134599.0
+  },
+  {
+    "guid": "513",
+    "model": "LG-M250",
+    "screen_on_duration": 108261.0,
+    "battery_charged_on_duration": 263798.0,
+    "screen_unlock_duration": 97885.0
+  },
+  {
+    "guid": "514",
+    "model": "SM-G532G",
+    "screen_on_duration": 196342.0,
+    "battery_charged_on_duration": 104634.0,
+    "screen_unlock_duration": 194769.0
+  },
+  {
+    "guid": "515",
+    "model": "SM-A205F",
+    "screen_on_duration": 122002.0,
+    "battery_charged_on_duration": 34135.0,
+    "screen_unlock_duration": 104027.0
+  },
+  {
+    "guid": "516",
+    "model": "vivo 1820",
+    "screen_on_duration": 38919.0,
+    "battery_charged_on_duration": 21175.0,
+    "screen_unlock_duration": 32463.0
+  },
+  {
+    "guid": "517",
+    "model": "SM-G532G",
+    "screen_on_duration": 24445.0,
+    "battery_charged_on_duration": 30835.0,
+    "screen_unlock_duration": 23313.0
+  },
+  {
+    "guid": "518",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 147521.0,
+    "battery_charged_on_duration": 62835.0,
+    "screen_unlock_duration": 145336.0
+  },
+  {
+    "guid": "519",
+    "model": "SM-A105M",
+    "screen_on_duration": 324977.0,
+    "battery_charged_on_duration": 62704.0,
+    "screen_unlock_duration": 214719.0
+  },
+  {
+    "guid": "520",
+    "model": "SM-J106B",
+    "screen_on_duration": 201205.0,
+    "battery_charged_on_duration": 78711.0,
+    "screen_unlock_duration": 168660.0
+  },
+  {
+    "guid": "521",
+    "model": "SM-J610FN",
+    "screen_on_duration": 171631.0,
+    "battery_charged_on_duration": 44597.0,
+    "screen_unlock_duration": 76188.0
+  },
+  {
+    "guid": "522",
+    "model": "Moto G Play",
+    "screen_on_duration": 89313.0,
+    "battery_charged_on_duration": 93817.0,
+    "screen_unlock_duration": 69446.0
+  },
+  {
+    "guid": "523",
+    "model": "SM-J730G",
+    "screen_on_duration": 108490.0,
+    "battery_charged_on_duration": 56709.0,
+    "screen_unlock_duration": 133687.0
+  },
+  {
+    "guid": "524",
+    "model": "SM-G530H",
+    "screen_on_duration": 110643.0,
+    "battery_charged_on_duration": 28540.0,
+    "screen_unlock_duration": 64607.0
+  },
+  {
+    "guid": "525",
+    "model": "CPH1923",
+    "screen_on_duration": 35960.0,
+    "battery_charged_on_duration": 8382.0,
+    "screen_unlock_duration": 40835.0
+  },
+  {
+    "guid": "526",
+    "model": "Redmi 6A",
+    "screen_on_duration": 132468.0,
+    "battery_charged_on_duration": 69151.0,
+    "screen_unlock_duration": 33710.0
+  },
+  {
+    "guid": "527",
+    "model": "SM-J600G",
+    "screen_on_duration": 235423.0,
+    "battery_charged_on_duration": 142372.0,
+    "screen_unlock_duration": 230552.0
+  },
+  {
+    "guid": "528",
+    "model": "SM-J120G",
+    "screen_on_duration": 209232.0,
+    "battery_charged_on_duration": 190492.0,
+    "screen_unlock_duration": 184748.0
+  },
+  {
+    "guid": "529",
+    "model": "CPH1969",
+    "screen_on_duration": 100525.0,
+    "battery_charged_on_duration": 28746.0,
+    "screen_unlock_duration": 122114.0
+  },
+  {
+    "guid": "530",
+    "model": "SM-A505G",
+    "screen_on_duration": 325092.0,
+    "battery_charged_on_duration": 15336.0,
+    "screen_unlock_duration": 316634.0
+  },
+  {
+    "guid": "531",
+    "model": "vivo 1716",
+    "screen_on_duration": 161585.0,
+    "battery_charged_on_duration": 102731.0,
+    "screen_unlock_duration": 159610.0
+  },
+  {
+    "guid": "532",
+    "model": "SM-A520F",
+    "screen_on_duration": 229557.0,
+    "battery_charged_on_duration": 116598.0,
+    "screen_unlock_duration": 330599.0
+  },
+  {
+    "guid": "533",
+    "model": "SM-G532G",
+    "screen_on_duration": 75586.0,
+    "battery_charged_on_duration": 62876.0,
+    "screen_unlock_duration": 11219.0
+  },
+  {
+    "guid": "534",
+    "model": "CPH1853",
+    "screen_on_duration": 103894.0,
+    "battery_charged_on_duration": 90065.0,
+    "screen_unlock_duration": 102840.0
+  },
+  {
+    "guid": "535",
+    "model": "CPH1729",
+    "screen_on_duration": 248063.0,
+    "battery_charged_on_duration": 81428.0,
+    "screen_unlock_duration": 162040.0
+  },
+  {
+    "guid": "536",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 195838.0,
+    "battery_charged_on_duration": 235391.0,
+    "screen_unlock_duration": 166949.0
+  },
+  {
+    "guid": "537",
+    "model": "vivo 1820",
+    "screen_on_duration": 164047.0,
+    "battery_charged_on_duration": 346070.0,
+    "screen_unlock_duration": 155046.0
+  },
+  {
+    "guid": "538",
+    "model": "Lenovo TB-7104F",
+    "screen_on_duration": 85853.0,
+    "battery_charged_on_duration": 70724.0,
+    "screen_unlock_duration": 63806.0
+  },
+  {
+    "guid": "539",
+    "model": "SM-J105F",
+    "screen_on_duration": 307358.0,
+    "battery_charged_on_duration": 263325.0,
+    "screen_unlock_duration": 283099.0
+  },
+  {
+    "guid": "540",
+    "model": "LM-X210",
+    "screen_on_duration": 10746.0,
+    "battery_charged_on_duration": 41273.0,
+    "screen_unlock_duration": 11943.0
+  },
+  {
+    "guid": "541",
+    "model": "vivo 1819",
+    "screen_on_duration": 43426.0,
+    "battery_charged_on_duration": 34028.0,
+    "screen_unlock_duration": 41973.0
+  },
+  {
+    "guid": "542",
+    "model": "SM-J610F",
+    "screen_on_duration": 21004.0,
+    "battery_charged_on_duration": 24329.0,
+    "screen_unlock_duration": 18373.0
+  },
+  {
+    "guid": "543",
+    "model": "A1601",
+    "screen_on_duration": 47358.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 23793.0
+  },
+  {
+    "guid": "544",
+    "model": "SM-J400M",
+    "screen_on_duration": 166659.0,
+    "battery_charged_on_duration": 50216.0,
+    "screen_unlock_duration": 149412.0
+  },
+  {
+    "guid": "545",
+    "model": "Redmi 7A",
+    "screen_on_duration": 170901.0,
+    "battery_charged_on_duration": 112202.0,
+    "screen_unlock_duration": 148462.0
+  },
+  {
+    "guid": "546",
+    "model": "vivo 1904",
+    "screen_on_duration": 179419.0,
+    "battery_charged_on_duration": 175608.0,
+    "screen_unlock_duration": 190486.0
+  },
+  {
+    "guid": "547",
+    "model": "Moto G (5) Plus",
+    "screen_on_duration": 140731.0,
+    "battery_charged_on_duration": 12177.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "548",
+    "model": "SM-G610M",
+    "screen_on_duration": 54896.0,
+    "battery_charged_on_duration": 28799.0,
+    "screen_unlock_duration": 54150.0
+  },
+  {
+    "guid": "549",
+    "model": "vivo 1726",
+    "screen_on_duration": 20592.0,
+    "battery_charged_on_duration": 18322.0,
+    "screen_unlock_duration": 20273.0
+  },
+  {
+    "guid": "550",
+    "model": "CPH1923",
+    "screen_on_duration": 149384.0,
+    "battery_charged_on_duration": 53916.0,
+    "screen_unlock_duration": 195722.0
+  },
+  {
+    "guid": "551",
+    "model": "Redmi 4X",
+    "screen_on_duration": 40091.0,
+    "battery_charged_on_duration": 38740.0,
+    "screen_unlock_duration": 42840.0
+  },
+  {
+    "guid": "552",
+    "model": "Redmi 4X",
+    "screen_on_duration": 214132.0,
+    "battery_charged_on_duration": 64320.0,
+    "screen_unlock_duration": 212517.0
+  },
+  {
+    "guid": "553",
+    "model": "Redmi 3S",
+    "screen_on_duration": 200088.0,
+    "battery_charged_on_duration": 48750.0,
+    "screen_unlock_duration": 172798.0
+  },
+  {
+    "guid": "554",
+    "model": "Moto G (5S)",
+    "screen_on_duration": 184273.0,
+    "battery_charged_on_duration": 454029.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "555",
+    "model": "F1f",
+    "screen_on_duration": 393580.0,
+    "battery_charged_on_duration": 182639.0,
+    "screen_unlock_duration": 116352.0
+  },
+  {
+    "guid": "556",
+    "model": "CPH1923",
+    "screen_on_duration": 114835.0,
+    "battery_charged_on_duration": 44790.0,
+    "screen_unlock_duration": 108813.0
+  },
+  {
+    "guid": "557",
+    "model": "DUB-LX3",
+    "screen_on_duration": 148600.0,
+    "battery_charged_on_duration": 63921.0,
+    "screen_unlock_duration": 179577.0
+  },
+  {
+    "guid": "558",
+    "model": "Redmi 5",
+    "screen_on_duration": 159780.0,
+    "battery_charged_on_duration": 529950.0,
+    "screen_unlock_duration": 152648.0
+  },
+  {
+    "guid": "559",
+    "model": "SM-J400M",
+    "screen_on_duration": 94256.0,
+    "battery_charged_on_duration": 156482.0,
+    "screen_unlock_duration": 184576.0
+  },
+  {
+    "guid": "560",
+    "model": "vivo 1802",
+    "screen_on_duration": 72876.0,
+    "battery_charged_on_duration": 94307.0,
+    "screen_unlock_duration": 72513.0
+  },
+  {
+    "guid": "561",
+    "model": "SM-G610M",
+    "screen_on_duration": 75000.0,
+    "battery_charged_on_duration": 126664.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "562",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 138701.0,
+    "battery_charged_on_duration": 51057.0,
+    "screen_unlock_duration": 72257.0
+  },
+  {
+    "guid": "563",
+    "model": "RMX1821",
+    "screen_on_duration": 32988.0,
+    "battery_charged_on_duration": 13267.0,
+    "screen_unlock_duration": 32397.0
+  },
+  {
+    "guid": "564",
+    "model": "SM-C900F",
+    "screen_on_duration": 79257.0,
+    "battery_charged_on_duration": 141364.0,
+    "screen_unlock_duration": 67102.0
+  },
+  {
+    "guid": "565",
+    "model": "CPH1801",
+    "screen_on_duration": 121787.0,
+    "battery_charged_on_duration": 74680.0,
+    "screen_unlock_duration": 91807.0
+  },
+  {
+    "guid": "566",
+    "model": "SM-A505F",
+    "screen_on_duration": 147989.0,
+    "battery_charged_on_duration": 49939.0,
+    "screen_unlock_duration": 243699.0
+  },
+  {
+    "guid": "567",
+    "model": "SM-J400M",
+    "screen_on_duration": 112919.0,
+    "battery_charged_on_duration": 592679.0,
+    "screen_unlock_duration": 69522.0
+  },
+  {
+    "guid": "568",
+    "model": "SM-J700M",
+    "screen_on_duration": 179340.0,
+    "battery_charged_on_duration": 148644.0,
+    "screen_unlock_duration": 185882.0
+  },
+  {
+    "guid": "569",
+    "model": "RMX1941",
+    "screen_on_duration": 124102.0,
+    "battery_charged_on_duration": 108806.0,
+    "screen_unlock_duration": 129567.0
+  },
+  {
+    "guid": "570",
+    "model": "SM-A310M",
+    "screen_on_duration": 29159.0,
+    "battery_charged_on_duration": 43425.0,
+    "screen_unlock_duration": 26305.0
+  },
+  {
+    "guid": "571",
+    "model": "CPH1701",
+    "screen_on_duration": 54086.0,
+    "battery_charged_on_duration": 63262.0,
+    "screen_unlock_duration": 53386.0
+  },
+  {
+    "guid": "572",
+    "model": "SM-A205G",
+    "screen_on_duration": 53010.0,
+    "battery_charged_on_duration": 75498.0,
+    "screen_unlock_duration": 50731.0
+  },
+  {
+    "guid": "573",
+    "model": "SM-A105M",
+    "screen_on_duration": 100893.0,
+    "battery_charged_on_duration": 144359.0,
+    "screen_unlock_duration": 100626.0
+  },
+  {
+    "guid": "574",
+    "model": "CPH1803",
+    "screen_on_duration": 143305.0,
+    "battery_charged_on_duration": 42286.0,
+    "screen_unlock_duration": 166766.0
+  },
+  {
+    "guid": "575",
+    "model": "moto e(6) plus",
+    "screen_on_duration": 165265.0,
+    "battery_charged_on_duration": 79323.0,
+    "screen_unlock_duration": 156670.0
+  },
+  {
+    "guid": "576",
+    "model": "MRD-LX3",
+    "screen_on_duration": 57849.0,
+    "battery_charged_on_duration": 77703.0,
+    "screen_unlock_duration": 57320.0
+  },
+  {
+    "guid": "577",
+    "model": "CPH1803",
+    "screen_on_duration": 179508.0,
+    "battery_charged_on_duration": 600994.0,
+    "screen_unlock_duration": 266928.0
+  },
+  {
+    "guid": "578",
+    "model": "Redmi 5A",
+    "screen_on_duration": 159956.0,
+    "battery_charged_on_duration": 65572.0,
+    "screen_unlock_duration": 144735.0
+  },
+  {
+    "guid": "579",
+    "model": "Redmi Note 4X",
+    "screen_on_duration": 197950.0,
+    "battery_charged_on_duration": 86333.0,
+    "screen_unlock_duration": 432659.0
+  },
+  {
+    "guid": "580",
+    "model": "CPH1901",
+    "screen_on_duration": 138447.0,
+    "battery_charged_on_duration": 50649.0,
+    "screen_unlock_duration": 226564.0
+  },
+  {
+    "guid": "581",
+    "model": "Redmi 6A",
+    "screen_on_duration": 520317.0,
+    "battery_charged_on_duration": 68038.0,
+    "screen_unlock_duration": 341483.0
+  },
+  {
+    "guid": "582",
+    "model": "RMX1821",
+    "screen_on_duration": 86711.0,
+    "battery_charged_on_duration": 24991.0,
+    "screen_unlock_duration": 109081.0
+  },
+  {
+    "guid": "583",
+    "model": "Compumax Blue",
+    "screen_on_duration": 91288.0,
+    "battery_charged_on_duration": 441558.0,
+    "screen_unlock_duration": 76040.0
+  },
+  {
+    "guid": "584",
+    "model": "Mi A1",
+    "screen_on_duration": 37834.0,
+    "battery_charged_on_duration": 16500.0,
+    "screen_unlock_duration": 29411.0
+  },
+  {
+    "guid": "585",
+    "model": "SM-G532M",
+    "screen_on_duration": 212169.0,
+    "battery_charged_on_duration": 67045.0,
+    "screen_unlock_duration": 174749.0
+  },
+  {
+    "guid": "586",
+    "model": "vivo 1820",
+    "screen_on_duration": 86597.0,
+    "battery_charged_on_duration": 38136.0,
+    "screen_unlock_duration": 84261.0
+  },
+  {
+    "guid": "587",
+    "model": "CPH1823",
+    "screen_on_duration": 94937.0,
+    "battery_charged_on_duration": 23614.0,
+    "screen_unlock_duration": 79531.0
+  },
+  {
+    "guid": "588",
+    "model": "ASUS_Z012DC",
+    "screen_on_duration": 149629.0,
+    "battery_charged_on_duration": 20.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "589",
+    "model": "A37f",
+    "screen_on_duration": 9343.0,
+    "battery_charged_on_duration": 1484.0,
+    "screen_unlock_duration": 9145.0
+  },
+  {
+    "guid": "590",
+    "model": "CPH1729",
+    "screen_on_duration": 172831.0,
+    "battery_charged_on_duration": 74014.0,
+    "screen_unlock_duration": 166524.0
+  },
+  {
+    "guid": "591",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 142733.0,
+    "battery_charged_on_duration": 241203.0,
+    "screen_unlock_duration": 113228.0
+  },
+  {
+    "guid": "592",
+    "model": "SM-A260G",
+    "screen_on_duration": 179081.0,
+    "battery_charged_on_duration": 20768.0,
+    "screen_unlock_duration": 186705.0
+  },
+  {
+    "guid": "593",
+    "model": "SM-G532G",
+    "screen_on_duration": 25174.0,
+    "battery_charged_on_duration": 23325.0,
+    "screen_unlock_duration": 56246.0
+  },
+  {
+    "guid": "594",
+    "model": "HTC Desire 650",
+    "screen_on_duration": 172480.0,
+    "battery_charged_on_duration": 82647.0,
+    "screen_unlock_duration": 169032.0
+  },
+  {
+    "guid": "595",
+    "model": "RMX1821",
+    "screen_on_duration": 381263.0,
+    "battery_charged_on_duration": 32666.0,
+    "screen_unlock_duration": 379652.0
+  },
+  {
+    "guid": "596",
+    "model": "SM-J701M",
+    "screen_on_duration": 133211.0,
+    "battery_charged_on_duration": 49885.0,
+    "screen_unlock_duration": 122891.0
+  },
+  {
+    "guid": "597",
+    "model": "SM-J510MN",
+    "screen_on_duration": 113973.0,
+    "battery_charged_on_duration": 208197.0,
+    "screen_unlock_duration": 108661.0
+  },
+  {
+    "guid": "598",
+    "model": "SM-J500M",
+    "screen_on_duration": 66453.0,
+    "battery_charged_on_duration": 20321.0,
+    "screen_unlock_duration": 6640.0
+  },
+  {
+    "guid": "599",
+    "model": "SM-G920I",
+    "screen_on_duration": 381227.0,
+    "battery_charged_on_duration": 191426.0,
+    "screen_unlock_duration": 214990.0
+  },
+  {
+    "guid": "600",
+    "model": "ASUS_X00TD",
+    "screen_on_duration": 153058.0,
+    "battery_charged_on_duration": 47839.0,
+    "screen_unlock_duration": 163190.0
+  },
+  {
+    "guid": "601",
+    "model": "Redmi 4A",
+    "screen_on_duration": 23138.0,
+    "battery_charged_on_duration": 25683.0,
+    "screen_unlock_duration": 18550.0
+  },
+  {
+    "guid": "602",
+    "model": "Redmi 4A",
+    "screen_on_duration": 83223.0,
+    "battery_charged_on_duration": 117548.0,
+    "screen_unlock_duration": 42306.0
+  },
+  {
+    "guid": "603",
+    "model": "LGUS992",
+    "screen_on_duration": 88277.0,
+    "battery_charged_on_duration": 85563.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "604",
+    "model": "CPH1931",
+    "screen_on_duration": 33166.0,
+    "battery_charged_on_duration": 13067.0,
+    "screen_unlock_duration": 31052.0
+  },
+  {
+    "guid": "605",
+    "model": "SM-J700T1",
+    "screen_on_duration": 80699.0,
+    "battery_charged_on_duration": 59896.0,
+    "screen_unlock_duration": 37802.0
+  },
+  {
+    "guid": "606",
+    "model": "SM-J400F",
+    "screen_on_duration": 163877.0,
+    "battery_charged_on_duration": 519835.0,
+    "screen_unlock_duration": 281985.0
+  },
+  {
+    "guid": "607",
+    "model": "vivo 1718",
+    "screen_on_duration": 184127.0,
+    "battery_charged_on_duration": 126395.0,
+    "screen_unlock_duration": 142923.0
+  },
+  {
+    "guid": "608",
+    "model": "SM-A530F",
+    "screen_on_duration": 144679.0,
+    "battery_charged_on_duration": 79047.0,
+    "screen_unlock_duration": 136102.0
+  },
+  {
+    "guid": "609",
+    "model": "vivo 1918",
+    "screen_on_duration": 232543.0,
+    "battery_charged_on_duration": 169246.0,
+    "screen_unlock_duration": 216645.0
+  },
+  {
+    "guid": "610",
+    "model": "SM-A705F",
+    "screen_on_duration": 133446.0,
+    "battery_charged_on_duration": 49578.0,
+    "screen_unlock_duration": 130433.0
+  },
+  {
+    "guid": "611",
+    "model": "Moto G (5)",
+    "screen_on_duration": 435228.0,
+    "battery_charged_on_duration": 197444.0,
+    "screen_unlock_duration": 67623.0
+  },
+  {
+    "guid": "612",
+    "model": "SM-A205G",
+    "screen_on_duration": 238808.0,
+    "battery_charged_on_duration": 244020.0,
+    "screen_unlock_duration": 408754.0
+  },
+  {
+    "guid": "613",
+    "model": "vivo 1603",
+    "screen_on_duration": 0.0,
+    "battery_charged_on_duration": 28899.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "614",
+    "model": "SM-J400M",
+    "screen_on_duration": 160258.0,
+    "battery_charged_on_duration": 20004.0,
+    "screen_unlock_duration": 173790.0
+  },
+  {
+    "guid": "615",
+    "model": "vivo Y51L",
+    "screen_on_duration": 169819.0,
+    "battery_charged_on_duration": 96613.0,
+    "screen_unlock_duration": 161594.0
+  },
+  {
+    "guid": "616",
+    "model": "A75",
+    "screen_on_duration": 49765.0,
+    "battery_charged_on_duration": 64640.0,
+    "screen_unlock_duration": 31161.0
+  },
+  {
+    "guid": "617",
+    "model": "LM-X210",
+    "screen_on_duration": 174404.0,
+    "battery_charged_on_duration": 121109.0,
+    "screen_unlock_duration": 130818.0
+  },
+  {
+    "guid": "618",
+    "model": "RMX1941",
+    "screen_on_duration": 122521.0,
+    "battery_charged_on_duration": 29985.0,
+    "screen_unlock_duration": 231036.0
+  },
+  {
+    "guid": "619",
+    "model": "SM-J111F",
+    "screen_on_duration": 117147.0,
+    "battery_charged_on_duration": 88414.0,
+    "screen_unlock_duration": 130510.0
+  },
+  {
+    "guid": "620",
+    "model": "SM-G570M",
+    "screen_on_duration": 241743.0,
+    "battery_charged_on_duration": 577634.0,
+    "screen_unlock_duration": 246934.0
+  },
+  {
+    "guid": "621",
+    "model": "CPH1909",
+    "screen_on_duration": 23014.0,
+    "battery_charged_on_duration": 18520.0,
+    "screen_unlock_duration": 28524.0
+  },
+  {
+    "guid": "622",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 295508.0,
+    "battery_charged_on_duration": 151531.0,
+    "screen_unlock_duration": 42061.0
+  },
+  {
+    "guid": "623",
+    "model": "SM-J510FN",
+    "screen_on_duration": 47995.0,
+    "battery_charged_on_duration": 43166.0,
+    "screen_unlock_duration": 55777.0
+  },
+  {
+    "guid": "624",
+    "model": "SM-A505F",
+    "screen_on_duration": 148749.0,
+    "battery_charged_on_duration": 57068.0,
+    "screen_unlock_duration": 140873.0
+  },
+  {
+    "guid": "625",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 99077.0,
+    "battery_charged_on_duration": 36201.0,
+    "screen_unlock_duration": 85766.0
+  },
+  {
+    "guid": "626",
+    "model": "vivo 1901",
+    "screen_on_duration": 256642.0,
+    "battery_charged_on_duration": 70525.0,
+    "screen_unlock_duration": 249759.0
+  },
+  {
+    "guid": "627",
+    "model": "CPH1823",
+    "screen_on_duration": 78027.0,
+    "battery_charged_on_duration": 30543.0,
+    "screen_unlock_duration": 77944.0
+  },
+  {
+    "guid": "628",
+    "model": "moto g(6) plus",
+    "screen_on_duration": 136062.0,
+    "battery_charged_on_duration": 111485.0,
+    "screen_unlock_duration": 121685.0
+  },
+  {
+    "guid": "629",
+    "model": "CPH1909",
+    "screen_on_duration": 183793.0,
+    "battery_charged_on_duration": 244877.0,
+    "screen_unlock_duration": 161465.0
+  },
+  {
+    "guid": "630",
+    "model": "CPH1909",
+    "screen_on_duration": 218552.0,
+    "battery_charged_on_duration": 129744.0,
+    "screen_unlock_duration": 284517.0
+  },
+  {
+    "guid": "631",
+    "model": "vivo 1902",
+    "screen_on_duration": 325408.0,
+    "battery_charged_on_duration": 23975.0,
+    "screen_unlock_duration": 320656.0
+  },
+  {
+    "guid": "632",
+    "model": "SM-J250F",
+    "screen_on_duration": 227360.0,
+    "battery_charged_on_duration": 78134.0,
+    "screen_unlock_duration": 285051.0
+  },
+  {
+    "guid": "633",
+    "model": "SM-N910H",
+    "screen_on_duration": 325663.0,
+    "battery_charged_on_duration": 39012.0,
+    "screen_unlock_duration": 251576.0
+  },
+  {
+    "guid": "634",
+    "model": "SM-A505G",
+    "screen_on_duration": 205361.0,
+    "battery_charged_on_duration": 43585.0,
+    "screen_unlock_duration": 177989.0
+  },
+  {
+    "guid": "635",
+    "model": "SM-J200G",
+    "screen_on_duration": 110632.0,
+    "battery_charged_on_duration": 120197.0,
+    "screen_unlock_duration": 65318.0
+  },
+  {
+    "guid": "636",
+    "model": "Redmi 5A",
+    "screen_on_duration": 41619.0,
+    "battery_charged_on_duration": 44881.0,
+    "screen_unlock_duration": 36539.0
+  },
+  {
+    "guid": "637",
+    "model": "ASUS_Z01KD",
+    "screen_on_duration": 149204.0,
+    "battery_charged_on_duration": 101996.0,
+    "screen_unlock_duration": 137712.0
+  },
+  {
+    "guid": "638",
+    "model": "SM-J106B",
+    "screen_on_duration": 10246.0,
+    "battery_charged_on_duration": 62105.0,
+    "screen_unlock_duration": 10620.0
+  },
+  {
+    "guid": "639",
+    "model": "GT-I9060I",
+    "screen_on_duration": 125956.0,
+    "battery_charged_on_duration": 63668.0,
+    "screen_unlock_duration": 45447.0
+  },
+  {
+    "guid": "640",
+    "model": "CPH1801",
+    "screen_on_duration": 138916.0,
+    "battery_charged_on_duration": 58607.0,
+    "screen_unlock_duration": 132311.0
+  },
+  {
+    "guid": "641",
+    "model": "SM-J530G",
+    "screen_on_duration": 20472.0,
+    "battery_charged_on_duration": 21341.0,
+    "screen_unlock_duration": 26262.0
+  },
+  {
+    "guid": "642",
+    "model": "CPH1901",
+    "screen_on_duration": 68304.0,
+    "battery_charged_on_duration": 14206.0,
+    "screen_unlock_duration": 72627.0
+  },
+  {
+    "guid": "643",
+    "model": "CPH1801",
+    "screen_on_duration": 92221.0,
+    "battery_charged_on_duration": 64465.0,
+    "screen_unlock_duration": 82574.0
+  },
+  {
+    "guid": "644",
+    "model": "BLL-L23",
+    "screen_on_duration": 171134.0,
+    "battery_charged_on_duration": 160162.0,
+    "screen_unlock_duration": 167212.0
+  },
+  {
+    "guid": "645",
+    "model": "vivo 1807",
+    "screen_on_duration": 80295.0,
+    "battery_charged_on_duration": 49254.0,
+    "screen_unlock_duration": 76619.0
+  },
+  {
+    "guid": "646",
+    "model": "SM-A705F",
+    "screen_on_duration": 315013.0,
+    "battery_charged_on_duration": 5453.0,
+    "screen_unlock_duration": 361393.0
+  },
+  {
+    "guid": "647",
+    "model": "SM-A520F",
+    "screen_on_duration": 118651.0,
+    "battery_charged_on_duration": 19980.0,
+    "screen_unlock_duration": 299672.0
+  },
+  {
+    "guid": "648",
+    "model": "SM-A310M",
+    "screen_on_duration": 10126.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "649",
+    "model": "CPH1823",
+    "screen_on_duration": 283710.0,
+    "battery_charged_on_duration": 129434.0,
+    "screen_unlock_duration": 286987.0
+  },
+  {
+    "guid": "650",
+    "model": "SM-G610F",
+    "screen_on_duration": 284354.0,
+    "battery_charged_on_duration": 178739.0,
+    "screen_unlock_duration": 371277.0
+  },
+  {
+    "guid": "651",
+    "model": "vivo Y51L",
+    "screen_on_duration": 486441.0,
+    "battery_charged_on_duration": 337761.0,
+    "screen_unlock_duration": 137951.0
+  },
+  {
+    "guid": "652",
+    "model": "CPH1923",
+    "screen_on_duration": 89600.0,
+    "battery_charged_on_duration": 87772.0,
+    "screen_unlock_duration": 84606.0
+  },
+  {
+    "guid": "653",
+    "model": "Redmi 4A",
+    "screen_on_duration": 83354.0,
+    "battery_charged_on_duration": 143874.0,
+    "screen_unlock_duration": 66974.0
+  },
+  {
+    "guid": "654",
+    "model": "LG-K120",
+    "screen_on_duration": 26486.0,
+    "battery_charged_on_duration": 41708.0,
+    "screen_unlock_duration": 22248.0
+  },
+  {
+    "guid": "655",
+    "model": "vivo 1904",
+    "screen_on_duration": 9813.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 9563.0
+  },
+  {
+    "guid": "656",
+    "model": "vivo 1820",
+    "screen_on_duration": 20859.0,
+    "battery_charged_on_duration": 31086.0,
+    "screen_unlock_duration": 19771.0
+  },
+  {
+    "guid": "657",
+    "model": "Redmi 6",
+    "screen_on_duration": 130162.0,
+    "battery_charged_on_duration": 76070.0,
+    "screen_unlock_duration": 121458.0
+  },
+  {
+    "guid": "658",
+    "model": "Redmi 7",
+    "screen_on_duration": 83990.0,
+    "battery_charged_on_duration": 6393.0,
+    "screen_unlock_duration": 47842.0
+  },
+  {
+    "guid": "659",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 234230.0,
+    "battery_charged_on_duration": 527859.0,
+    "screen_unlock_duration": 232826.0
+  },
+  {
+    "guid": "660",
+    "model": "SM-A207F",
+    "screen_on_duration": 37566.0,
+    "battery_charged_on_duration": 44505.0,
+    "screen_unlock_duration": 65618.0
+  },
+  {
+    "guid": "661",
+    "model": "SM-M205G",
+    "screen_on_duration": 328082.0,
+    "battery_charged_on_duration": 127386.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "662",
+    "model": "vivo 1820",
+    "screen_on_duration": 98584.0,
+    "battery_charged_on_duration": 95555.0,
+    "screen_unlock_duration": 81550.0
+  },
+  {
+    "guid": "663",
+    "model": "MI MAX 2",
+    "screen_on_duration": 104252.0,
+    "battery_charged_on_duration": 56973.0,
+    "screen_unlock_duration": 99787.0
+  },
+  {
+    "guid": "664",
+    "model": "Redmi S2",
+    "screen_on_duration": 203323.0,
+    "battery_charged_on_duration": 293291.0,
+    "screen_unlock_duration": 163205.0
+  },
+  {
+    "guid": "665",
+    "model": "Redmi 4A",
+    "screen_on_duration": 78279.0,
+    "battery_charged_on_duration": 60119.0,
+    "screen_unlock_duration": 91618.0
+  },
+  {
+    "guid": "666",
+    "model": "Redmi 4A",
+    "screen_on_duration": 83156.0,
+    "battery_charged_on_duration": 55595.0,
+    "screen_unlock_duration": 23682.0
+  },
+  {
+    "guid": "667",
+    "model": "SM-A507FN",
+    "screen_on_duration": 194878.0,
+    "battery_charged_on_duration": 49563.0,
+    "screen_unlock_duration": 303758.0
+  },
+  {
+    "guid": "668",
+    "model": "Infinix X627",
+    "screen_on_duration": 165379.0,
+    "battery_charged_on_duration": 63148.0,
+    "screen_unlock_duration": 171696.0
+  },
+  {
+    "guid": "669",
+    "model": "ASUS_X00TD",
+    "screen_on_duration": 493110.0,
+    "battery_charged_on_duration": 10889.0,
+    "screen_unlock_duration": 457757.0
+  },
+  {
+    "guid": "670",
+    "model": "moto e(6) plus",
+    "screen_on_duration": 76644.0,
+    "battery_charged_on_duration": 14307.0,
+    "screen_unlock_duration": 35622.0
+  },
+  {
+    "guid": "671",
+    "model": "CPH1823",
+    "screen_on_duration": 243346.0,
+    "battery_charged_on_duration": 143775.0,
+    "screen_unlock_duration": 211734.0
+  },
+  {
+    "guid": "672",
+    "model": "RMX1941",
+    "screen_on_duration": 94745.0,
+    "battery_charged_on_duration": 30635.0,
+    "screen_unlock_duration": 104967.0
+  },
+  {
+    "guid": "673",
+    "model": "CPH1803",
+    "screen_on_duration": 78230.0,
+    "battery_charged_on_duration": 74296.0,
+    "screen_unlock_duration": 230838.0
+  },
+  {
+    "guid": "674",
+    "model": "vivo 1816",
+    "screen_on_duration": 24009.0,
+    "battery_charged_on_duration": 39286.0,
+    "screen_unlock_duration": 23449.0
+  },
+  {
+    "guid": "675",
+    "model": "SM-J415G",
+    "screen_on_duration": 177105.0,
+    "battery_charged_on_duration": 96312.0,
+    "screen_unlock_duration": 161814.0
+  },
+  {
+    "guid": "676",
+    "model": "SM-J700F",
+    "screen_on_duration": 119031.0,
+    "battery_charged_on_duration": 219747.0,
+    "screen_unlock_duration": 74604.0
+  },
+  {
+    "guid": "677",
+    "model": "LG-K430",
+    "screen_on_duration": 264809.0,
+    "battery_charged_on_duration": 367214.0,
+    "screen_unlock_duration": 216291.0
+  },
+  {
+    "guid": "678",
+    "model": "SM-J610G",
+    "screen_on_duration": 25728.0,
+    "battery_charged_on_duration": 21999.0,
+    "screen_unlock_duration": 12469.0
+  },
+  {
+    "guid": "679",
+    "model": "LM-X420",
+    "screen_on_duration": 178920.0,
+    "battery_charged_on_duration": 159327.0,
+    "screen_unlock_duration": 216723.0
+  },
+  {
+    "guid": "680",
+    "model": "moto g(7) plus",
+    "screen_on_duration": 148384.0,
+    "battery_charged_on_duration": 43815.0,
+    "screen_unlock_duration": 97067.0
+  },
+  {
+    "guid": "681",
+    "model": "RNE-L22",
+    "screen_on_duration": 269414.0,
+    "battery_charged_on_duration": 694485.0,
+    "screen_unlock_duration": 372432.0
+  },
+  {
+    "guid": "682",
+    "model": "MYA-L22",
+    "screen_on_duration": 34885.0,
+    "battery_charged_on_duration": 59054.0,
+    "screen_unlock_duration": 34649.0
+  },
+  {
+    "guid": "683",
+    "model": "vivo 1817",
+    "screen_on_duration": 91305.0,
+    "battery_charged_on_duration": 205625.0,
+    "screen_unlock_duration": 86751.0
+  },
+  {
+    "guid": "684",
+    "model": "RMX1911",
+    "screen_on_duration": 23183.0,
+    "battery_charged_on_duration": 14356.0,
+    "screen_unlock_duration": 26747.0
+  },
+  {
+    "guid": "685",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 196138.0,
+    "battery_charged_on_duration": 104277.0,
+    "screen_unlock_duration": 137147.0
+  },
+  {
+    "guid": "686",
+    "model": "CPH1909",
+    "screen_on_duration": 150777.0,
+    "battery_charged_on_duration": 51177.0,
+    "screen_unlock_duration": 319485.0
+  },
+  {
+    "guid": "687",
+    "model": "SM-J200BT",
+    "screen_on_duration": 313902.0,
+    "battery_charged_on_duration": 153878.0,
+    "screen_unlock_duration": 228252.0
+  },
+  {
+    "guid": "688",
+    "model": "Redmi Note 4X",
+    "screen_on_duration": 116052.0,
+    "battery_charged_on_duration": 164550.0,
+    "screen_unlock_duration": 77904.0
+  },
+  {
+    "guid": "689",
+    "model": "LG-K350",
+    "screen_on_duration": 328134.0,
+    "battery_charged_on_duration": 536666.0,
+    "screen_unlock_duration": 304339.0
+  },
+  {
+    "guid": "690",
+    "model": "SM-G570M",
+    "screen_on_duration": 169006.0,
+    "battery_charged_on_duration": 48908.0,
+    "screen_unlock_duration": 169302.0
+  },
+  {
+    "guid": "691",
+    "model": "CPH1909",
+    "screen_on_duration": 94416.0,
+    "battery_charged_on_duration": 64228.0,
+    "screen_unlock_duration": 95587.0
+  },
+  {
+    "guid": "692",
+    "model": "CPH1853",
+    "screen_on_duration": 225173.0,
+    "battery_charged_on_duration": 79538.0,
+    "screen_unlock_duration": 332846.0
+  },
+  {
+    "guid": "693",
+    "model": "Lenovo TB-7104F",
+    "screen_on_duration": 100506.0,
+    "battery_charged_on_duration": 41899.0,
+    "screen_unlock_duration": 214876.0
+  },
+  {
+    "guid": "694",
+    "model": "5060",
+    "screen_on_duration": 31966.0,
+    "battery_charged_on_duration": 17440.0,
+    "screen_unlock_duration": 27846.0
+  },
+  {
+    "guid": "695",
+    "model": "SM-A105M",
+    "screen_on_duration": 223451.0,
+    "battery_charged_on_duration": 80071.0,
+    "screen_unlock_duration": 134895.0
+  },
+  {
+    "guid": "696",
+    "model": "Redmi 5",
+    "screen_on_duration": 32837.0,
+    "battery_charged_on_duration": 9133.0,
+    "screen_unlock_duration": 31648.0
+  },
+  {
+    "guid": "697",
+    "model": "TA-1032",
+    "screen_on_duration": 65142.0,
+    "battery_charged_on_duration": 37352.0,
+    "screen_unlock_duration": 97489.0
+  },
+  {
+    "guid": "698",
+    "model": "vivo 1814",
+    "screen_on_duration": 85609.0,
+    "battery_charged_on_duration": 32987.0,
+    "screen_unlock_duration": 84021.0
+  },
+  {
+    "guid": "699",
+    "model": "SM-A207M",
+    "screen_on_duration": 139684.0,
+    "battery_charged_on_duration": 224131.0,
+    "screen_unlock_duration": 147993.0
+  },
+  {
+    "guid": "700",
+    "model": "ANE-LX3",
+    "screen_on_duration": 75206.0,
+    "battery_charged_on_duration": 74451.0,
+    "screen_unlock_duration": 61851.0
+  },
+  {
+    "guid": "701",
+    "model": "CPH1909",
+    "screen_on_duration": 174416.0,
+    "battery_charged_on_duration": 65843.0,
+    "screen_unlock_duration": 227109.0
+  },
+  {
+    "guid": "702",
+    "model": "CPH1859",
+    "screen_on_duration": 230554.0,
+    "battery_charged_on_duration": 119879.0,
+    "screen_unlock_duration": 263653.0
+  },
+  {
+    "guid": "703",
+    "model": "vivo 1807",
+    "screen_on_duration": 66530.0,
+    "battery_charged_on_duration": 28850.0,
+    "screen_unlock_duration": 65672.0
+  },
+  {
+    "guid": "704",
+    "model": "CPH1729",
+    "screen_on_duration": 225526.0,
+    "battery_charged_on_duration": 102350.0,
+    "screen_unlock_duration": 60749.0
+  },
+  {
+    "guid": "705",
+    "model": "SM-G610F",
+    "screen_on_duration": 426327.0,
+    "battery_charged_on_duration": 52855.0,
+    "screen_unlock_duration": 451262.0
+  },
+  {
+    "guid": "706",
+    "model": "Redmi 5A",
+    "screen_on_duration": 145977.0,
+    "battery_charged_on_duration": 161355.0,
+    "screen_unlock_duration": 95732.0
+  },
+  {
+    "guid": "707",
+    "model": "SM-J415F",
+    "screen_on_duration": 158342.0,
+    "battery_charged_on_duration": 77082.0,
+    "screen_unlock_duration": 157426.0
+  },
+  {
+    "guid": "708",
+    "model": "SM-T825Y",
+    "screen_on_duration": 142788.0,
+    "battery_charged_on_duration": 29709.0,
+    "screen_unlock_duration": 69699.0
+  },
+  {
+    "guid": "709",
+    "model": "A37fw",
+    "screen_on_duration": 132001.0,
+    "battery_charged_on_duration": 97236.0,
+    "screen_unlock_duration": 110348.0
+  },
+  {
+    "guid": "710",
+    "model": "SM-J700M",
+    "screen_on_duration": 60086.0,
+    "battery_charged_on_duration": 26490.0,
+    "screen_unlock_duration": 56544.0
+  },
+  {
+    "guid": "711",
+    "model": "2014811",
+    "screen_on_duration": 195947.0,
+    "battery_charged_on_duration": 385893.0,
+    "screen_unlock_duration": 227509.0
+  },
+  {
+    "guid": "712",
+    "model": "vivo 1814",
+    "screen_on_duration": 59938.0,
+    "battery_charged_on_duration": 75257.0,
+    "screen_unlock_duration": 57339.0
+  },
+  {
+    "guid": "713",
+    "model": "SM-J510MN",
+    "screen_on_duration": 194613.0,
+    "battery_charged_on_duration": 109537.0,
+    "screen_unlock_duration": 204370.0
+  },
+  {
+    "guid": "714",
+    "model": "Redmi 5A",
+    "screen_on_duration": 111580.0,
+    "battery_charged_on_duration": 74578.0,
+    "screen_unlock_duration": 109485.0
+  },
+  {
+    "guid": "715",
+    "model": "moto g(6) play",
+    "screen_on_duration": 106821.0,
+    "battery_charged_on_duration": 35894.0,
+    "screen_unlock_duration": 60256.0
+  },
+  {
+    "guid": "716",
+    "model": "vivo 1724",
+    "screen_on_duration": 44015.0,
+    "battery_charged_on_duration": 30136.0,
+    "screen_unlock_duration": 43454.0
+  },
+  {
+    "guid": "717",
+    "model": "Redmi Note 5A Prime",
+    "screen_on_duration": 137774.0,
+    "battery_charged_on_duration": 40132.0,
+    "screen_unlock_duration": 60711.0
+  },
+  {
+    "guid": "718",
+    "model": "SM-A710M",
+    "screen_on_duration": 179878.0,
+    "battery_charged_on_duration": 95132.0,
+    "screen_unlock_duration": 202824.0
+  },
+  {
+    "guid": "719",
+    "model": "CPH1901",
+    "screen_on_duration": 146653.0,
+    "battery_charged_on_duration": 48906.0,
+    "screen_unlock_duration": 170319.0
+  },
+  {
+    "guid": "720",
+    "model": "LG-K430",
+    "screen_on_duration": 812985.0,
+    "battery_charged_on_duration": 259905.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "721",
+    "model": "vivo 1606",
+    "screen_on_duration": 99761.0,
+    "battery_charged_on_duration": 84158.0,
+    "screen_unlock_duration": 129059.0
+  },
+  {
+    "guid": "722",
+    "model": "vivo 1724",
+    "screen_on_duration": 186187.0,
+    "battery_charged_on_duration": 177436.0,
+    "screen_unlock_duration": 178065.0
+  },
+  {
+    "guid": "723",
+    "model": "SM-J710F",
+    "screen_on_duration": 207760.0,
+    "battery_charged_on_duration": 50984.0,
+    "screen_unlock_duration": 216926.0
+  },
+  {
+    "guid": "724",
+    "model": "SM-A300M",
+    "screen_on_duration": 104451.0,
+    "battery_charged_on_duration": 17943.0,
+    "screen_unlock_duration": 70370.0
+  },
+  {
+    "guid": "725",
+    "model": "vivo 1724",
+    "screen_on_duration": 61477.0,
+    "battery_charged_on_duration": 111119.0,
+    "screen_unlock_duration": 60992.0
+  },
+  {
+    "guid": "726",
+    "model": "moto g(6) play",
+    "screen_on_duration": 139960.0,
+    "battery_charged_on_duration": 54789.0,
+    "screen_unlock_duration": 110571.0
+  },
+  {
+    "guid": "727",
+    "model": "M22s",
+    "screen_on_duration": 28500.0,
+    "battery_charged_on_duration": 87161.0,
+    "screen_unlock_duration": 16058.0
+  },
+  {
+    "guid": "728",
+    "model": "RMX1971",
+    "screen_on_duration": 202709.0,
+    "battery_charged_on_duration": 44795.0,
+    "screen_unlock_duration": 231439.0
+  },
+  {
+    "guid": "729",
+    "model": "HTC Desire 530",
+    "screen_on_duration": 112156.0,
+    "battery_charged_on_duration": 367679.0,
+    "screen_unlock_duration": 60761.0
+  },
+  {
+    "guid": "730",
+    "model": "vivo 1904",
+    "screen_on_duration": 216695.0,
+    "battery_charged_on_duration": 58782.0,
+    "screen_unlock_duration": 216658.0
+  },
+  {
+    "guid": "731",
+    "model": "SM-G610F",
+    "screen_on_duration": 91733.0,
+    "battery_charged_on_duration": 73373.0,
+    "screen_unlock_duration": 371232.0
+  },
+  {
+    "guid": "732",
+    "model": "Redmi 6A",
+    "screen_on_duration": 191959.0,
+    "battery_charged_on_duration": 156056.0,
+    "screen_unlock_duration": 153079.0
+  },
+  {
+    "guid": "733",
+    "model": "vivo 1904",
+    "screen_on_duration": 192111.0,
+    "battery_charged_on_duration": 103743.0,
+    "screen_unlock_duration": 190088.0
+  },
+  {
+    "guid": "734",
+    "model": "CPH1923",
+    "screen_on_duration": 63101.0,
+    "battery_charged_on_duration": 17226.0,
+    "screen_unlock_duration": 41380.0
+  },
+  {
+    "guid": "735",
+    "model": "moto e6 play",
+    "screen_on_duration": 56708.0,
+    "battery_charged_on_duration": 27743.0,
+    "screen_unlock_duration": 54976.0
+  },
+  {
+    "guid": "736",
+    "model": "SM-A102U",
+    "screen_on_duration": 68610.0,
+    "battery_charged_on_duration": 56284.0,
+    "screen_unlock_duration": 108540.0
+  },
+  {
+    "guid": "737",
+    "model": "Redmi S2",
+    "screen_on_duration": 162673.0,
+    "battery_charged_on_duration": 206879.0,
+    "screen_unlock_duration": 147873.0
+  },
+  {
+    "guid": "738",
+    "model": "vivo 1606",
+    "screen_on_duration": 320273.0,
+    "battery_charged_on_duration": 186996.0,
+    "screen_unlock_duration": 111847.0
+  },
+  {
+    "guid": "739",
+    "model": "A1601",
+    "screen_on_duration": 263326.0,
+    "battery_charged_on_duration": 8944.0,
+    "screen_unlock_duration": 187680.0
+  },
+  {
+    "guid": "740",
+    "model": "SM-G610M",
+    "screen_on_duration": 127382.0,
+    "battery_charged_on_duration": 87314.0,
+    "screen_unlock_duration": 25152.0
+  },
+  {
+    "guid": "741",
+    "model": "Redmi 5 Plus",
+    "screen_on_duration": 164439.0,
+    "battery_charged_on_duration": 39549.0,
+    "screen_unlock_duration": 107053.0
+  },
+  {
+    "guid": "742",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 174146.0,
+    "battery_charged_on_duration": 41935.0,
+    "screen_unlock_duration": 163668.0
+  },
+  {
+    "guid": "743",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 222899.0,
+    "battery_charged_on_duration": 237162.0,
+    "screen_unlock_duration": 215540.0
+  },
+  {
+    "guid": "744",
+    "model": "Redmi Note 6 Pro",
+    "screen_on_duration": 227485.0,
+    "battery_charged_on_duration": 122134.0,
+    "screen_unlock_duration": 214029.0
+  },
+  {
+    "guid": "745",
+    "model": "CPH1909",
+    "screen_on_duration": 90608.0,
+    "battery_charged_on_duration": 6910.0,
+    "screen_unlock_duration": 83912.0
+  },
+  {
+    "guid": "746",
+    "model": "CPH1909",
+    "screen_on_duration": 109131.0,
+    "battery_charged_on_duration": 108365.0,
+    "screen_unlock_duration": 102204.0
+  },
+  {
+    "guid": "747",
+    "model": "Redmi 3S",
+    "screen_on_duration": 154431.0,
+    "battery_charged_on_duration": 124731.0,
+    "screen_unlock_duration": 136224.0
+  },
+  {
+    "guid": "748",
+    "model": "JKM-LX3",
+    "screen_on_duration": 108343.0,
+    "battery_charged_on_duration": 80290.0,
+    "screen_unlock_duration": 102290.0
+  },
+  {
+    "guid": "749",
+    "model": "SM-G532M",
+    "screen_on_duration": 56049.0,
+    "battery_charged_on_duration": 33147.0,
+    "screen_unlock_duration": 54010.0
+  },
+  {
+    "guid": "750",
+    "model": "CPH1723",
+    "screen_on_duration": 31214.0,
+    "battery_charged_on_duration": 11609.0,
+    "screen_unlock_duration": 29537.0
+  },
+  {
+    "guid": "751",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 172015.0,
+    "battery_charged_on_duration": 46700.0,
+    "screen_unlock_duration": 104920.0
+  },
+  {
+    "guid": "752",
+    "model": "SM-G570M",
+    "screen_on_duration": 75029.0,
+    "battery_charged_on_duration": 79597.0,
+    "screen_unlock_duration": 71679.0
+  },
+  {
+    "guid": "753",
+    "model": "LG-K430",
+    "screen_on_duration": 69643.0,
+    "battery_charged_on_duration": 366159.0,
+    "screen_unlock_duration": 35970.0
+  },
+  {
+    "guid": "754",
+    "model": "SM-A205F",
+    "screen_on_duration": 189131.0,
+    "battery_charged_on_duration": 141505.0,
+    "screen_unlock_duration": 218327.0
+  },
+  {
+    "guid": "755",
+    "model": "Redmi 5A",
+    "screen_on_duration": 83069.0,
+    "battery_charged_on_duration": 140094.0,
+    "screen_unlock_duration": 79166.0
+  },
+  {
+    "guid": "756",
+    "model": "RMX1821",
+    "screen_on_duration": 58509.0,
+    "battery_charged_on_duration": 13331.0,
+    "screen_unlock_duration": 56719.0
+  },
+  {
+    "guid": "757",
+    "model": "RMX1941",
+    "screen_on_duration": 6872.0,
+    "battery_charged_on_duration": 8904.0,
+    "screen_unlock_duration": 8944.0
+  },
+  {
+    "guid": "758",
+    "model": "LG-K350",
+    "screen_on_duration": 4685.0,
+    "battery_charged_on_duration": 49530.0,
+    "screen_unlock_duration": 27871.0
+  },
+  {
+    "guid": "759",
+    "model": "RMX1911",
+    "screen_on_duration": 12097.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 10633.0
+  },
+  {
+    "guid": "760",
+    "model": "Redmi 7",
+    "screen_on_duration": 63908.0,
+    "battery_charged_on_duration": 2548.0,
+    "screen_unlock_duration": 23222.0
+  },
+  {
+    "guid": "761",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 133980.0,
+    "battery_charged_on_duration": 158396.0,
+    "screen_unlock_duration": 129227.0
+  },
+  {
+    "guid": "762",
+    "model": "LG-K200",
+    "screen_on_duration": 39811.0,
+    "battery_charged_on_duration": 125223.0,
+    "screen_unlock_duration": 32887.0
+  },
+  {
+    "guid": "763",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 63438.0,
+    "battery_charged_on_duration": 80642.0,
+    "screen_unlock_duration": 58651.0
+  },
+  {
+    "guid": "764",
+    "model": "Lenovo L18021",
+    "screen_on_duration": 0.0,
+    "battery_charged_on_duration": 152739.0,
+    "screen_unlock_duration": 352328.0
+  },
+  {
+    "guid": "765",
+    "model": "SM-J111M",
+    "screen_on_duration": 109054.0,
+    "battery_charged_on_duration": 49090.0,
+    "screen_unlock_duration": 59914.0
+  },
+  {
+    "guid": "766",
+    "model": "vivo 1811",
+    "screen_on_duration": 106613.0,
+    "battery_charged_on_duration": 28180.0,
+    "screen_unlock_duration": 101682.0
+  },
+  {
+    "guid": "767",
+    "model": "Redmi 5A",
+    "screen_on_duration": 102183.0,
+    "battery_charged_on_duration": 103938.0,
+    "screen_unlock_duration": 83619.0
+  },
+  {
+    "guid": "768",
+    "model": "meizu C9",
+    "screen_on_duration": 62197.0,
+    "battery_charged_on_duration": 30188.0,
+    "screen_unlock_duration": 61817.0
+  },
+  {
+    "guid": "769",
+    "model": "Mi 4i",
+    "screen_on_duration": 16476.0,
+    "battery_charged_on_duration": 30531.0,
+    "screen_unlock_duration": 15880.0
+  },
+  {
+    "guid": "770",
+    "model": "CPH1803",
+    "screen_on_duration": 46078.0,
+    "battery_charged_on_duration": 2768.0,
+    "screen_unlock_duration": 51712.0
+  },
+  {
+    "guid": "771",
+    "model": "vivo 1907",
+    "screen_on_duration": 312349.0,
+    "battery_charged_on_duration": 77429.0,
+    "screen_unlock_duration": 280381.0
+  },
+  {
+    "guid": "772",
+    "model": "RMX1941",
+    "screen_on_duration": 149297.0,
+    "battery_charged_on_duration": 163953.0,
+    "screen_unlock_duration": 142604.0
+  },
+  {
+    "guid": "773",
+    "model": "CPH1901",
+    "screen_on_duration": 105532.0,
+    "battery_charged_on_duration": 60294.0,
+    "screen_unlock_duration": 104815.0
+  },
+  {
+    "guid": "774",
+    "model": "CPH1803",
+    "screen_on_duration": 611121.0,
+    "battery_charged_on_duration": 14925.0,
+    "screen_unlock_duration": 62921.0
+  },
+  {
+    "guid": "775",
+    "model": "SM-J120G",
+    "screen_on_duration": 216027.0,
+    "battery_charged_on_duration": 179070.0,
+    "screen_unlock_duration": 195581.0
+  },
+  {
+    "guid": "776",
+    "model": "TA-1044",
+    "screen_on_duration": 397735.0,
+    "battery_charged_on_duration": 37893.0,
+    "screen_unlock_duration": 413215.0
+  },
+  {
+    "guid": "777",
+    "model": "vivo 1904",
+    "screen_on_duration": 138249.0,
+    "battery_charged_on_duration": 46333.0,
+    "screen_unlock_duration": 120753.0
+  },
+  {
+    "guid": "778",
+    "model": "SM-G530BT",
+    "screen_on_duration": 75562.0,
+    "battery_charged_on_duration": 28759.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "779",
+    "model": "Coolpad E502",
+    "screen_on_duration": 89125.0,
+    "battery_charged_on_duration": 9454.0,
+    "screen_unlock_duration": 87898.0
+  },
+  {
+    "guid": "780",
+    "model": "SM-G530H",
+    "screen_on_duration": 133633.0,
+    "battery_charged_on_duration": 58133.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "781",
+    "model": "SM-G610M",
+    "screen_on_duration": 116514.0,
+    "battery_charged_on_duration": 35155.0,
+    "screen_unlock_duration": 309343.0
+  },
+  {
+    "guid": "782",
+    "model": "SM-A205F",
+    "screen_on_duration": 112637.0,
+    "battery_charged_on_duration": 48207.0,
+    "screen_unlock_duration": 83965.0
+  },
+  {
+    "guid": "783",
+    "model": "SM-J260G",
+    "screen_on_duration": 92275.0,
+    "battery_charged_on_duration": 92556.0,
+    "screen_unlock_duration": 93693.0
+  },
+  {
+    "guid": "784",
+    "model": "vivo 1819",
+    "screen_on_duration": 240928.0,
+    "battery_charged_on_duration": 124747.0,
+    "screen_unlock_duration": 237046.0
+  },
+  {
+    "guid": "785",
+    "model": "BG2-U01",
+    "screen_on_duration": 61856.0,
+    "battery_charged_on_duration": 95632.0,
+    "screen_unlock_duration": 61767.0
+  },
+  {
+    "guid": "786",
+    "model": "SM-A520F",
+    "screen_on_duration": 341050.0,
+    "battery_charged_on_duration": 348565.0,
+    "screen_unlock_duration": 279456.0
+  },
+  {
+    "guid": "787",
+    "model": "CPH1923",
+    "screen_on_duration": 67534.0,
+    "battery_charged_on_duration": 37797.0,
+    "screen_unlock_duration": 60596.0
+  },
+  {
+    "guid": "788",
+    "model": "CPH1909",
+    "screen_on_duration": 125912.0,
+    "battery_charged_on_duration": 187967.0,
+    "screen_unlock_duration": 128045.0
+  },
+  {
+    "guid": "789",
+    "model": "SM-J610G",
+    "screen_on_duration": 245502.0,
+    "battery_charged_on_duration": 92230.0,
+    "screen_unlock_duration": 160554.0
+  },
+  {
+    "guid": "790",
+    "model": "SM-A107M",
+    "screen_on_duration": 142612.0,
+    "battery_charged_on_duration": 462863.0,
+    "screen_unlock_duration": 96205.0
+  },
+  {
+    "guid": "791",
+    "model": "SM-J610G",
+    "screen_on_duration": 117329.0,
+    "battery_charged_on_duration": 211741.0,
+    "screen_unlock_duration": 131223.0
+  },
+  {
+    "guid": "792",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 234087.0,
+    "battery_charged_on_duration": 241640.0,
+    "screen_unlock_duration": 223059.0
+  },
+  {
+    "guid": "793",
+    "model": "Redmi Note 3",
+    "screen_on_duration": 87323.0,
+    "battery_charged_on_duration": 179176.0,
+    "screen_unlock_duration": 83545.0
+  },
+  {
+    "guid": "794",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 196009.0,
+    "battery_charged_on_duration": 108832.0,
+    "screen_unlock_duration": 182102.0
+  },
+  {
+    "guid": "795",
+    "model": "SM-G531H",
+    "screen_on_duration": 9179.0,
+    "battery_charged_on_duration": 20374.0,
+    "screen_unlock_duration": 18795.0
+  },
+  {
+    "guid": "796",
+    "model": "Redmi 5",
+    "screen_on_duration": 185335.0,
+    "battery_charged_on_duration": 59568.0,
+    "screen_unlock_duration": 164773.0
+  },
+  {
+    "guid": "797",
+    "model": "SM-A105M",
+    "screen_on_duration": 106744.0,
+    "battery_charged_on_duration": 28741.0,
+    "screen_unlock_duration": 94768.0
+  },
+  {
+    "guid": "798",
+    "model": "NX551J",
+    "screen_on_duration": 71851.0,
+    "battery_charged_on_duration": 39102.0,
+    "screen_unlock_duration": 161587.0
+  },
+  {
+    "guid": "799",
+    "model": "CPH1803",
+    "screen_on_duration": 244512.0,
+    "battery_charged_on_duration": 1537.0,
+    "screen_unlock_duration": 241531.0
+  },
+  {
+    "guid": "800",
+    "model": "SM-G570M",
+    "screen_on_duration": 85821.0,
+    "battery_charged_on_duration": 27791.0,
+    "screen_unlock_duration": 81313.0
+  },
+  {
+    "guid": "801",
+    "model": "SM-J510MN",
+    "screen_on_duration": 155854.0,
+    "battery_charged_on_duration": 20696.0,
+    "screen_unlock_duration": 155018.0
+  },
+  {
+    "guid": "802",
+    "model": "CPH1819",
+    "screen_on_duration": 219558.0,
+    "battery_charged_on_duration": 128383.0,
+    "screen_unlock_duration": 246967.0
+  },
+  {
+    "guid": "803",
+    "model": "CPH1931",
+    "screen_on_duration": 113750.0,
+    "battery_charged_on_duration": 61132.0,
+    "screen_unlock_duration": 170119.0
+  },
+  {
+    "guid": "804",
+    "model": "Redmi Note 8 Pro",
+    "screen_on_duration": 62381.0,
+    "battery_charged_on_duration": 16509.0,
+    "screen_unlock_duration": 54814.0
+  },
+  {
+    "guid": "805",
+    "model": "1201",
+    "screen_on_duration": 228388.0,
+    "battery_charged_on_duration": 154227.0,
+    "screen_unlock_duration": 307454.0
+  },
+  {
+    "guid": "806",
+    "model": "Redmi S2",
+    "screen_on_duration": 174279.0,
+    "battery_charged_on_duration": 190111.0,
+    "screen_unlock_duration": 169721.0
+  },
+  {
+    "guid": "807",
+    "model": "Redmi 5",
+    "screen_on_duration": 40127.0,
+    "battery_charged_on_duration": 35676.0,
+    "screen_unlock_duration": 38609.0
+  },
+  {
+    "guid": "808",
+    "model": "vivo 1811",
+    "screen_on_duration": 126458.0,
+    "battery_charged_on_duration": 26015.0,
+    "screen_unlock_duration": 125137.0
+  },
+  {
+    "guid": "809",
+    "model": "SM-J260M",
+    "screen_on_duration": 263497.0,
+    "battery_charged_on_duration": 46458.0,
+    "screen_unlock_duration": 137774.0
+  },
+  {
+    "guid": "810",
+    "model": "vivo 1910",
+    "screen_on_duration": 59339.0,
+    "battery_charged_on_duration": 3785.0,
+    "screen_unlock_duration": 59228.0
+  },
+  {
+    "guid": "811",
+    "model": "vivo 1817",
+    "screen_on_duration": 208768.0,
+    "battery_charged_on_duration": 102255.0,
+    "screen_unlock_duration": 192908.0
+  },
+  {
+    "guid": "812",
+    "model": "moto g(7)",
+    "screen_on_duration": 415035.0,
+    "battery_charged_on_duration": 47746.0,
+    "screen_unlock_duration": 282115.0
+  },
+  {
+    "guid": "813",
+    "model": "moto e5 play",
+    "screen_on_duration": 132505.0,
+    "battery_charged_on_duration": 19662.0,
+    "screen_unlock_duration": 175502.0
+  },
+  {
+    "guid": "814",
+    "model": "SM-P580",
+    "screen_on_duration": 213995.0,
+    "battery_charged_on_duration": 66127.0,
+    "screen_unlock_duration": 145487.0
+  },
+  {
+    "guid": "815",
+    "model": "ASUS_X00TD",
+    "screen_on_duration": 166727.0,
+    "battery_charged_on_duration": 118495.0,
+    "screen_unlock_duration": 173812.0
+  },
+  {
+    "guid": "816",
+    "model": "SM-G570M",
+    "screen_on_duration": 259690.0,
+    "battery_charged_on_duration": 93951.0,
+    "screen_unlock_duration": 255925.0
+  },
+  {
+    "guid": "817",
+    "model": "SM-A605G",
+    "screen_on_duration": 200128.0,
+    "battery_charged_on_duration": 96307.0,
+    "screen_unlock_duration": 187062.0
+  },
+  {
+    "guid": "818",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 270551.0,
+    "battery_charged_on_duration": 203221.0,
+    "screen_unlock_duration": 238383.0
+  },
+  {
+    "guid": "819",
+    "model": "Redmi Note 4X",
+    "screen_on_duration": 134603.0,
+    "battery_charged_on_duration": 72758.0,
+    "screen_unlock_duration": 84559.0
+  },
+  {
+    "guid": "820",
+    "model": "CPH1909",
+    "screen_on_duration": 195290.0,
+    "battery_charged_on_duration": 41929.0,
+    "screen_unlock_duration": 170648.0
+  },
+  {
+    "guid": "821",
+    "model": "C6906",
+    "screen_on_duration": 164080.0,
+    "battery_charged_on_duration": 37324.0,
+    "screen_unlock_duration": 29050.0
+  },
+  {
+    "guid": "822",
+    "model": "CPH1801",
+    "screen_on_duration": 128984.0,
+    "battery_charged_on_duration": 153476.0,
+    "screen_unlock_duration": 128229.0
+  },
+  {
+    "guid": "823",
+    "model": "SM-G610F",
+    "screen_on_duration": 119200.0,
+    "battery_charged_on_duration": 120488.0,
+    "screen_unlock_duration": 153036.0
+  },
+  {
+    "guid": "824",
+    "model": "CPH1729",
+    "screen_on_duration": 62835.0,
+    "battery_charged_on_duration": 63716.0,
+    "screen_unlock_duration": 58266.0
+  },
+  {
+    "guid": "825",
+    "model": "Mi A1",
+    "screen_on_duration": 281497.0,
+    "battery_charged_on_duration": 732826.0,
+    "screen_unlock_duration": 399753.0
+  },
+  {
+    "guid": "826",
+    "model": "ASUS_Z00RD",
+    "screen_on_duration": 5608.0,
+    "battery_charged_on_duration": 12490.0,
+    "screen_unlock_duration": 4830.0
+  },
+  {
+    "guid": "827",
+    "model": "moto g(6) plus",
+    "screen_on_duration": 124697.0,
+    "battery_charged_on_duration": 33554.0,
+    "screen_unlock_duration": 99336.0
+  },
+  {
+    "guid": "828",
+    "model": "vivo 1820",
+    "screen_on_duration": 17471.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 13497.0
+  },
+  {
+    "guid": "829",
+    "model": "SM-C710F",
+    "screen_on_duration": 324783.0,
+    "battery_charged_on_duration": 280525.0,
+    "screen_unlock_duration": 318151.0
+  },
+  {
+    "guid": "830",
+    "model": "SM-A605G",
+    "screen_on_duration": 152759.0,
+    "battery_charged_on_duration": 32731.0,
+    "screen_unlock_duration": 136561.0
+  },
+  {
+    "guid": "831",
+    "model": "SM-M305M",
+    "screen_on_duration": 112871.0,
+    "battery_charged_on_duration": 40808.0,
+    "screen_unlock_duration": 161498.0
+  },
+  {
+    "guid": "832",
+    "model": "Redmi 4",
+    "screen_on_duration": 192161.0,
+    "battery_charged_on_duration": 154213.0,
+    "screen_unlock_duration": 61032.0
+  },
+  {
+    "guid": "833",
+    "model": "Nexus 5",
+    "screen_on_duration": 4519.0,
+    "battery_charged_on_duration": 11341.0,
+    "screen_unlock_duration": 24703.0
+  },
+  {
+    "guid": "834",
+    "model": "RMX2030",
+    "screen_on_duration": 203956.0,
+    "battery_charged_on_duration": 75071.0,
+    "screen_unlock_duration": 199524.0
+  },
+  {
+    "guid": "835",
+    "model": "vivo 1910",
+    "screen_on_duration": 86027.0,
+    "battery_charged_on_duration": 103634.0,
+    "screen_unlock_duration": 80445.0
+  },
+  {
+    "guid": "836",
+    "model": "SM-G610F",
+    "screen_on_duration": 24709.0,
+    "battery_charged_on_duration": 39978.0,
+    "screen_unlock_duration": 22513.0
+  },
+  {
+    "guid": "837",
+    "model": "Moto G (5)",
+    "screen_on_duration": 70681.0,
+    "battery_charged_on_duration": 30270.0,
+    "screen_unlock_duration": 268114.0
+  },
+  {
+    "guid": "838",
+    "model": "MRD-LX3",
+    "screen_on_duration": 54605.0,
+    "battery_charged_on_duration": 108491.0,
+    "screen_unlock_duration": 53035.0
+  },
+  {
+    "guid": "839",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 135787.0,
+    "battery_charged_on_duration": 219981.0,
+    "screen_unlock_duration": 132115.0
+  },
+  {
+    "guid": "840",
+    "model": "SM-J260M",
+    "screen_on_duration": 102361.0,
+    "battery_charged_on_duration": 167738.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "841",
+    "model": "A37f",
+    "screen_on_duration": 68222.0,
+    "battery_charged_on_duration": 20666.0,
+    "screen_unlock_duration": 43903.0
+  },
+  {
+    "guid": "842",
+    "model": "LM-X410.F",
+    "screen_on_duration": 56265.0,
+    "battery_charged_on_duration": 42705.0,
+    "screen_unlock_duration": 58376.0
+  },
+  {
+    "guid": "843",
+    "model": "Redmi S2",
+    "screen_on_duration": 188691.0,
+    "battery_charged_on_duration": 82754.0,
+    "screen_unlock_duration": 171516.0
+  },
+  {
+    "guid": "844",
+    "model": "moto g(7) power",
+    "screen_on_duration": 83098.0,
+    "battery_charged_on_duration": 31575.0,
+    "screen_unlock_duration": 104117.0
+  },
+  {
+    "guid": "845",
+    "model": "CPH1909",
+    "screen_on_duration": 131795.0,
+    "battery_charged_on_duration": 54171.0,
+    "screen_unlock_duration": 201869.0
+  },
+  {
+    "guid": "846",
+    "model": "CPH1909",
+    "screen_on_duration": 67377.0,
+    "battery_charged_on_duration": 19656.0,
+    "screen_unlock_duration": 68341.0
+  },
+  {
+    "guid": "847",
+    "model": "vivo 1904",
+    "screen_on_duration": 216793.0,
+    "battery_charged_on_duration": 17648.0,
+    "screen_unlock_duration": 207912.0
+  },
+  {
+    "guid": "848",
+    "model": "vivo 1904",
+    "screen_on_duration": 33323.0,
+    "battery_charged_on_duration": 68040.0,
+    "screen_unlock_duration": 20065.0
+  },
+  {
+    "guid": "849",
+    "model": "Redmi 5A",
+    "screen_on_duration": 12241.0,
+    "battery_charged_on_duration": 2084.0,
+    "screen_unlock_duration": 10245.0
+  },
+  {
+    "guid": "850",
+    "model": "VTR-L29",
+    "screen_on_duration": 120752.0,
+    "battery_charged_on_duration": 4710.0,
+    "screen_unlock_duration": 116009.0
+  },
+  {
+    "guid": "851",
+    "model": "Redmi Note 2",
+    "screen_on_duration": 124490.0,
+    "battery_charged_on_duration": 114500.0,
+    "screen_unlock_duration": 122031.0
+  },
+  {
+    "guid": "852",
+    "model": "ASUS_X00DDB",
+    "screen_on_duration": 303087.0,
+    "battery_charged_on_duration": 188756.0,
+    "screen_unlock_duration": 320188.0
+  },
+  {
+    "guid": "853",
+    "model": "CPH1909",
+    "screen_on_duration": 178013.0,
+    "battery_charged_on_duration": 45962.0,
+    "screen_unlock_duration": 110559.0
+  },
+  {
+    "guid": "854",
+    "model": "SM-G600FY",
+    "screen_on_duration": 117580.0,
+    "battery_charged_on_duration": 92310.0,
+    "screen_unlock_duration": 120148.0
+  },
+  {
+    "guid": "855",
+    "model": "vivo 1820",
+    "screen_on_duration": 39555.0,
+    "battery_charged_on_duration": 17851.0,
+    "screen_unlock_duration": 38227.0
+  },
+  {
+    "guid": "856",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 21754.0,
+    "battery_charged_on_duration": 5981.0,
+    "screen_unlock_duration": 17194.0
+  },
+  {
+    "guid": "857",
+    "model": "ASUS_X00LD",
+    "screen_on_duration": 330639.0,
+    "battery_charged_on_duration": 81080.0,
+    "screen_unlock_duration": 218981.0
+  },
+  {
+    "guid": "858",
+    "model": "SM-G532G",
+    "screen_on_duration": 29391.0,
+    "battery_charged_on_duration": 49447.0,
+    "screen_unlock_duration": 77552.0
+  },
+  {
+    "guid": "859",
+    "model": "SM-A305G",
+    "screen_on_duration": 122917.0,
+    "battery_charged_on_duration": 44114.0,
+    "screen_unlock_duration": 93406.0
+  },
+  {
+    "guid": "860",
+    "model": "A37f",
+    "screen_on_duration": 22229.0,
+    "battery_charged_on_duration": 28620.0,
+    "screen_unlock_duration": 36293.0
+  },
+  {
+    "guid": "861",
+    "model": "CPH1819",
+    "screen_on_duration": 178644.0,
+    "battery_charged_on_duration": 550066.0,
+    "screen_unlock_duration": 197842.0
+  },
+  {
+    "guid": "862",
+    "model": "CPH1911",
+    "screen_on_duration": 184184.0,
+    "battery_charged_on_duration": 42996.0,
+    "screen_unlock_duration": 221695.0
+  },
+  {
+    "guid": "863",
+    "model": "SM-A505F",
+    "screen_on_duration": 188657.0,
+    "battery_charged_on_duration": 57132.0,
+    "screen_unlock_duration": 275027.0
+  },
+  {
+    "guid": "864",
+    "model": "Redmi 7",
+    "screen_on_duration": 175036.0,
+    "battery_charged_on_duration": 143225.0,
+    "screen_unlock_duration": 154084.0
+  },
+  {
+    "guid": "865",
+    "model": "vivo 1807",
+    "screen_on_duration": 171083.0,
+    "battery_charged_on_duration": 70227.0,
+    "screen_unlock_duration": 123416.0
+  },
+  {
+    "guid": "866",
+    "model": "moto e5 play",
+    "screen_on_duration": 21904.0,
+    "battery_charged_on_duration": 6883.0,
+    "screen_unlock_duration": 17577.0
+  },
+  {
+    "guid": "867",
+    "model": "vivo 1819",
+    "screen_on_duration": 63819.0,
+    "battery_charged_on_duration": 13910.0,
+    "screen_unlock_duration": 63728.0
+  },
+  {
+    "guid": "868",
+    "model": "Moto G (5) Plus",
+    "screen_on_duration": 151062.0,
+    "battery_charged_on_duration": 196770.0,
+    "screen_unlock_duration": 161318.0
+  },
+  {
+    "guid": "869",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 176155.0,
+    "battery_charged_on_duration": 192669.0,
+    "screen_unlock_duration": 108600.0
+  },
+  {
+    "guid": "870",
+    "model": "BGO-DL09",
+    "screen_on_duration": 71882.0,
+    "battery_charged_on_duration": 5845.0,
+    "screen_unlock_duration": 74549.0
+  },
+  {
+    "guid": "871",
+    "model": "vivo 1904",
+    "screen_on_duration": 168927.0,
+    "battery_charged_on_duration": 38740.0,
+    "screen_unlock_duration": 98835.0
+  },
+  {
+    "guid": "872",
+    "model": "SM-A107F",
+    "screen_on_duration": 105559.0,
+    "battery_charged_on_duration": 58640.0,
+    "screen_unlock_duration": 99461.0
+  },
+  {
+    "guid": "873",
+    "model": "SM-G920I",
+    "screen_on_duration": 112294.0,
+    "battery_charged_on_duration": 693298.0,
+    "screen_unlock_duration": 112632.0
+  },
+  {
+    "guid": "874",
+    "model": "vivo 1820",
+    "screen_on_duration": 154391.0,
+    "battery_charged_on_duration": 89268.0,
+    "screen_unlock_duration": 142133.0
+  },
+  {
+    "guid": "875",
+    "model": "vivo 1904",
+    "screen_on_duration": 172003.0,
+    "battery_charged_on_duration": 105439.0,
+    "screen_unlock_duration": 163804.0
+  },
+  {
+    "guid": "876",
+    "model": "vivo 1814",
+    "screen_on_duration": 356223.0,
+    "battery_charged_on_duration": 7539.0,
+    "screen_unlock_duration": 354618.0
+  },
+  {
+    "guid": "877",
+    "model": "vivo 1816",
+    "screen_on_duration": 223675.0,
+    "battery_charged_on_duration": 91387.0,
+    "screen_unlock_duration": 223453.0
+  },
+  {
+    "guid": "878",
+    "model": "vivo 1724",
+    "screen_on_duration": 40718.0,
+    "battery_charged_on_duration": 54213.0,
+    "screen_unlock_duration": 39586.0
+  },
+  {
+    "guid": "879",
+    "model": "RMX1911",
+    "screen_on_duration": 195196.0,
+    "battery_charged_on_duration": 74692.0,
+    "screen_unlock_duration": 281573.0
+  },
+  {
+    "guid": "880",
+    "model": "SM-G925T",
+    "screen_on_duration": 13292.0,
+    "battery_charged_on_duration": 274928.0,
+    "screen_unlock_duration": 46938.0
+  },
+  {
+    "guid": "881",
+    "model": "SM-J250F",
+    "screen_on_duration": 268251.0,
+    "battery_charged_on_duration": 52105.0,
+    "screen_unlock_duration": 256821.0
+  },
+  {
+    "guid": "882",
+    "model": "SM-G570M",
+    "screen_on_duration": 183150.0,
+    "battery_charged_on_duration": 508416.0,
+    "screen_unlock_duration": 132102.0
+  },
+  {
+    "guid": "883",
+    "model": "Redmi 5A",
+    "screen_on_duration": 30754.0,
+    "battery_charged_on_duration": 35631.0,
+    "screen_unlock_duration": 27039.0
+  },
+  {
+    "guid": "884",
+    "model": "LG-M400",
+    "screen_on_duration": 161363.0,
+    "battery_charged_on_duration": 647779.0,
+    "screen_unlock_duration": 282429.0
+  },
+  {
+    "guid": "885",
+    "model": "SM-J250M",
+    "screen_on_duration": 178770.0,
+    "battery_charged_on_duration": 231922.0,
+    "screen_unlock_duration": 171360.0
+  },
+  {
+    "guid": "886",
+    "model": "vivo 1820",
+    "screen_on_duration": 223481.0,
+    "battery_charged_on_duration": 260942.0,
+    "screen_unlock_duration": 210789.0
+  },
+  {
+    "guid": "887",
+    "model": "CPH1909",
+    "screen_on_duration": 157882.0,
+    "battery_charged_on_duration": 102354.0,
+    "screen_unlock_duration": 155956.0
+  },
+  {
+    "guid": "888",
+    "model": "MotoG3",
+    "screen_on_duration": 131468.0,
+    "battery_charged_on_duration": 177124.0,
+    "screen_unlock_duration": 161661.0
+  },
+  {
+    "guid": "889",
+    "model": "Redmi Note 4",
+    "screen_on_duration": 167565.0,
+    "battery_charged_on_duration": 90213.0,
+    "screen_unlock_duration": 109998.0
+  },
+  {
+    "guid": "890",
+    "model": "CPH1853",
+    "screen_on_duration": 77280.0,
+    "battery_charged_on_duration": 80788.0,
+    "screen_unlock_duration": 66358.0
+  },
+  {
+    "guid": "891",
+    "model": "SM-J810F",
+    "screen_on_duration": 247062.0,
+    "battery_charged_on_duration": 125826.0,
+    "screen_unlock_duration": 277311.0
+  },
+  {
+    "guid": "892",
+    "model": "A37f",
+    "screen_on_duration": 77462.0,
+    "battery_charged_on_duration": 41472.0,
+    "screen_unlock_duration": 73090.0
+  },
+  {
+    "guid": "893",
+    "model": "SM-G570M",
+    "screen_on_duration": 209713.0,
+    "battery_charged_on_duration": 154640.0,
+    "screen_unlock_duration": 179724.0
+  },
+  {
+    "guid": "894",
+    "model": "vivo 1807",
+    "screen_on_duration": 28097.0,
+    "battery_charged_on_duration": 84324.0,
+    "screen_unlock_duration": 27984.0
+  },
+  {
+    "guid": "895",
+    "model": "vivo 1606",
+    "screen_on_duration": 119041.0,
+    "battery_charged_on_duration": 42586.0,
+    "screen_unlock_duration": 116090.0
+  },
+  {
+    "guid": "896",
+    "model": "RMX1941",
+    "screen_on_duration": 80884.0,
+    "battery_charged_on_duration": 72152.0,
+    "screen_unlock_duration": 91675.0
+  },
+  {
+    "guid": "897",
+    "model": "CPH1909",
+    "screen_on_duration": 136916.0,
+    "battery_charged_on_duration": 64219.0,
+    "screen_unlock_duration": 330431.0
+  },
+  {
+    "guid": "898",
+    "model": "SM-J330G",
+    "screen_on_duration": 236308.0,
+    "battery_charged_on_duration": 292359.0,
+    "screen_unlock_duration": 217324.0
+  },
+  {
+    "guid": "899",
+    "model": "ATU-LX3",
+    "screen_on_duration": 114291.0,
+    "battery_charged_on_duration": 132970.0,
+    "screen_unlock_duration": 146829.0
+  },
+  {
+    "guid": "900",
+    "model": "CPH1969",
+    "screen_on_duration": 127750.0,
+    "battery_charged_on_duration": 17842.0,
+    "screen_unlock_duration": 132539.0
+  },
+  {
+    "guid": "901",
+    "model": "CPH1909",
+    "screen_on_duration": 65851.0,
+    "battery_charged_on_duration": 130531.0,
+    "screen_unlock_duration": 103066.0
+  },
+  {
+    "guid": "902",
+    "model": "Redmi 5A",
+    "screen_on_duration": 102733.0,
+    "battery_charged_on_duration": 331686.0,
+    "screen_unlock_duration": 96966.0
+  },
+  {
+    "guid": "903",
+    "model": "SM-A105G",
+    "screen_on_duration": 263728.0,
+    "battery_charged_on_duration": 42757.0,
+    "screen_unlock_duration": 248972.0
+  },
+  {
+    "guid": "904",
+    "model": "Redmi Note 3",
+    "screen_on_duration": 128530.0,
+    "battery_charged_on_duration": 315471.0,
+    "screen_unlock_duration": 124524.0
+  },
+  {
+    "guid": "905",
+    "model": "CPH1923",
+    "screen_on_duration": 145980.0,
+    "battery_charged_on_duration": 88788.0,
+    "screen_unlock_duration": 180452.0
+  },
+  {
+    "guid": "906",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 133003.0,
+    "battery_charged_on_duration": 149160.0,
+    "screen_unlock_duration": 133519.0
+  },
+  {
+    "guid": "907",
+    "model": "SM-J700M",
+    "screen_on_duration": 152497.0,
+    "battery_charged_on_duration": 30756.0,
+    "screen_unlock_duration": 63472.0
+  },
+  {
+    "guid": "908",
+    "model": "LG-K430",
+    "screen_on_duration": 124214.0,
+    "battery_charged_on_duration": 69353.0,
+    "screen_unlock_duration": 69289.0
+  },
+  {
+    "guid": "909",
+    "model": "Redmi S2",
+    "screen_on_duration": 20569.0,
+    "battery_charged_on_duration": 53777.0,
+    "screen_unlock_duration": 20500.0
+  },
+  {
+    "guid": "910",
+    "model": "SM-J720F",
+    "screen_on_duration": 209732.0,
+    "battery_charged_on_duration": 98837.0,
+    "screen_unlock_duration": 257125.0
+  },
+  {
+    "guid": "911",
+    "model": "ASUS_X01BDA",
+    "screen_on_duration": 65830.0,
+    "battery_charged_on_duration": 55004.0,
+    "screen_unlock_duration": 64976.0
+  },
+  {
+    "guid": "912",
+    "model": "CPH1909",
+    "screen_on_duration": 283589.0,
+    "battery_charged_on_duration": 74901.0,
+    "screen_unlock_duration": 290219.0
+  },
+  {
+    "guid": "913",
+    "model": "SM-G610F",
+    "screen_on_duration": 179582.0,
+    "battery_charged_on_duration": 77340.0,
+    "screen_unlock_duration": 219658.0
+  },
+  {
+    "guid": "914",
+    "model": "vivo 1820",
+    "screen_on_duration": 140054.0,
+    "battery_charged_on_duration": 92592.0,
+    "screen_unlock_duration": 76277.0
+  },
+  {
+    "guid": "915",
+    "model": "CPH1803",
+    "screen_on_duration": 151534.0,
+    "battery_charged_on_duration": 86878.0,
+    "screen_unlock_duration": 73196.0
+  },
+  {
+    "guid": "916",
+    "model": "unknown",
+    "screen_on_duration": 100693.0,
+    "battery_charged_on_duration": 154916.0,
+    "screen_unlock_duration": 117667.0
+  },
+  {
+    "guid": "917",
+    "model": "Redmi 4X",
+    "screen_on_duration": 159498.0,
+    "battery_charged_on_duration": 91701.0,
+    "screen_unlock_duration": 156824.0
+  },
+  {
+    "guid": "918",
+    "model": "SM-G610M",
+    "screen_on_duration": 172943.0,
+    "battery_charged_on_duration": 86320.0,
+    "screen_unlock_duration": 215889.0
+  },
+  {
+    "guid": "919",
+    "model": "SM-A107M",
+    "screen_on_duration": 307918.0,
+    "battery_charged_on_duration": 733167.0,
+    "screen_unlock_duration": 366272.0
+  },
+  {
+    "guid": "920",
+    "model": "moto g(6) play",
+    "screen_on_duration": 121110.0,
+    "battery_charged_on_duration": 5375.0,
+    "screen_unlock_duration": 121534.0
+  },
+  {
+    "guid": "921",
+    "model": "ASUS_X00TD",
+    "screen_on_duration": 159130.0,
+    "battery_charged_on_duration": 111896.0,
+    "screen_unlock_duration": 109941.0
+  },
+  {
+    "guid": "922",
+    "model": "SM-J610F",
+    "screen_on_duration": 236379.0,
+    "battery_charged_on_duration": 153951.0,
+    "screen_unlock_duration": 287901.0
+  },
+  {
+    "guid": "923",
+    "model": "SM-A520F",
+    "screen_on_duration": 50840.0,
+    "battery_charged_on_duration": 47683.0,
+    "screen_unlock_duration": 103946.0
+  },
+  {
+    "guid": "924",
+    "model": "SM-J260G",
+    "screen_on_duration": 212500.0,
+    "battery_charged_on_duration": 401057.0,
+    "screen_unlock_duration": 161315.0
+  },
+  {
+    "guid": "925",
+    "model": "CPH1819",
+    "screen_on_duration": 113034.0,
+    "battery_charged_on_duration": 52633.0,
+    "screen_unlock_duration": 160243.0
+  },
+  {
+    "guid": "926",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 207247.0,
+    "battery_charged_on_duration": 19432.0,
+    "screen_unlock_duration": 157110.0
+  },
+  {
+    "guid": "927",
+    "model": "vivo Y51",
+    "screen_on_duration": 63096.0,
+    "battery_charged_on_duration": 82616.0,
+    "screen_unlock_duration": 60390.0
+  },
+  {
+    "guid": "928",
+    "model": "Redmi 4",
+    "screen_on_duration": 149723.0,
+    "battery_charged_on_duration": 130973.0,
+    "screen_unlock_duration": 126099.0
+  },
+  {
+    "guid": "929",
+    "model": "SM-A205G",
+    "screen_on_duration": 38061.0,
+    "battery_charged_on_duration": 7842.0,
+    "screen_unlock_duration": 37325.0
+  },
+  {
+    "guid": "930",
+    "model": "SM-J330G",
+    "screen_on_duration": 318691.0,
+    "battery_charged_on_duration": 307905.0,
+    "screen_unlock_duration": 342249.0
+  },
+  {
+    "guid": "931",
+    "model": "SM-J320G",
+    "screen_on_duration": 92968.0,
+    "battery_charged_on_duration": 35398.0,
+    "screen_unlock_duration": 92188.0
+  },
+  {
+    "guid": "932",
+    "model": "SM-A750GN",
+    "screen_on_duration": 183459.0,
+    "battery_charged_on_duration": 174172.0,
+    "screen_unlock_duration": 201200.0
+  },
+  {
+    "guid": "933",
+    "model": "vivo 1603",
+    "screen_on_duration": 73380.0,
+    "battery_charged_on_duration": 23349.0,
+    "screen_unlock_duration": 80164.0
+  },
+  {
+    "guid": "934",
+    "model": "CPH1819",
+    "screen_on_duration": 179836.0,
+    "battery_charged_on_duration": 163006.0,
+    "screen_unlock_duration": 162762.0
+  },
+  {
+    "guid": "935",
+    "model": "CPH1909",
+    "screen_on_duration": 72974.0,
+    "battery_charged_on_duration": 60388.0,
+    "screen_unlock_duration": 80168.0
+  },
+  {
+    "guid": "936",
+    "model": "CPH1725",
+    "screen_on_duration": 193545.0,
+    "battery_charged_on_duration": 117136.0,
+    "screen_unlock_duration": 166840.0
+  },
+  {
+    "guid": "937",
+    "model": "vivo 1811",
+    "screen_on_duration": 125219.0,
+    "battery_charged_on_duration": 47813.0,
+    "screen_unlock_duration": 124703.0
+  },
+  {
+    "guid": "938",
+    "model": "CPH1923",
+    "screen_on_duration": 106005.0,
+    "battery_charged_on_duration": 42138.0,
+    "screen_unlock_duration": 137563.0
+  },
+  {
+    "guid": "939",
+    "model": "Redmi Note 7",
+    "screen_on_duration": 90780.0,
+    "battery_charged_on_duration": 78199.0,
+    "screen_unlock_duration": 60706.0
+  },
+  {
+    "guid": "940",
+    "model": "MotoG3",
+    "screen_on_duration": 234903.0,
+    "battery_charged_on_duration": 143816.0,
+    "screen_unlock_duration": 128234.0
+  },
+  {
+    "guid": "941",
+    "model": "A1601",
+    "screen_on_duration": 80957.0,
+    "battery_charged_on_duration": 59102.0,
+    "screen_unlock_duration": 71348.0
+  },
+  {
+    "guid": "942",
+    "model": "SM-N9600",
+    "screen_on_duration": 221543.0,
+    "battery_charged_on_duration": 228911.0,
+    "screen_unlock_duration": 220964.0
+  },
+  {
+    "guid": "943",
+    "model": "CPH1969",
+    "screen_on_duration": 281127.0,
+    "battery_charged_on_duration": 62599.0,
+    "screen_unlock_duration": 395600.0
+  },
+  {
+    "guid": "944",
+    "model": "vivo 1820",
+    "screen_on_duration": 309321.0,
+    "battery_charged_on_duration": 256874.0,
+    "screen_unlock_duration": 252992.0
+  },
+  {
+    "guid": "945",
+    "model": "SM-A305G",
+    "screen_on_duration": 142292.0,
+    "battery_charged_on_duration": 52284.0,
+    "screen_unlock_duration": 123684.0
+  },
+  {
+    "guid": "946",
+    "model": "SM-J400M",
+    "screen_on_duration": 232176.0,
+    "battery_charged_on_duration": 66989.0,
+    "screen_unlock_duration": 223022.0
+  },
+  {
+    "guid": "947",
+    "model": "vivo 1820",
+    "screen_on_duration": 103458.0,
+    "battery_charged_on_duration": 71355.0,
+    "screen_unlock_duration": 99236.0
+  },
+  {
+    "guid": "948",
+    "model": "TRT-LX3",
+    "screen_on_duration": 146578.0,
+    "battery_charged_on_duration": 46860.0,
+    "screen_unlock_duration": 158921.0
+  },
+  {
+    "guid": "949",
+    "model": "SM-A205F",
+    "screen_on_duration": 215075.0,
+    "battery_charged_on_duration": 116570.0,
+    "screen_unlock_duration": 158036.0
+  },
+  {
+    "guid": "950",
+    "model": "SM-J400F",
+    "screen_on_duration": 78937.0,
+    "battery_charged_on_duration": 71285.0,
+    "screen_unlock_duration": 14856.0
+  },
+  {
+    "guid": "951",
+    "model": "SM-G935F",
+    "screen_on_duration": 231145.0,
+    "battery_charged_on_duration": 316849.0,
+    "screen_unlock_duration": 43865.0
+  },
+  {
+    "guid": "952",
+    "model": "SM-J730G",
+    "screen_on_duration": 127736.0,
+    "battery_charged_on_duration": 282675.0,
+    "screen_unlock_duration": 127528.0
+  },
+  {
+    "guid": "953",
+    "model": "Redmi Note 5",
+    "screen_on_duration": 177693.0,
+    "battery_charged_on_duration": 58621.0,
+    "screen_unlock_duration": 140658.0
+  },
+  {
+    "guid": "954",
+    "model": "SM-G570M",
+    "screen_on_duration": 24727.0,
+    "battery_charged_on_duration": 60487.0,
+    "screen_unlock_duration": 0.0
+  },
+  {
+    "guid": "955",
+    "model": "MI 8 Lite",
+    "screen_on_duration": 74285.0,
+    "battery_charged_on_duration": 126334.0,
+    "screen_unlock_duration": 107679.0
+  },
+  {
+    "guid": "956",
+    "model": "CPH1909",
+    "screen_on_duration": 133771.0,
+    "battery_charged_on_duration": 44343.0,
+    "screen_unlock_duration": 125703.0
+  },
+  {
+    "guid": "957",
+    "model": "CPH1605",
+    "screen_on_duration": 108248.0,
+    "battery_charged_on_duration": 98321.0,
+    "screen_unlock_duration": 94385.0
+  },
+  {
+    "guid": "958",
+    "model": "CPH1803",
+    "screen_on_duration": 111489.0,
+    "battery_charged_on_duration": 88595.0,
+    "screen_unlock_duration": 116849.0
+  },
+  {
+    "guid": "959",
+    "model": "CPH1909",
+    "screen_on_duration": 87931.0,
+    "battery_charged_on_duration": 48887.0,
+    "screen_unlock_duration": 84264.0
+  },
+  {
+    "guid": "960",
+    "model": "SM-G355H",
+    "screen_on_duration": 43149.0,
+    "battery_charged_on_duration": 38780.0,
+    "screen_unlock_duration": 43352.0
+  },
+  {
+    "guid": "961",
+    "model": "SM-A805F",
+    "screen_on_duration": 199471.0,
+    "battery_charged_on_duration": 144871.0,
+    "screen_unlock_duration": 175276.0
+  },
+  {
+    "guid": "962",
+    "model": "SM-A510F",
+    "screen_on_duration": 360222.0,
+    "battery_charged_on_duration": 162425.0,
+    "screen_unlock_duration": 340612.0
+  },
+  {
+    "guid": "963",
+    "model": "Redmi 6A",
+    "screen_on_duration": 250817.0,
+    "battery_charged_on_duration": 198297.0,
+    "screen_unlock_duration": 213491.0
+  },
+  {
+    "guid": "964",
+    "model": "SM-G900H",
+    "screen_on_duration": 100369.0,
+    "battery_charged_on_duration": 78960.0,
+    "screen_unlock_duration": 17728.0
+  },
+  {
+    "guid": "965",
+    "model": "CPH1901",
+    "screen_on_duration": 166584.0,
+    "battery_charged_on_duration": 89312.0,
+    "screen_unlock_duration": 164327.0
+  },
+  {
+    "guid": "966",
+    "model": "SM-J415G",
+    "screen_on_duration": 38157.0,
+    "battery_charged_on_duration": 24291.0,
+    "screen_unlock_duration": 37177.0
+  },
+  {
+    "guid": "967",
+    "model": "SM-A300M",
+    "screen_on_duration": 530009.0,
+    "battery_charged_on_duration": 19284.0,
+    "screen_unlock_duration": 13218.0
+  },
+  {
+    "guid": "968",
+    "model": "Redmi 6",
+    "screen_on_duration": 149327.0,
+    "battery_charged_on_duration": 98778.0,
+    "screen_unlock_duration": 119795.0
+  },
+  {
+    "guid": "969",
+    "model": "Lenovo P1a42",
+    "screen_on_duration": 130422.0,
+    "battery_charged_on_duration": 126256.0,
+    "screen_unlock_duration": 99481.0
+  },
+  {
+    "guid": "970",
+    "model": "SM-J730G",
+    "screen_on_duration": 220902.0,
+    "battery_charged_on_duration": 193374.0,
+    "screen_unlock_duration": 243944.0
+  },
+  {
+    "guid": "971",
+    "model": "CPH1931",
+    "screen_on_duration": 138448.0,
+    "battery_charged_on_duration": 433727.0,
+    "screen_unlock_duration": 187469.0
+  },
+  {
+    "guid": "972",
+    "model": "vivo 1904",
+    "screen_on_duration": 13317.0,
+    "battery_charged_on_duration": 18133.0,
+    "screen_unlock_duration": 12215.0
+  },
+  {
+    "guid": "973",
+    "model": "CPH1823",
+    "screen_on_duration": 135274.0,
+    "battery_charged_on_duration": 40740.0,
+    "screen_unlock_duration": 152585.0
+  },
+  {
+    "guid": "974",
+    "model": "CPH1901",
+    "screen_on_duration": 150829.0,
+    "battery_charged_on_duration": 97406.0,
+    "screen_unlock_duration": 233492.0
+  },
+  {
+    "guid": "975",
+    "model": "vivo 1811",
+    "screen_on_duration": 254965.0,
+    "battery_charged_on_duration": 52581.0,
+    "screen_unlock_duration": 244797.0
+  },
+  {
+    "guid": "976",
+    "model": "SM-A207F",
+    "screen_on_duration": 127892.0,
+    "battery_charged_on_duration": 35527.0,
+    "screen_unlock_duration": 149672.0
+  },
+  {
+    "guid": "977",
+    "model": "CPH1725",
+    "screen_on_duration": 112944.0,
+    "battery_charged_on_duration": 61344.0,
+    "screen_unlock_duration": 105346.0
+  },
+  {
+    "guid": "978",
+    "model": "SM-J600G",
+    "screen_on_duration": 376091.0,
+    "battery_charged_on_duration": 110499.0,
+    "screen_unlock_duration": 367870.0
+  },
+  {
+    "guid": "979",
+    "model": "SM-J600G",
+    "screen_on_duration": 156628.0,
+    "battery_charged_on_duration": 168363.0,
+    "screen_unlock_duration": 154871.0
+  },
+  {
+    "guid": "980",
+    "model": "Redmi Note 5A",
+    "screen_on_duration": 127049.0,
+    "battery_charged_on_duration": 83064.0,
+    "screen_unlock_duration": 113997.0
+  },
+  {
+    "guid": "981",
+    "model": "SM-J600G",
+    "screen_on_duration": 381702.0,
+    "battery_charged_on_duration": 65807.0,
+    "screen_unlock_duration": 400553.0
+  },
+  {
+    "guid": "982",
+    "model": "5EQ",
+    "screen_on_duration": 140884.0,
+    "battery_charged_on_duration": 0.0,
+    "screen_unlock_duration": 122597.0
+  },
+  {
+    "guid": "983",
+    "model": "LM-X210",
+    "screen_on_duration": 119879.0,
+    "battery_charged_on_duration": 576195.0,
+    "screen_unlock_duration": 126288.0
+  },
+  {
+    "guid": "984",
+    "model": "Redmi 6A",
+    "screen_on_duration": 289935.0,
+    "battery_charged_on_duration": 179042.0,
+    "screen_unlock_duration": 279854.0
+  },
+  {
+    "guid": "985",
+    "model": "SM-G530BT",
+    "screen_on_duration": 141661.0,
+    "battery_charged_on_duration": 104468.0,
+    "screen_unlock_duration": 258580.0
+  },
+  {
+    "guid": "986",
+    "model": "Redmi Go",
+    "screen_on_duration": 42732.0,
+    "battery_charged_on_duration": 82374.0,
+    "screen_unlock_duration": 69397.0
+  },
+  {
+    "guid": "987",
+    "model": "SM-G935F",
+    "screen_on_duration": 130373.0,
+    "battery_charged_on_duration": 104163.0,
+    "screen_unlock_duration": 118244.0
+  },
+  {
+    "guid": "988",
+    "model": "SM-G570M",
+    "screen_on_duration": 280206.0,
+    "battery_charged_on_duration": 175742.0,
+    "screen_unlock_duration": 308416.0
+  },
+  {
+    "guid": "989",
+    "model": "CPH1937",
+    "screen_on_duration": 144634.0,
+    "battery_charged_on_duration": 46313.0,
+    "screen_unlock_duration": 118342.0
+  },
+  {
+    "guid": "990",
+    "model": "RMX1911",
+    "screen_on_duration": 290160.0,
+    "battery_charged_on_duration": 170007.0,
+    "screen_unlock_duration": 337894.0
+  },
+  {
+    "guid": "991",
+    "model": "MS50G",
+    "screen_on_duration": 176782.0,
+    "battery_charged_on_duration": 11198.0,
+    "screen_unlock_duration": 228404.0
+  },
+  {
+    "guid": "992",
+    "model": "vivo 1724",
+    "screen_on_duration": 72539.0,
+    "battery_charged_on_duration": 91394.0,
+    "screen_unlock_duration": 68614.0
+  },
+  {
+    "guid": "993",
+    "model": "LG-M250",
+    "screen_on_duration": 176918.0,
+    "battery_charged_on_duration": 69111.0,
+    "screen_unlock_duration": 35210.0
+  },
+  {
+    "guid": "994",
+    "model": "CPH1803",
+    "screen_on_duration": 83241.0,
+    "battery_charged_on_duration": 113322.0,
+    "screen_unlock_duration": 84842.0
+  },
+  {
+    "guid": "995",
+    "model": "CPH1937",
+    "screen_on_duration": 181153.0,
+    "battery_charged_on_duration": 123423.0,
+    "screen_unlock_duration": 240472.0
+  },
+  {
+    "guid": "996",
+    "model": "vivo 1817",
+    "screen_on_duration": 38982.0,
+    "battery_charged_on_duration": 20706.0,
+    "screen_unlock_duration": 36867.0
+  },
+  {
+    "guid": "997",
+    "model": "vivo 1817",
+    "screen_on_duration": 78702.0,
+    "battery_charged_on_duration": 98192.0,
+    "screen_unlock_duration": 74940.0
+  },
+  {
+    "guid": "998",
+    "model": "Redmi 6A",
+    "screen_on_duration": 465067.0,
+    "battery_charged_on_duration": 187695.0,
+    "screen_unlock_duration": 125328.0
+  },
+  {
+    "guid": "999",
+    "model": "SM-J600G",
+    "screen_on_duration": 24604.0,
+    "battery_charged_on_duration": 24862.0,
+    "screen_unlock_duration": 45000.0
+  }
+]
